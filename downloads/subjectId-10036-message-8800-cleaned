@@ -1,0 +1,2196 @@
+%BOM---------------------
+Date:10/28/1999 10:17:00 PM
+From:James Clarke
+
+I gave Unifirst a close look two weeks ago. It looks very attractive. Read the
+footnotes carefully, though. There is an accounting glitch here. But certainly
+that doesn't affect the growth story if you're looking long term. I've got to
+return to the financials and really model what the accounting glitch has done
+to earnings. (look at the footnote for depreciation of uniforms)
+
+Did anybody else have a huge week. Was this a value rally? I've been completely
+out of touch the last two days on a business trip. I guess maybe it was just
+coming to me - I had been getting absolutely creamed for the last six months.
+Clayton and Ambac up 15%, Sara Lee up 10%, Amazon down big (yeah, I know - I
+just can't cover this one - I covered Citigroup last week at 42 and change -
+thank God.)
+
+Mike, I will look with interest at your net-net screen. I thought I had the
+only one, but I use software that only professionals can afford (i.e. I don't
+pay for it). I still haven't filled my position - I bought about 1/3 of what I
+want, then the price ran up on me. If you picked this one up on your screen
+though, I'd be tempted to disclose it anyway. Not to promise that I will.
+
+I bought St. Joe at the open today. Thanks for the heads up. I put in the order
+last night right after I read Wright's post and then saw that the stock was
+only up to 23.
+
+If I had to put all my money on one stock and hold it for five years it would
+be Clayton Homes. Even at 10. My conviction level has increased significantly.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:10/28/1999 10:47:00 PM
+From:James Clarke
+
+Mike, that screen is incredible. Everyone on the thread is going to hate me for
+saying this, but FIND A WAY TO CHARGE FOR IT. YOU HAVE A UNIQUE PRODUCT. NOBODY
+ELSE DOES THIS.
+
+Or are you holding out for the IPO of DrMike.com. In that case, just get me
+1000 shares at the offering price, ok pal. I'll wash your car. I'll walk your
+dog...there are some things I won't do, even for money.
+
+You talk about the internet destroying opportunities. I start with the same raw
+list you do, and then do the same weeding you do (but I don't have to publish
+it, so its a lot less labor intensive - I cut out 2/3 of the list by sight -
+i.e. is there any way I would ever invest in this company no matter what the
+numbers - but I know the list you're starting with). The only way I know of
+that this list could have been generated before Mike found this free thing was
+with a VERY expensive product called Factset. Factset is a publicly traded
+company you can short. Game over for those guys in the long run if free
+screening is getting to this level.
+
+It also tells you something else. The Pensobscots aren't going to be there any
+more. This is market efficiency rearing its ugly head somewhere where it hurts
+me - in $10 million net-nets. You may be happy about this development, but this
+is not a good thing.
+
+All credit to Mike, though. He has truly broken new ground here. Once again,
+CHARGE FOR IT! A LOT. (I figure if you charge about $10,000 for your screen, I
+might still be able to buy my Pensbcots at 6. You make money, I make money.
+Win-win, right?) Or maybe the correct way to make money off this screen is to
+make me pay for you NOT to post it publicly.
+
+In all seriousness, this thread is going to go to new levels with that kind of
+raw material for everybody to work with. I look forward to seeing the posts in
+the next few weeks.
+
+And yes, the mystery net-net is on your list.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 12:12:00 AM
+From:Q.
+
+Mike, re. your net-net screen using StockQuest,
+
+I tried to duplicate your results using StockQuest data I downloaded today, but
+I ended up with nearly 3X the stocks as you.
+
+You said you found 47 under 66.67%.
+
+I came up with 157 stocks under 66.67% with the mechanical screen, and this
+dropped only to 133 when I added your extra criterion debt/equity < 0.5.
+
+I noticed that none of your stocks had a market cap under $2.5 M, whereas 47 of
+mine did. Eliminating those 47 super-tiny stocks reduced my list down to only
+86 stocks, which is still nearly twice as many as yours.
+
+I wonder if we did it differently?
+
+I hadn't used StockQuest in a long time, so maybe I did something wrong. Would
+you be kind enough to take a look at the following, and tell me if you did it
+differently?
+
+Here is the criterion I used:
+
+{MktCap}<0.66667*({workingcap}-{LTDebt})
+
+where the last two quantities are user-created variables that I defined as
+follows:
+{workingcap} = {CURASTQ}-{CURLIABQ}
+{LTDebt} = {DBTLT2EQQ}*{MKTCAP}/{PR2BOOKQ}
+
+note: all quantities that are not ratios are expressed by MarketGuide in
+millions.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 12:43:00 AM
+From:Q.
+
+FWIW, here are the 86 stocks I found under 66.67% of net-net,
+excluding those with debt/equity > 0.5 and market cap < $2.5M
+
+I haven't done the manual task of weeding these according
+to actual market cap.
+
+Market Debt marketcap
+TICKER NAME workingcap LTDebt Cap Equity netnet
+
+IMUL ImmuLogic 31.36 0.00 3.83 0.00 0.12
+OLCMF Olicom A/S 72.15 0.00 10.06 0.00 0.14
+MSHI Man Sang H 35.00 3.13 5.12 0.22 0.16
+MPAA Motorcar P 86.19 25.07 12.50 0.36 0.20
+HRSH Hirsch Int 53.28 17.66 8.83 0.27 0.25
+LWN Loewen Gro 166.95 42.22 32.47 0.13 0.26
+PMRP PMR Corpor 49.47 0.25 13.96 0.00 0.28
+LECH Lechters, 155.90 53.24 29.88 0.42 0.29
+QSYS Quad Syste 20.13 1.29 5.55 0.17 0.29
+LJPC La Jolla P 15.40 0.07 5.04 0.01 0.33
+CERB Cerbco, In 20.90 0.07 7.13 0.02 0.34
+SEVN Sevenson E 58.56 2.29 19.96 0.03 0.35
+SCCO Smith Coro 9.27 0.00 3.53 0.00 0.38
+IREX Irex Corpo 24.07 0.00 9.18 0.00 0.38
+RTRO Retrospett 9.43 0.00 3.72 0.14 0.39
+DIYH D.I.Y. Hom 19.69 7.73 4.77 0.21 0.40
+SDCOZ Spiros Dev 94.96 0.00 37.95 0.00 0.40
+TRCW TransCor W 16.58 0.32 6.53 0.18 0.40
+ITEX ITEX Corpo 8.36 0.17 3.31 0.00 0.40
+SECX SED Intn'l 45.19 8.70 14.91 0.16 0.41
+MAII Medical Al 15.89 0.02 6.72 0.01 0.42
+WKGP Workgroup 16.17 0.00 6.95 0.00 0.43
+EZM.A E-Z-EM, In 50.19 0.46 21.69 0.02 0.44
+FIMG Fischer Im 15.76 0.45 6.81 0.26 0.45
+CRSC Celeris Co 8.95 0.00 4.06 0.00 0.45
+EEI Ecology an 30.04 0.52 13.48 0.01 0.46
+IOI Integrated 8.84 1.79 3.25 0.09 0.46
+RAGS Rag Shops, 17.89 0.00 8.25 0.00 0.46
+AIII Autologic 28.64 0.00 13.39 0.00 0.47
+PRTW Printware, 14.24 0.00 6.73 0.00 0.47
+LIBHA Liberty Ho 31.70 0.00 15.34 0.00 0.48
+TCCO Technical 7.25 0.00 3.53 0.00 0.49
+JAWS Great Whit 7.35 0.00 3.59 0.01 0.49
+CIST Cistron Bi 10.94 0.00 5.45 0.00 0.50
+AMTA Amistar Co 11.16 4.49 3.34 0.31 0.50
+CMND Command Sy 19.60 0.00 9.81 0.00 0.50
+TMTX Temtex Ind 14.19 2.00 6.26 0.11 0.51
+BHC BHC Commun 1371.40 0.00 712.90 0.00 0.52
+GISH Gish Biome 13.94 0.00 7.33 0.00 0.53
+NICH Nitches, I 5.43 0.00 2.86 0.00 0.53
+JLN Jaclyn, In 15.07 0.00 7.97 0.11 0.53
+WYNT Wyant Corp 9.86 4.77 2.70 0.44 0.53
+MAENF Miramar Mi 63.75 0.00 34.58 0.00 0.54
+SLNT Salant Cor 57.55 0.00 31.25 0.00 0.54
+GRCO Gradco Sys 15.22 0.00 8.27 0.32 0.54
+MTIN Martin Ind 32.32 6.01 14.45 0.21 0.55
+NSTK Nastech Ph 20.27 0.00 11.17 0.00 0.55
+AWX Avalon Hol 29.09 0.00 16.32 0.00 0.56
+BNTL Bentley In 6.18 0.00 3.47 0.00 0.56
+FARL Farrel Cor 16.78 3.13 7.72 0.19 0.57
+BASEA Base Ten S 9.11 1.35 4.39 0.16 0.57
+KWND Kenetech C 38.47 0.00 21.82 0.00 0.57
+TCPI Technical 11.54 0.00 6.59 0.00 0.57
+VCOM Vitalcom I 17.72 0.02 10.13 0.00 0.57
+TKGFA Tekgraf, I 11.66 0.00 6.73 0.09 0.58
+PTZ Pulitzer I 610.28 0.00 352.81 0.00 0.58
+TCSI TCSI Corpo 49.91 0.00 28.92 0.00 0.58
+JLNY Jenna Lane 7.01 0.85 3.63 0.13 0.59
+PDKL PDK Labs, 27.35 2.29 14.75 0.12 0.59
+PBFI Paris Corp 11.56 0.00 6.89 0.00 0.60
+TIII TII Indust 18.15 1.95 9.68 0.08 0.60
+SPA Sparton Co 68.58 0.00 41.10 0.00 0.60
+ATPCC Athey Prod 9.45 0.00 5.71 0.39 0.60
+HICKA Hickok Inc 8.28 0.43 4.75 0.09 0.60
+WSTNA Roy F. Wes 41.68 9.79 19.65 0.29 0.62
+IDG Industrial 89.91 51.69 23.55 0.46 0.62
+HOLX Hologic, I 87.51 0.00 54.01 0.01 0.62
+ENV CET Enviro 4.57 0.12 2.75 0.35 0.62
+ATEA Astea Inte 45.30 0.39 27.89 0.01 0.62
+WRLS Telular Co 21.02 0.00 13.09 0.00 0.62
+IOMT Isomet Cor 6.48 0.28 3.86 0.09 0.62
+SLTI Surgical L 5.23 0.08 3.21 0.30 0.62
+ESCP Electrosco 4.26 0.00 2.69 0.00 0.63
+DAIO Data I/O C 16.92 0.00 10.70 0.00 0.63
+LAEN Latshaw En 17.97 5.03 8.20 0.25 0.63
+DATA DataTRAK I 37.47 0.00 23.89 0.00 0.64
+MRI.A McRae Indu 21.40 5.40 10.22 0.20 0.64
+SPOR Sport-Hale 27.09 0.00 17.35 0.02 0.64
+PERS Personal D 6.35 0.00 4.08 0.00 0.64
+IHHI In Home He 16.36 0.01 10.62 0.01 0.65
+ISTN Interstate 40.60 0.00 26.56 0.00 0.65
+LAKE Lakeland I 12.71 0.00 8.32 0.00 0.65
+
+SEEC SEEC, Inc. 30.93 0.00 20.48 0.00 0.66
+AVCS American V 17.55 2.18 10.18 0.09 0.66
+FRDM Friedman's 124.51 0.00 82.62 0.25 0.66
+ISRL Isramco, I 16.32 1.21 10.07 0.07 0.67
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 3:59:00 AM
+From:Michael Burry
+
+D,
+
+Good observations. I did indeed set the minimum market cap at $2.5 million. I
+changed the web site to reflect that error.
+
+I used
+1) Market Cap < (NWK * 2/3), where NWK is CA-CL
+2) Total Debt/Equity <50
+
+This gave me an exportable list of 99 names and values that I could put in
+Excel and work with. Then I manually entered restricted cash, long-term debts,
+long-term liabilities, and minority interest, and subtracted all that from the
+NWK value to give a new column, net net value. Given that I was going to have
+to manually check the market caps and share amounts anyway, I figured this was
+feasible. Doing it your way - figuring out the LT debt variable with a
+user-defined formula - is a good short cut, and in fact Graham's formula really
+just uses LTD. I take it a step further. So your net is bigger, and hence you
+catch more fish.
+
+A lot of the valuations changed in a big way when I looked at the true
+liabilities and true market caps. I eliminated several that were not currently
+reporting, or had unreliable data. Nearly 30 turned out to have MK/NN ratios
+greater than 1.
+
+I would not be surprised if your method turned out to be the best quickie way
+to find net nets on the net. The extra time spent screening your extra fish may
+be less than my extra research time.
+
+Good investing,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 4:08:00 AM
+From:Michael Burry
+
+Jim,
+
+Charge for it? Surprise, surprise, I do expect to make money off the site, but
+nobody will be charged for anything posted there, and there won't be any
+advertising (and no, basically nobody buys books at the bookstore). Market
+efficiency to net nets? I doubt I'll live to see it (and I'm pretty young). I
+just got back from the hospital tonight, and I'm back again tomorrow, and then
+all weekend, and then q3 in-house call next month...can you believe that I
+haven't had a chance yet to look at my own list of net nets with a critical eye
+for investment purposes? And I probably won't find that time for the next week
+at least? I think your segment remains safe for now. DrMike.com? I'll check on
+it - I tried to register whatsupdoc.com, and at first it appeared available (my
+heart skipped a beat - i'd make millions), then it turns out it wasn't. C'est
+la vie.
+
+Good investing,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 10:26:00 AM
+From:Q.
+
+Mike, you must have the patience of Job to open 99 filings on Edgar.
+
+Considering that I am more impatient, and that I would only want to buy one or
+two stocks from such a list anyway, I think I would apply additional criteria
+to reduce the list to a dozen or so, and then open the filings.
+
+I tried the following ideas, which reduced the list to 7 stocks before I opened
+any filings:
+
+Starting with your three criteria, market cap < 0.667 * netnet, debt/equity <
+0.5, and market cap > $2.5 M, I have a list of 84 stocks.
+
+Over a dozen of those are OTC:BB or pink sheets. I eliminate all of them, since
+I would never buy a stock traded on these exchanges, unless it were an ADR of a
+big foreign company (and such a stock would likely not be a net-net anyway).
+Adding this criterion reduces my list from 84 to 70.
+
+Since a lot of these tiny stocks are illiquid, I then eliminate those with a
+monthly dollar volume under a certain threshold of, let's say, $250k. That
+reduces the list to 45 stocks.
+
+As another tradeability criterion, I set a lower bound on the stock price of
+$2. That reduces the list to 19 stocks.
+
+Stocks on nasdaq must meet listing requirements, and tiny stocks are in danger
+of falling below those requirements and getting delisted. I would like to
+eliminate those with net tangible assets close to the delisting threshold, but
+I can't using StockQuest, so as a proxy for net tangible assets I'll use
+shareholders equity, which I compute from the price/book ratio. I'll eliminate
+those stocks with shareholders equity less than $5 M. This reduces the list to
+11 stocks.
+
+Tiny market cap stocks are always in danger of going out of business, if they
+have liquidity problems, so I eliminated those with cashflow less than +0.2% of
+working capital. (I computed the cashflow from the price/cashflow ratio.) This
+reduced the list to 8 stocks.
+
+The survivors at this point are:
+data frdm holx istn pdkl wstna spa spor
+
+I'll immediately ignore wstna, because the "a" at the end suggests that there
+are more than one class of common stock, so maybe the market cap is likely
+higher than MarketGuide shows.
+
+That gives us 7 stocks.
+
+Now we have a list that is short enough for me to open some filings. I can do
+this in 5 minutes, if I take the following expediency: If I see restricted
+cash, preferred stock, multiple classes of common, or a large amount of
+goodwill, I drop the stock from the list. That's all I do in this first pass
+through the filings. It is easier than extracting the numbers and putting them
+into a calculation. Maybe I eliminate one stock that I would otherwise keep,
+but it saves me a lot of time.
+
+Doing this with the filings, I eliminate FRDM (multiple classes of common), and
+PDKL (preferred stock).
+
+This leaves me with 5 stocks, which is something that I could imagine actually
+researching:
+
+data holx istn wstna spa spor
+
+Here's a link to Yahoo with charts etc for these 5 stocks:
+
+http://quote.yahoo.com/q?s=data+holx+istn+spa+spor&d=b
+
+Taking a look at the charts, I wouldn't be surprised to see some tax-loss
+selling between now and December, so I would probably wait until year-end to
+buy any of these.
+
+Any thoughts on this stream-lined method?
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 12:21:00 PM
+From:Bob Rudd
+
+Sold ICO @ 5 5/16 today for 30% gain in 2 days. There'll be plenty of bad news
+over the next 6 months to provide another entry.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 3:02:00 PM
+From:Bob Rudd
+
+&#209; Great short list - Didn't get past ISTN though - bought at 5 9/16 today
+- initial position not huge. They do warranties on new and used cars. Annual
+earnings growth over 95 - 98 89% annually, though not much growth this year.
+And get this: they've got web presence - a site where they sell cars backed by
+their warranties. To me, a warranty has got to be important when buying stuff
+like cars on the web - talk about buying cows in the moonlight... Anyway, if
+the market takes notice of this, it could take off.
+Here's their web sites:
+http://www.uautobid.com
+http://www.inds.com
+I'd looked at this before but forgotten about it. Your list reminded me to take
+another look. I think it got hit today by a fund or two taking tax losses.
+Thanks for the list,
+bob
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 3:04:00 PM
+From:Sam Citron
+
+Bot VIAS @ 4.75.
+BV=5.29
+CashPerShare=4.54
+LongTermDebt=0
+DaysToY2K=62
+http://biz.yahoo.com/p/v/vias.html
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 3:37:00 PM
+From:peter michaelson
+
+You can filter the list pretty quickly just by getting the headlines. Lots of
+them no longer have those assets.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 4:04:00 PM
+From:Q.
+
+Bob, re. ISTN, I wonder what the following liability on the balance sheet might
+be.
+
+DEFERRED CONTRACT REVENUE 32,067,987 26,264,571
+
+My immediate reaction to seeing a big asset that is "deferred" anything is to
+be suspicious, although this one is a liability and not an asset. It's
+something I'm not familiar with.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 4:33:00 PM
+From:Daniel Chisholm
+
+re: DEFERRED CONTRACT REVENUE, my understanding is that they have already
+received cash (or booked an A/R amount) for work that has not yet been
+performed. The amount of this liability balances out the amount of the cash or
+A/R item.
+
+When the work is performed, no additional cash is received or A/R produced, the
+liability is reduced by the amount of work performed, and that is recognized as
+income at that time.
+
+Microsoft does this. It is an attempt to smooth out product sales over the life
+cycle of the product.
+
+- Daniel
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 5:17:00 PM
+From:Grommit
+
+Clayton Link --
+
+ftp://better-investing.org/pub/i-club-list-files/jimclayton.txt
+
+It is worth a look. Here's a sample...
+
+"Where does that leave Clayton Homes? We have seen industry downturns before.
+From 1983 until 1991, industry shipments contracted 8% each year, yet we
+managed to sell more homes each year by expanding geographically and by
+prudently opening new plants and retail stores in promising areas. The last few
+years have seen hyper growth in the industry. Companies were paying $11 million
+for twenty year old plants as we built new, state of the art plants for $5
+million. During the consolidation frenzy, companies were paying more than 20
+times earnings for retail stores, while we refused to pay more than net asset
+value. We were criticized then for not growing as rapidly as the others, but we
+have no goodwill on our books.
+
+Our President of Retail, David Booth, will not open a store until he has an
+experienced manager who wants to live in that area. Others will open stores
+without regard to staffing. Our President of Manufacturing, Rick Strachan,
+conducts careful market studies before choosing the location of a new plant."
+
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 7:03:00 PM
+From:Robert Hoefer
+
+I understand why SNH is so tempting, with its extremely high yield, but after
+reading the prospectus (available on the company website in .pdf format) I
+decided to pass. With a number of its renters in deep financial trouble, the
+yield is probably an illusion. The other half of the spinoff, HRP at less than
+$9.50, has a great, though not as high, yield, and much better tenants:
+Government, big companies like McDonalds and Federal Express. Average office
+lease runs 7 years. And HRP was beaten down just like SNH after the split, just
+the opposite of what you would think would happen. So I think it's the better
+REIT of the two for an aggressive but prudent investor.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 8:50:00 PM
+From:Bob Rudd
+
+&#209; ISTN 'DEFERRED CONTRACT REVENUE' That one caught my eye too. My best
+understanding is that they set up a reserve to cover claims against the
+warrantees and this deferred revenue is that reserve. I believe they've played
+it pretty conservatively so far. One check on accruals is cash flow from
+operations. Here's a $26 million market cap that's on track to generate nearly
+$13 million CFO this year.
+Oh, and they not only sell cars on the web...they sell the warranties too [the
+main biz]... https://www.warrantydirect.com/index1.html
+This web stuff, if it gets noticed, could be a catalyst.
+bob
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 8:59:00 PM
+From:Bob Rudd
+
+Robert Hoefer: re HRP The whole idea of the split was to get HRP seen as an
+office REIT and to trade at or near office REIT yield. Hasn't worked out that
+way, partially because HRP still retains 50% of SNH but the net FFO/income
+exposure is pretty small. If HRP were to trade at same yield as average office
+REIT [based on 9/30 NAREIT data] it would have to jump about 75% in price.
+There are some negatives like the SNH exposure, some conflicts of interest, and
+management structure that weigh against that, but a solid jump from here is
+certainly due.
+I noticed in your profile you sometimes look at bankruptcies. What's your take
+on the issue of whether rent seniority becomes a ball in the air if [when] one
+of the SNH operators goes BK. I know it's supposed to work that way, but I'm
+seeking experienced perspective.
+With SNH it looks like EBITDAR coverage is solid on all but the Mariner [11% of
+assets] and there the rent is 5% of pre-lease operating expenses so it would
+seem they could cut costs enough keep payin rent on most of the properties. SNH
+should be able to release a small number, IMO.
+bob
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 10:47:00 PM
+From:P. Ramamoorthy
+
+Re.: "...CMND: Yahoo shows: selling price 1 3/8, yet cash $2.38/sh , no LTD, bv
+$3.7/sh. For those who wanted a stock selling below cash value, this could be
+one to check out.
+I've not done any further research..."
+It was a disaster y2k investment play for many. Shareholder settlement in
+progress. That is why it is below cash value. Y2k revenue is questionable
+although they have all financial and insurance companies as their customers in
+the Hartford, Conn area. It's worth researching? Ram
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 10:57:00 PM
+From:Q.
+
+Bob, re. ISTN, I found the explanation in the 10k for "Deferred contract
+revenue"
+
+Revenues are deferred on vehicle service contracts in
+those instances where the Company directly receives cash for that portion of
+the
+total service contract that is allocated to estimated claims reserves. Deferred
+contract revenue is recorded as earned over the life of the service contract in
+proportion to expected claims.
+
+It seems to me that this is essentially a long-term liability, because the
+company expects that it must pay this cash back, as claims come in.
+
+So we should subtract it from the working capital to get the net-net value.
+It's such a huge number for ISTN that it takes the net-net value way down from
+$40 M way down to merely $8 M.
+
+Thus, the stock trades at 3X net-net, rather than 65% of net-net. Big
+difference.
+
+This stock might still be a great buy for other reasons, but I wouldn't buy it
+for the liquidation value of the company. It should be disqualified from a
+net-net list.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 11:19:00 PM
+From:James Clarke
+
+Thanks Grommit for finding this. I read it with great interest. Here's the buy
+case on Clayton, in excruciating detail, in the founder's own words. 27 pages.
+I would consider it a must read if you are at all interested in the stock.
+
+ftp://better-investing.org/pub/i-club-list-files/jimclayton.txt
+
+I am adding to my position very aggressively.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 11:20:00 PM
+From:Bob Rudd
+
+&#209; Your are correct on all counts. I was just about to post a correction to
+my claims comment and the 10k quote you listed. I'm still glad this Dolphin got
+caught in you net net, though, cause the more I look at it the better I like
+it. Most of the net nets I've seen have negative earnings Tsunami's headed at
+their cash that would change the picture within a few quarters. ISTN is the
+reverse. It's got very high levels of cash building from operations. A better
+situation, IMO. It's just puzzling that the market isn't seeing it that
+way...makes me wonder what I'm missing.
+Speaking of recent net nets, I added to my OPTS position when it pulled back to
+3 the other day. It's no longer a net net, but just crossed into positive
+earnings with growing revenues.
+bob
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 11:23:00 PM
+From:James Clarke
+
+I define a net-net as net current assets minus ALL the other liabilities, not
+just long term debt. Something like deferred revenue gets subtracted - no
+question about it. I think it was Buffett that said spend your time thinking
+about the assets - assume the liabilities are all real. Another thing - when
+I'm doing net-nets, if the accounting is at all difficult to understand, I stop
+right there. Just my way of doing things. It works for me.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:10/29/1999 11:29:00 PM
+From:Q.
+
+among the net-nets, SPOR might be interesting. It is profitable, with positive
+cashflow from operations.
+
+SPOR is a golf-clothing designer. The stock has fallen, probably due to
+declining revenues and margins, so you wouldn't want to buy it for growth, but
+... the balance sheet really is strong.
+
+It is selling at 59% of net-net.
+
+The only item on the balance sheet that might be questionable is inventory --
+they did write off $1 M of inventory in the last FY. If you were really radical
+and assumed that all the remaining $13 M inventory was worthless, the stock
+would still be only 1.2 X net-net.
+
+The co. has done some share buy-backs, and there was insider buying after the
+stock fell last spring.
+
+I haven't done enough DD on SPOR yet, but my quick glance at the 10k says it
+might be worth a longer look.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/30/1999 8:43:00 AM
+From:Wright Sullivan
+
+Grommit-
+
+Appreciate very much the Clayton link. I bought into CMH for my IRA at 8.75
+last week.
+
+-Wright
+%EOM----------------------
+
+%BOM---------------------
+Date:10/30/1999 6:55:00 PM
+From:Robert Hoefer
+
+Bob, re: SNH. First of all, I am jumping in over my head since this discussion
+is barely understandable to me. I agree with you that HRP has negatives that
+place it outside the blue chip category, but it has to be worth more than the
+current market. As to rent senority, I have no experience to guide me on that
+issue, which is one reason I have to pass on the stock. My experience does tell
+me never to get involved in something I don't understand. Someone with the
+skills to determine SNH value to the penny, in the style of Michael Price,
+might make a good return for the risk. But with so many better REITS
+historically cheap right now, a novice like me does best to stick with the best
+and brightest. I like New Plan Excel Realty Trust (NXL), for example, which has
+raised its dividend every quarter for 20 years. I'll keep following this
+discussion with interest.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/31/1999 12:54:00 AM
+From:James Clarke
+
+I sold all the REITs in my mother's account the other day to take a small tax
+loss, BUT replaced them with double the investment in a REIT mutual fund. The
+sector looks absolutely perfect to me now - very little downside risk as a
+group. So I decided to just own the whole thing.
+
+I have been buying a REIT mutual fund in my own retirement account as well (now
+about 20% of my retirement money all bought in the last month - another 50% is
+in Japan with a 25% gain since I started making that move in June. That has
+been my investment home run for the year - sell virtually all of my S+P index
+fund into Japan gradually June through August). Is anybody else heavily
+invested in Japan?
+
+Wright, nice buy on Clayton. I just caution you on being in a hurry to sell it
+for a quick gain, not that you said you are. This may be one to just forget
+about for five years unless Mr. Market is in the mood to pay you 20 times
+earnings. As my boss likes to say "There is nothing wrong with buying a growth
+stock, just don't pay for it."
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:10/31/1999 11:05:00 AM
+From:Daniel Chisholm
+
+James, I'll admit that I am totally innocent on REITs. Part of your analysis of
+Penobscot that intrigued me was that you were able to put a Graham-style
+rock-bottom valuation on the real estate portion of the stock (IIRC you valued
+it as a leaky flea ridden warehouse ;-).
+
+As a result of the ongoing discussion here, I was discussing REITs with my
+broker recently. He said that here in Canada REITs have been traditionally
+targeted towards and accepted by income investors, and have therefore
+historically been modestly priced and generous in yield (parenthetically, he
+mentioned how Canadian REITs had been burned by high leverage in the past, and
+are now remarkably light on leverage - like 20% or so). On the other hand, he
+said that in the US REITs have been viewed more as speculative vehicles (an
+opportunity to participate in rising real estate prices), and have therefore
+been priced more as "growth" (read: expensive) than as an "income" asset. This
+didn't jibe with all that I have read here about REITs, selling at huge (>>10%)
+yields -- was what my broker telling me correct at some point in the near past,
+but there has since been a bit of a meltdown in US REIT psychology, from
+"go-go" to "deep value"?
+
+I have nothing against buying $1.50 of assets for $1.00, but I am intrinsically
+suspicious (perhaps cautious would be a less-paranoid word) of real estate
+valuations. Tell me that REIT XYZ is trading at 67% of the value of its
+holdings and I won't get too excited - what's the point of a 1/3 off sale if
+the merchandise is priced 300% north of sanity?
+
+Tell me an REIT is yielding 15-20% earnings or 20-25% cash flow, and I'll
+certainly be interested enough to dig deeper and investigate sustainability,
+leverage, downside (e.g. how much could SNH's rents drop), etc.
+
+I guess determining "intrinsic value" of real estate is more difficult than
+other things, since it is difficult to determine what another (greater fool?)
+would be willing to take it off of your hands for when you need to sell. So I
+suppose everyone must to a certain extent close their eyes to the price (ouch!
+sounds dangerous!), and value properties on the basis of some multiple of the
+or cash flow a property generates (which would be related to the level of rents
+that the market will bear).
+
+This is what I'd like to ask you. When you analyze an REIT, how do you develop
+comfort in the value of the underlying assets and that there is a real margin
+of safety in the book value? Or do you need to? I guess what I'm asking here is
+that if this is the case of a high yielding long life asset -- in which case
+return of original capital is not necessary in order for it to have been a good
+investment.
+
+(E.g., if you determine that they can sustain a certain level of cash flow
+(dividends) to shareholders (say, 15% a year for 20 years), and have (say) a
+98% chance of not going bankrupt in that period, then recovering value from the
+properties or selling them at a profit 20 years down the road doesn't make too
+much a difference Present-Value wise)
+
+- Daniel
+%EOM----------------------
+
+%BOM---------------------
+Date:10/31/1999 5:18:00 PM
+From:Q.
+
+Daniel, while some investors focus on the most important multiple for a REIT is
+price/FFO, where FFO = funds from operations, which is a non-GAAP number
+peculiar to REITS; it is nearly the same thing as cash flow from operations in
+GAAP accounting. FFO is the cash that is available for paying dividends, and
+what is left over from that is available for funding growth. You can find it
+mentioned in the SEC filings for the REIT.
+
+Like a regular stock that has growth, a REIT will have a FFO growth rate, as
+the firm raises rents and develops or acquires more property. A big part of
+what you get, when you buy a REIT, is not just the yield, but also the growth.
+That growth in FFO allows the REIT to raise dividends in the future. This
+distinguishes it from true fixed-income investing.
+
+It's not hard to find REITs that have a 7% yield and a 7% FFO growth rate,
+giving you an expected total return of about 14%. If you think about it, this
+might be more attractive than buying a REIT with a 14% yield. If you look only
+at yields, you can get thrown off.
+
+The yield basically reflects how the risk that the market see in the FFO and
+dividend. If the firm has good steady growth, a strong balance sheet,
+experienced management, and it operates in a sector that isn't getting
+overbuilt, then it might trade at a high price and therefore a low yield.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/31/1999 7:21:00 PM
+From:sjemmeri
+
+I've been considering buying a REIT fund also. May I ask which
+one was 'good enough for Mom'?
+%EOM----------------------
+
+%BOM---------------------
+Date:10/31/1999 8:08:00 PM
+From:James Clarke
+
+A good point, to look at FFO multiple and the growth of that FFO. I would point
+you to my favorite REIT, Colonial Properties where you get a 9% dividend yield
+and management of the highest integrity, as well as a well diversified
+portfolio. This is one of the few REITs which a) said they'd buy back a
+significant number of shares, and b) did it. They have never missed a quarter
+and have grown FFO at 8-12%. I cannot believe you can still buy this stock for
+$25 a share given all that management has delivered in the last four years I've
+been watching them.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/31/1999 8:11:00 PM
+From:James Clarke
+
+I didn't really look at alternatives - Fidelity's was no-load in her retirement
+account and even though the historicals look mediocre and they recently
+switched managers I went with that one. There are probably better ones out
+there, but for what I'm trying to do it probably won't matter - if REITs rally
+15% I'm at least starting to sell. I do not intend to be there long, so the
+last thing I want is a load.
+%EOM----------------------
+
+%BOM---------------------
+Date:10/31/1999 10:29:00 PM
+From:TwoBear
+
+For those interested, The following is from Morningstar:
+
+Washington Mutual Ripe for Takeover
+
+With an excellent West Coast network of branches, thrift Washington Mutual has
+been an attractive takeover candidate for some time, according to Oakmark
+Select fund manager Bill Nygren. It may be doubly attractive now, since the
+imminent passage of a bill to overturn provisions of the Glass-Steagall Act
+should set off a wave of mergers in the financials sector. With a P/E (on
+estimated year-2000 earnings) of less than 10, Washington Mutual may not stay
+on the block long.
+http://quicktake.morningstar.com/StockP/Analysis/_WM.html
+%EOM----------------------
+
+%BOM---------------------
+Date:10/31/1999 11:16:00 PM
+From:LauA
+
+The overturn of Glass-Steagall can lead to some very interesting opportunities.
+Although bank PE's are low, some of the insurers are lower. It may become
+attractive for banks to enter insurance markets via stock merger with some of
+the insurance companies that are selling below book value.
+
+Lau
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 12:43:00 AM
+From:Michael Burry
+
+The problem with a WAMU takeover is it is just itself getting organized after
+eating quite a few S&L's itself. It would be acquiring second-hand indigestion.
+
+I like the company a lot though, and am hating that I didn't buy it back at 28,
+which was my target price. Hopeful to get a second chance.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 2:42:00 AM
+From:peter michaelson
+
+Mike, I have had accounts and loans from WMS, past tense. For what it's worth,
+they were the most personable and responsive of the banks around here in
+Oregon. No reflection on WMSB that I use past tense - just various
+circumstances.
+
+peter
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 12:39:00 PM
+From:Grommit
+
+Heads up on the Home Builders...
+
+Upward movement has reached the home builders recently. We knew that were fine
+value plays and they are now being recognized. I noticed a few institutions
+reducing exposure a few months ago and if they are trying to time things, maybe
+they will be returning. Maybe this action is them? :o)
+
+http://quote.yahoo.com/q?s=ctx+kbh+len+phm+dhi+tol+uh+mdc+ryl+spf+cros&d=3m
+
+You can view risk in a couple of ways. You can seek a lower debt level perhaps
+or seek a company in a stronger market. SPF is one of my favorites. They are
+mainly in the solid Calif market with a bit of Arizona and Texas. Their debt
+load is typical but they are on the lower end of my capitalization size rannge
+at $350-$400 million. They have been beating EPS eatimates, which are rising.
+
+I have overweighted this sector with CTX, LEN, SPF, CROS, DHI.
+
+regards,
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 1:30:00 PM
+From:sjemmeri
+
+I just added vias also. In addition to the cash value,
+there is a $9 buyout on the table that has DoJ resistance
+but still could go through. The stock is priced for a 0%
+chance of the deal happening.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 2:16:00 PM
+From:Q.
+
+Not only homebuilders, but REITS also appear to have reversed direction sharply
+in an upward direction.
+
+Here's a 1-year chart of a Vanguard index fund for REITs:
+http://quote.yahoo.com/q?s=VGSIX&d=1y
+
+And here's a 5-day chart for the Dow-Jones REIT index:
+http://quote.yahoo.com/q?s= ^DJR&d=5d
+
+With a sharp bottom like that, there was probably no practical way of timing an
+entry very close to the exact bottom. I would guess that buying them now is
+still close enough to the bottom to provide some real value. I went ahead and
+finished taking positions in these sectors today, buying KIM as a REIT and
+following your suggestion with SPF as a homebuilder.
+
+SPF as you mention is not the biggest homebuilder, so I probably would not
+choose it as my only homebuilder, but since I already own most of the bigger
+ones, and it was valued below book, I thought I might as well include SPF, too.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 5:50:00 PM
+From:Allen Furlan
+
+James, are you familiar with MLN a M/L Mitts. At 10 7/16 the security is pegged
+to nikei at 14,153. This is an orphan that hardly moved when nikei went up into
+the 19,000 area last year. As a term trust Merill will not redeem until 2005 so
+you are at the mercy of the market on a not followed or promoted security.
+However the security is guaranteed by Merrill to be redeemed at no lower than
+10. You get the growth of the broad Japanese market an a nice 18% discount as
+an entry point.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 6:34:00 PM
+From:LauA
+
+My favorite net-net is Global-Tech Appliances (GAI), which is on no posted list
+
+GAI is a debt-free, marginally profitable Hong Kong-based contract manufacturer
+of small household appliances, which is selling at 80% of cash value and 45% of
+book. (Best site for info is their homepage:
+http://www.businesswire.com/cnn/gai.shtml Brands include Hamilton Beach(R),
+Krups(R), Morphy Richards(R), Moulinex(R), Mr. Coffee(R), Oster(R),
+Proctor-Silex(R), Remington(R), Sunbeam(R), Vidal Sassoon(R), and Welbilt(R).)
+
+In brief, these guys were contracted by Al "Chainsaw" Dunlap to manufacture for
+Sunbeam. They did an IPO during the spring of 1998 to finance factories. When
+Al departed, GAI just put the cash into T-bills.
+
+Largest shareholders are Baupost 12% (principal Seth Klarman wrote Margin of
+Safety) and Brookside/Sankaty 8.7% (principal Mitt Romney currently pulling
+together Salt Lake City Olympics). Klarman is pushing for sale or liquidation
+of company.
+
+I don't see a whole lot of downside risk at current stock price - assuming #'s
+are accurate: market cap $44 mill (s/p 1 mill share buyback), PE 10, PSR 0.79
+
+Lau
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 6:49:00 PM
+From:jeffbas
+
+On MLN, care to guess how the Japanese market will do over the next 5 years?
+Better or worse than the US market?
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 6:57:00 PM
+From:jeffbas
+
+On GAI, what is their current exposure to Sunbeam, which has the balance sheet
+of a bankrupt company? Note that GAI is obviously looking to buy someone, so
+the apparent value could end up in someone elses' pocket.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/1/1999 11:54:00 PM
+From:LauA
+
+Jeffrey - my understanding was that they have a passive exposure to SOC. When
+SOC works down inventory, builds for them may increase. You may be correct that
+GAI is looking to buy someone else. Or they may look to get bought. Or they may
+continue to buy back shares. In any case, net-nets sell at net-net for
+reason(s). Maybe something good will come along.
+
+The other recent mention I found intriguing is VUL. I have followed up on the
+securities. On the Yahoo board for VUL someone has posted them to the great
+consternation of the company. The valuation appears to be accurate. I had
+personal experience with the liquidation of American Controlled Industries
+(ACI) which was run by the same folks. ACI was dismantled in a fashion that
+appeared to be very favorable to shareholders. I would not be shocked if VUL
+were to distribute these shares on a pro-rata basis as a return of capital as
+part of the ultimate winding up of the business. The question would be when?
+But with the principals in their 70's, it's can't be too far off. Meanwhile, I
+don't mind betting on a basket containing midwestern banks, RBOC's, and
+electric utilities. Even if the market cratered, the NAV should be above
+current stock price on VUL. The Michigan forest land, Tennessee foam rubber
+factory, bowling pin joint venture, and downtown Cincinnati building are
+fungible assets. I bought some.
+
+Lau
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 12:19:00 AM
+From:Bob Rudd
+
+Daniel: On REIT's to add to N's comments on FFO- REIT's run in sectors: The
+price/FFO [Reit equivalent to PE] and yields on apartments, offices, lodging,
+Manufactured housing <trailor parks>, self-storage, retail [malls, strip
+centers, freestanding subsectors] and Health care [Like SNH] should be compared
+to others in the sector rather than to the overall index. The reit association,
+NAREIT, has some good overview info http://www.nareit.com/
+bob
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 12:27:00 AM
+From:James Clarke
+
+Just bought another net-net with a 30% margin of safety, and this one is
+reasonably liquid for a net-net - 50-100MM in market cap - I forgot to check
+whether its on Mike's list -
+
+just checked - it is not.
+
+And I've got another one in the hopper that is a borderline institutional
+quality company at a 30%+ margin of safety I have not bought yet - and today it
+hit another new low, so no shame in waiting on the sidelines. This one isn't on
+Mikes list either, though both should be - his 50% or less debt screen
+shouldn't have ruled either of these out since one has no debt and the other
+just a little. By no means meant as a put-down to Mike - that screen is the
+best I've seen in public. I run my own privately on a weekly basis. So we
+update the JJC net-net portfolio, and it is starting to be a portfolio for the
+first time. I have never had more than two of these at a time. Now I owe you
+guys three names when the time is right. Yikes - you're going to be screaming
+at me soon if I don't deliver the goods! In order of preference.
+
+Elder Beerman
+Mystery net-net 2
+Maxwell Shoe
+Mystery net-net 3
+Lazare Kaplan
+Mystery net-net 1
+
+I promise, I'll tell. But these aren't easy to buy, especially when you're
+trying to buy a couple of them institutionally - i.e. 100,000 shares without
+moving the price takes a while.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 12:28:00 AM
+From:Bob Rudd
+
+Steven J Emmerich: REIT FUNDs Cohen & Steers are highly regarded as active
+managers [they do both open and closed-ends, but the closed-ends rarely go to
+discount] and Vanguard has a low expense sorta index one if your not keen on
+active management.
+When evaluating, look at longer term record, since the recent period has been
+anomalous and the most conservative approach that would look good recently,
+won't pay off well when the sector rebounds.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 12:50:00 AM
+From:Madharry
+
+Could you please elaborate on how the peg works? ALso do you know the exact
+date of redeption? Thanks
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 9:32:00 AM
+From:Investor2
+
+Isn't there an HMO expert on this thread? Any thoughts on this one?
+
+http://finance.yahoo.com/q?s=FHS&d=2ym
+
+Best wishes,
+
+I2
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 10:09:00 AM
+From:Allen Furlan
+
+Jeffrey and Armin, re Japanese markets.
+1) I have not yet invested in Japanese markets.
+2) My guess is that Japanese markets will under perform the U.S. markets
+primarily because of poor demographics. My wife is Japanese and my daughter
+works for a Japanese company and frankly my impression is that the Japanese
+large companies, ie Nikkei, are still much in control of old school managers.
+3)There are many different MITTS but the MLN supplemental redemption amount is
+10*((Nikkei ending value -14153)/14153) to be paid on 9/21/05. Supplemental
+value, not less than zero, is to be added to 10 dollars.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 11:04:00 AM
+From:Q.
+
+FRDM and HOLX: let me guess: these must be your two mystery net-nets that did
+not appear in Mike's list.
+
+http://quote.yahoo.com/q?s=frdm+holx&d=3m
+
+FRDM has a market cap in the 80 M range, and HOLX in the 50's.
+
+HOLX:
+
+Just bought another net-net with a 30% margin of safety, and this one is
+reasonably liquid for a net-net - 50-100MM in market cap - I forgot to check
+whether its on Mike's list -
+
+just checked - it is not.
+
+FRDM:
+I've got another one in the hopper that is a borderline institutional quality
+company at a 30%+ margin of safety I have not bought yet - and today it hit
+another new low, so no shame in waiting on the sidelines. This one isn't on
+Mikes list either, 
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 11:21:00 AM
+From:Daniel Chisholm
+
+FRDM and HOLX: let me guess: these must be your two mystery net-nets that did
+not appear in Mike's list
+
+Oh boy, this is fun! Oh, the drama of Value Investing ;-)
+
+- Daniel
+
+P.S. I saw Loewen (LWN) turn up in either Mike's or Dee-Bar's screen. This is
+of course yet another admonition to use screens as a starting point for further
+digging - I am short Loewen, and convinced that it will go to zero, even after
+yesterday's spike on their Q3 earnings release -- "we made money (if you don't
+count the interest on our debt we'd have to pay if we weren't in Chapter 11
+right now)". Quality of earnings I say, now them's quality earnings... ;-)
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 11:35:00 AM
+From:Michael Burry
+
+In defense, I ran that screen in early October. There are three major problems
+with it: 1) the volatility in market caps makes the net net calculations much
+different than today 2) the inaccuracy of market caps as calculated by Market
+Guide (they are bad at it) that would eliminate a lot of stocks that might be
+otherwise included, and 3)the balance sheets may have changed, as 10Q's have
+been disseminated in the last few weeks.
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 11:49:00 AM
+From:James Clarke
+
+I see you also screened for a 30% margin of safety. Neither of these would come
+through on that (remember I play with the raw data a little bit - my favorite
+adjustment is owned real estate) so there is no problem with your screen.
+
+And no, but Freidmans looks like maybe it should be number 7. Who out there
+knows Freidmans?
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 12:19:00 PM
+From:opalapril
+
+SVM
+
+Looks like it has hit bottom.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 12:47:00 PM
+From:Q.
+
+re. FRDM, it's a jewelry store chain in the South. I suppose only someone who's
+lived there would have heard about it.
+
+I feel uneasy investing in retail unless I can actually do the Peter Lynch
+thing and visit a store.
+
+Market cap is about 9% higher than indicated by MarketGuide, due to class B
+stock.
+
+Two issues I noticed in a quick glance at the 10Q:
+
+1. The CEO is the controlling shareholder. With micro caps this is not
+uncommon, but it still makes me nervous as you can have conflicts of interest.
+Moreover, in this case the guy has done it in a particularly distasteful way:
+he doesn't own that much, but he does own all the class B stock, which gets to
+choose 75% of the directors. I don't like a governance structure that is
+intended to defeat the common shareholder, and that's what this is.
+
+2. There is an asset that you might question: The co. is owed money by another
+firm controlled by the same CEO, and this other firm is in default. The 10Q
+argues why it thinks this debt is collectable, but it doesn't sound very
+encouraging to me. If you don't count this asset, the stock still sells below
+100% net-net. Just the same, there's the prospect for some bad news.
+
+And you have to wonder at management's wisdom, and conflicts of interest, in
+borrowing money from a bank and then loaning it to a firm controlled by the
+CEO, when that firm subsuquently defaults.
+
+Well, all these cheap net-net stocks are going to have something about them
+that you won't love. You have to pick the ones that don't stink, I suppose. I
+would just say that the governance structure here weighs heavily on the smell
+scale for me.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 1:12:00 PM
+From:Jim Oravetz
+
+The PE to Growth (PEG) Ratio is defined as:
+
+PE
+PE to Growth (PEG) = ----------
+EPS Growth
+
+This ratio is based on the assumption that it is reasonable for the PE value of
+a company that has rapidly growing earnings to be greater than the PE value of
+a company that has slowly growing earnings. Intuitively that seems reasonable.
+However, it is reasonable to ask: Is the relationship between PE and Growth
+really this simple?
+
+BACKGROUND A number of articles have been written concerning an appropriate
+value for PEG (but I am not prepared to quote a specific example). I remember
+reading one article that said a study of many companies over many years showed
+that PEG averaged about 1.5 and seemed to range between 1 and 2. Another
+article in the Wall Street Journal stated that "price hits a wall" when PEG
+gets above 1.
+
+Does anyone have any thoughts about this? I have tried to find an article
+containing a derivation showing why PEG is a valid measure of value. So far I
+have not been successful. Maybe PEG is a rule-of-thumb relationship supported
+by historical data. I do not know.
+
+The current "conventional wisdom" seems to be that it is desirable for PEG to
+be less than 1.
+
+USING PEG When you see a published value for PEG you should ask yourself: What
+PE and Growth rate were used? The discussion of the PE ratio in part 5 pointed
+out some of the uncertainty involved in the PE calculation. Also, the selection
+of a future growth rate is often very subjective. The selected growth rate
+could be selected based on historical data, the next full year estimate, the
+next 5-year estimate, etc. As such, it is often possible to rationalize almost
+any value of PEG you want. In order to calculate PEG, what judgment would you
+utilize to select a PE value and Growth value?
+
+Recently Jim Dickerson posted the following comment on the NAIC forum:"I think
+the logic behind using PEG <= 1 as a basis for buying a stock is that you
+should not pay at a higher current PE than a stock is projected to grow in the
+future. I believe, historically, PE's usually match growth rates. The PEG ratio
+is just a way of saying how much the market is willing to pay for the future
+growth of a company. It should be highest for financially stable companies with
+predictable earnings growth rates. Rather than using PEG<=1 as a broad rule of
+thumb, IMO, it might be better to compare PEG ratios of companies with similar
+prospects. "The term "similar prospects" means companies with approximately
+equal earnings predictability and growth rate. Jim's comment sounds reasonable
+to me.I tend to think that a high PEG value is a warning that PE values may
+become lower in the future. The higher the value of PEG, the greater the
+probability that the PE value will decrease. Hence the PEG value could
+influence judgment used to select a high PE in Section 4A of a Stock Selection
+Guide (SSG).
+
+ftp://better-investing.org/pub/i-club-list-files/ratio-analysis-workshop.txt
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 2:26:00 PM
+From:sjemmeri
+
+>Does anyone have any thoughts about this? I have tried to find an article
+containing a derivation showing why PEG is a valid measure of value. So far I
+have not been successful. Maybe PEG is a rule-of-thumb relationship supported
+by historical data. I do not know>
+
+I hate PEG investing. Like you, I've seen lots of people advocating it but no
+documentation that, as a strategy/screen/whatever, it is any better than
+indexing. Also, my personal experience at it has been disastrous. Any time I've
+bought stocks based on PEG, either the e or g imploded. JMDO.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 2:58:00 PM
+From:James Clarke
+
+PEG is not a mathematical relationship (be very suspicious of any of these
+rules of thumb which don't incorporate interest rates). It is often misused -
+there is a VERY big difference in valuation between something expected to grow
+15% next year and something that can grow 15% for the next 10 years.
+
+When used right, PEG is a starting point for finding some interesting Peter
+Lynch type stuff. It is also the starting point for finding some of the worst
+investments you can make.
+
+I no longer look at PEG per se - I tend to focus more on the relationship
+between return on equity and price/book value. But that captures many of the
+same names mas a PEG screen would.
+
+JJC
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 3:48:00 PM
+From:RumbleFish
+
+FRDM(Friedmans): They've been in the local area(Charleston, SC) so long I
+thought they were a local company. Don't know much about jewelry stores myself
+so I asked the wife about them. She says their reputation is terrible and that
+they've been caught in the past selling jewelry that wasn't what it was
+advertised to be.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 4:24:00 PM
+From:jeffbas
+
+RumbleFish, an awful lot of Wall Street firms could be accused of the same
+thing, selling "jewels" that weren't what they were advertised to be <ggg>.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 5:10:00 PM
+From:Madharry
+
+So it looks like redemption is in 6 years- seems like an eternity to me. Also
+no dollar depreciation protection. I think the " discount" will increase. I
+should make a note to revisit this thing in about 3 years. I still like ORTL a
+lot I think it may be going lower short term but I see it as a triple within 18
+months.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 5:26:00 PM
+From:Paul Senior
+
+re: PEG and re ratios. The poster who requested info regarding a definition of,
+or how, a security is pegged to the Nikei, also wrongly got a response about
+the "PEG" ratio. PEG is a ridiculous figure and an inappropriate metric for a
+value investor. I think it's promulgated by the Fools, who themselves, imo, are
+generally ridiculous -g-.
+
+Note to Jim Clarke: Every once in a while there's a start of a discussion about
+the importance of interest rates and a focus on "the relationship between ROE
+and price/book value". I want to mention at this juncture that I agree with
+you, but going further, I believe that there should be a way - and there is a
+way (imo) - to link them. I've not seen any discussion of this linkage on the
+Value thread. I myself do use an arithmetical ratio that combines in one number
+a company's ROE, p/b, and a Cost of Capital factor. I then use this number to
+provide a rough estimate of the "fair" value of a company. The purpose is to
+provide a simple screening tool. It seems to work out well with established
+companies where book value is important to profit generation (i.e manufacturing
+companies vs. service/consulting companies.) Since I use the relationship as a
+screening tool, my cost of capital is a multiple of the current interest rate.
+Cost of capital varies from firm to firm of course, but it defeats the purpose
+(screening) if such individual capital costs have to be calculated on a
+stock-by-stock basis. Right now I just use about 8% or 9% or 10% (or all three
+to get a range)depending on how I weight the importance of debt and/or book
+value, both of which are easily seen on most internet stock databases. In this
+way I can calculate, for any stock, a very rough range of estimates of "fair"
+value (using Yahoo) and compare it to the current stock price - all in maybe 10
+seconds.
+(which is my intent with this activity)
+
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 9:18:00 PM
+From:valueminded
+
+James:
+
+Have been looking at friedmans for a while. (in fact mentioned it in a note to
+either you or mike a week or so ago.) At any rate they have some funky
+accounting having to do with a buy of crescent. Possibly up to a 25 million
+dollar right down of assets if it goes under.
+
+I will post more as I go through it. My biggest current concern with this
+company is to see that it is not so totally locked up with the insiders that
+they can act with disregard to outside shareholders.
+
+On a different topic. Do you still like USU and do you have any insight on the
+Russian SWU contract. This contract is my only concern as it appears to be
+capable of draining the cash right out of USU unless it is either renegotiated
+or they have an out and can drop it.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/2/1999 10:57:00 PM
+From:James Clarke
+
+<<Every once in a while there's a start of a discussion about the importance of
+interest rates and a focus on "the relationship between ROE and price/book
+value". I want to mention at this juncture that I agree with you, but going
+further, I believe that there should be a way - and there is a way (imo) - to
+link them. I've not seen any discussion of this linkage on the Value thread. I
+myself do use an arithmetical ratio that combines in one number a company's
+ROE, p/b, and a Cost of Capital factor.>>
+
+I do something that's probably fairly similar in a screen, though I don't
+incorporate a cost of capital factor - I guess perhaps because I think all
+companies with the kind of balance sheets I am looking for have roughly the
+same cost of capital at any given time. That cost of capital will vary as
+interest rates move up or down, but that I incorporate in my second stage of
+analysis. I am not going to go into what that screen is - I consider it
+proprietary and although it is very simple in the end it took me three years to
+get it to do what I wanted. Armed with this and my net-net screen, I can fish
+both ends of the market - very good companies that are cheap and very bad
+companies that are free. i.e. Buffett and Graham. These screens capture a
+fraction of 1% of the stocks on the market, but I have little interest in the
+other 99% anymore.
+
+The fact that you found Unifirst at about the same time I did should have told
+me we are fishing in the same pond. Because I had never seen the company
+mentioned anyplace else.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 12:21:00 AM
+From:Paul Senior
+
+Jim: more on screening ratio. Yes, seems to work on a number of these stocks.
+Your CR for example. With an ROE by Yahoo about 23% and a book value of $10, I
+can easily give you my screening opinion that this industrial manufacturer is
+worth more than the current $19 price. And am able to confirm that with a
+follow up to make sure the ROE in past years (18-21%) and book value figures
+give the same conclusion.
+
+There are two screening risks. The first risk is that we are wrong when we say
+the stock is undervalued, i.e. selling at less than the calculated fair value.
+We would likely catch this in doing further research before we make the buy. If
+we have a number of these kinds of errors, we'll be doing excessive follow ups
+on stocks we'll later discard (not buy) or perhaps actually buy for an
+incorrect conclusion (namely that the stock is undervalued per the screen). The
+other risk is that the screen says the stock is selling for more than fair
+value, when in fact, the stock is actually undervalued. Here, to me the cost is
+not so great. We wrongly believe the screen and go on to the next stock. All
+we've done is incurred an opportunity cost. (Which yes, depending on what the
+company was, could be very expensive- but not money out of pocket.)
+
+As I say, I use this as a screening tool. There are some companies I find that
+don't fit, but to me are good values anyway. TFX, another industrial
+manufacturer, with a book value of $15 and a ROE of 15-17% is not worth $34 by
+my formula even if it had a cost of capital of 8%. But given its great (imo)
+past record and low relative pe, it's a bargain (to me) at $34. If I didn't
+know about the company, I'd pass it right by. And some companies that do fit, I
+pass on. I've passed on Crane for example, because I've already got a bunch of
+these mid-cap, heartland industrial manufacturers, and I need a little time to
+digest what I've been buying here.
+
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 1:47:00 AM
+From:James Clarke
+
+Thanks - we are finally after 2 years getting a look into the depths of Paul
+Senior's methodology. And I like what I'm seeing. You've been very open with
+your stocks when you find them, but the only thing I've known about how you
+find them is that I would love to find out HOW you find them. But fair is fair
+- I'm not willing to divulge my screen and you probably aren't either. But
+despite the many times over the last three years you have trashed my picks (and
+usually those were my bad picks), one of the reasons I invest so much time into
+this thread is that it is the only way I can get what limited access I have to
+your mind, as well as that of Mike and a couple of other regular contributors
+who I watch carefully.
+
+I'd ask you to throw Genuine Parts (GPC) into your screen and take a look. And
+don't throw this into the pile of "industrial cyclicals" until you ask yourself
+how cyclical is this company really? I think its not cyclical at all - clearly
+the market disagrees with me - they are lumping it in with auto parts
+manufacturers. Genuine Parts is NOT an auto parts manufacturer, though many
+investors think it is. I'll throw this out to others too. Spend some time
+evaluating the 75 year financial history on the back cover of GPC's annual
+report (hint: think ROE), look at their balance sheet, and then tell my why I
+shouldn't be buying this stock at 13x earnings.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 10:33:00 AM
+From:Daniel Chisholm
+
+I myself do use an arithmetical ratio that combines in one number a company's
+ROE, p/b, and a Cost of Capital factor.
+
+Paul, Jim, others: Can you give me a back-of-the-envelope guess at what would
+be a fair value for the following hypothetical (honest, it is!) company?
+
+Let's say you have a traditional mid size industrial company (i.e. a proxy for
+"traditional accounting is reasonably close to the truth") that has no debt and
+makes 17% ROE (let's say it has made that it the past and will make that in the
+future). Let's also say that they grow at or slightly above GNP growth rates.
+Let's say that a fair cost of capital is 9%.
+
+What is the company worth? (say, expressed as some multiple of book value)
+
+(What I'm really trying to figure out with this question is how to value highly
+profitable enterprises with moderate (perhaps I should say par) but reasonably
+certain future prospects).
+
+If I'm simplistic about it and see that the ROE is well in excess of the cost
+of capital, I could say that any price is justified, since the company is
+growing shareholder value at a rate of 8% in excess of its cost of capital. Pay
+up, sit back, shut up, hold on, and let the magic of compounding catch up to
+your entry price, and then power ahead.
+
+However, though I could be easily convinced that it would be rational to pay a
+premium to book value, I have not yet signed on to the "no price is too high"
+school either.
+
+(FWIW, "PEG" would say (assuming a 6% nominal annual growth rate) to pay a P/E
+of 6, which IMHO is yet another data point on how out-to-lunch PEG is. Try
+"PEG" on a long bond for something even more stupid - it says bonds are
+worthless!).
+
+- Daniel
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 11:11:00 AM
+From:cfimx
+
+Daniel,
+
+One way to value your target would be to find "comprables," say five or six
+that have similar characteristics. Dover would be one example, and maybe
+grainger and GPC, there are many. See what the market is telling you. Compare
+that to what your target is selling at. It may be in line but it also might not
+be. Then start asking yourself why. Perhaps there is a reason ( check the
+footnotes, etc.) Also, ask yourself, given the present level of interest rates,
+why the comprables are trading where they are, and does THAT seem correct.
+Getting the annual reports of comprables is also suggested. But I think this
+exercise will give you a feel for valuations. Paying attention to transactions,
+especially CASH, transactions, will help too.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 11:22:00 AM
+From:James Clarke
+
+I would value the company you describe at about 2.8 times book value. It would
+show up in my screen at 2.1 times book.
+
+I also have ended many an arguement about price earnings/ growth ratios by
+asking what a bond is worth.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 1:02:00 PM
+From:Paul Senior
+
+Daniel: I'd say my screen would show fair value (and highest buy price)
+slightly under 2x book value. But add for consistent ROE (esp. as it's expected
+to remain so in future), add a bunch for "no debt" (wow!) add more if they pay
+a div. and add more if div. yield is higher than S&P div. yield. Etc. for more
+"if"s.
+
+Okay, maybe a top buy price is 3 x book or more depending on the "ifs".
+
+Think maybe I'm being influenced a little though because I read Jim's post and
+his figures. -g-
+
+I know of no "traditional mid size industrial company" that fits your
+parameters. If I could find one as good as you hypothesize, I might just ignore
+book value and see where the stock is now (and why) vs. where it's been over
+the past few years. Yes, and looking at comparables would be important since
+the company seems (to me) to be so outstanding.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 1:38:00 PM
+From:Investor2
+
+RE: "With an ROE by Yahoo about 23% and a book value of $10, I can easily give
+you my screening opinion that this industrial manufacturer is worth more than
+the current $19 price."
+
+OK, one more time for the slow ones, please. What is your quick calculation?
+(.23 x $10)/.07 ?
+
+Thanks,
+
+I2
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 1:57:00 PM
+From:Daniel Chisholm
+
+I know of no "traditional mid size industrial company" that fits your
+parameters.
+
+Nor do I ;-) I really was telling the truth when I said it was hypothetical!
+;-)
+
+I have however seen various real companies that possess many of its attributes,
+enough to make me think that I really ought to understand what a "perfect"
+company "oughta" be worth.
+
+Let's say I don't trust what the market is telling me for comparables (though I
+appreciate the suggestion by twister to at least ask for Mr. Market's opinion).
+Or if not trusting Mr. Market is too extreme a thought, let's say I would like
+an independent sanity check. The point of this mental exercise (to me anyhow)
+is to figure out how to make an absolute valuation judgement in the face of
+certain facts/characteristics (high ROE, no debt, moderate but "assured"
+growth).
+
+Until and unless you or Jim reveal the inner workings of your models I won't be
+able to understand "why" you value my hypothetical company at 2-3X book.
+However I can understand that you *do* value it at that, so let me see if I
+understand the implications of your thoughts.
+
+James' "fair value" number of 2.8X book means buying the stock at a current P/E
+of (2.8/17%) = 16.5. If the company grows its per share book value at 8% per
+year over year above and beyond its cost of capital, then it will take
+approximately 13.5 years for the today's book value to grow into today's
+purchase price (charging them for cost of capital). Coincidentally (or not,
+James?) that is the duration of the US long bond (13ish years), I think
+
+James says it would be a "good deal" (i.e., show up on his screen) at 2.1X
+book. It would take just under 10 years to grow into this rate.
+
+Paul says fair value/highest buy price is at slightly under 2X book value. I'll
+call this 1.8X -- this means Paul wants the company to "grow into" the purchase
+price within 7.5 years.
+
+Paul says that since this hypothetical company is perfectly wart-free in every
+way, perhaps 3X book is the top buy price (let's call this the "Buffett
+Limit"). That's about 14.5 years.
+
+Does anyone else find these "grow-into" figures to be interesting to ponder?
+
+This is the best sort of thinking I could come up with after reading about
+2-stage "Buffett discount models" and becoming almost immediately disenchanted
+with them (I.e., if we assume Coke grows at 15% per year forever then for an 8%
+discount rate no price is too high -- since this is ridiculous let's assume 15%
+growth for ten years and then 5% growth (conveniently close to but just under
+the 8% discount rate) thereafter. That just seemed so artificial, contrived and
+ad hoc, that it seemed to be an attempt to fit a result into a conclusion).
+Also, I was shorting an overvalued low-ROE high P/B equity leveraging roll-up
+type stock with no catalyst in sight, and I was trying to figure out under what
+conditions they might actually grow into their stock market valuation, should
+no catalyst appear.
+
+- Daniel
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 5:27:00 PM
+From:James Clarke
+
+The company you describe does exist, or at least something very close. It is
+called Genuine Parts.
+
+I am not thinking of "growing into" its valuation. That's not the point - the
+valuation is what it is today, not 10 years from now. The key diffence b/t my
+valuation and Paul's is that mine is grounded in the sustainability of that
+high ROE. That is what my model screens for before even messing around with
+valuation, companies that might be more likely to have high (but not too high)
+and consistent ROE for the next ten years because they had high and consistent
+ROE for the last ten years.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 5:29:00 PM
+From:Investor2
+
+Any thoughts on PBY at this low level?
+
+Best wishes,
+
+I2
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 5:38:00 PM
+From:Daniel Chisholm
+
+I am not thinking of "growing into" its valuation.
+
+I think I probably overstressed that idea.
+
+A company with exceptionally good ROE deserves to have a premium paid for it
+today, and if it continues to have an exceptionally good ROE, it will continue
+to deserve a premium price.
+
+What I can't get a good analytical handle around is, how much of a premium
+should I rationally pay for an exceptionally high and sustainable ROE? I really
+haven't managed to get beyond "gut feel" on this (obvious: pay as little as you
+can, pay more for certainty, etc. Not so obvious: how much?).
+
+Methinks we're traipsing over into Buffett-Land though....
+
+- Daniel
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 5:45:00 PM
+From:Robert Hoefer
+
+REIT funds: Longleaf Partners Realty fund is worth investigating, even though
+it is a fairly new fund, Longleaf has been around awhile, and they are highly
+regarded value oriented managers.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 6:25:00 PM
+From:Michael Burry
+
+On ROE, first and foremost we must recognize that any debt inflates ROE.
+Returns on assets, capital, etc... are more conservative.
+
+Further on ROE, is high ROE itself the goal? Not at all. A high ROE is only
+worth something if it is sustainable, and only then as a marker that there
+should be market power and hence pricing power in the business. What a high
+return on equity/capital tells you is that there is an increased ability to
+create something extra out of a given level of investment/assets, thanks to a
+brand, moat, whathaveyou that allows either monopolist power when dealing with
+customers or monopsonist power when dealing with suppliers. As an example,
+WalMart's special attraction as an investment lies in its monopsonist rather
+than monopolist features.
+
+Whenever I see a high ROE that appears sustained, I need to identify the moat
+before I get too comfortable. If the barrier isn't there, then that high ROE
+should be a warning sign. The problem with the midwest industrials is that the
+moat isn't readily identifiable. Hence, nearly by definition, a lot of their
+super-high ROE's are cyclical, and we are near that peak. So there will be a
+lot of favorable ROE vs. P/B comparisons as the stock price anticipates a
+downside and the current earnings still represent the upside.
+
+There's no two ways about it for me. Either a high ROE means something because
+it is proven sustainable with an identifiable moat that gives it market power,
+or a high ROE means something else. Only the former attracts my interest on the
+long side, which is of course Buffettesque.
+
+Finally, we have recently spoken here of costs of capital in the 8-10% range.
+Well, if we are assuming that the high returns on equity are meaningful and
+hence relatively unleveraged, then we should be assuming costs of capital quite
+a bit higher, as equity is of course typically more expensive than debt.
+
+Good investing,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 8:46:00 PM
+From:Paul Senior
+
+re: formula. No I2. You are just going to have to wait until my book comes out.
+-g-
+
+Paul.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 10:03:00 PM
+From:James Clarke
+
+<<Whenever I see a high ROE that appears sustained, I need to identify the moat
+before I get too comfortable. If the barrier isn't there, then that high ROE
+should be a warning sign.>>
+
+Couldn't agree more. Very well put. I forgot to mention that both on my net-net
+screen and my high historical ROE screen I reject over 90% of the names in less
+than 30 seconds each. I am looking for exactly what Mike is thinking about.
+High ROE and a clear reason why.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/3/1999 11:19:00 PM
+From:cfimx
+
+>>What I can't get a good analytical handle around is, how much of a premium
+should I rationally pay for an exceptionally high and sustainable ROE? <<
+
+i hate to say this but you can get to this figure using a DCF analysis. You
+would need to plot out the cap ex, d & a, and working capital needs for a
+number of years. If the high ROE indeed goes out a long way, you will be
+surprised at what you can pay for a company with these economics, and still
+have it make economic sense. I use a spreadsheet for this. You know who can do
+it in his head. <g>.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 12:15:00 AM
+From:Michael Burry
+
+"What I can't get a good analytical handle around is, how much of a premium
+should I rationally pay for an exceptionally high and sustainable ROE? "
+
+How do you define premium? With Buffett-like high and sustainable ROE
+companies, I think looking upon it as a required and expected annualized
+compounding return on investment above 20% is acceptable. On my ValueStocks.net
+site, there's a Tools page that has a spreadsheet that does this calculation.
+On a lot of the already-popular consumer stocks, you'd be surprised how many
+come out with a ~10% annual expected return despite high ROE's because the
+price is so high already - effectively, the market is pricing these stocks for
+average performance. This aspect of the spreadsheet model tells me that it is
+has worth, if only as an adjunct.
+
+Good investing,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 1:05:00 AM
+From:James Clarke
+
+I am learning how "you know who" does that calculation in his head. My model is
+about 30 cells on a spreadsheet with four inputs. The more times I plug
+companies into that model the more I don't need the model. After a while, you
+know what the answer is going to be.
+
+It takes 30 seconds for me to value a certain type of company with one
+critically important caveat, which takes all the laziness out of this game. The
+calculation should be trivial to anybody who knows finance - the groundwork is
+laid out clearly in the book "Buffetology".
+
+But here's the caveat, which is the entire game:
+
+- the company must be the type that fits the model, and there are very few that
+do. It might take 30 hours - to really do it right it takes years of following
+the company, which I usually don't have but "you know who" does - to understand
+the company enough to have enough confidence in the integrity of those four
+inputs to put your money on the table. And nine out of ten companies you would
+follow for years and conclude that the DON'T fit the model.
+
+Otherwise its garbage in, garbage out.
+
+The value added is the research behind that trivial calculation, and that
+homework is not at all trivial.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 1:17:00 AM
+From:James Clarke
+
+The model Mike cites is what I was talking about in my last post, though I have
+adapted it. But I cannot emphasize enough, the integrity of those few inputs
+are the key, and they are not something you can do by simply plugging in
+numbers off financial statements without understanding the business behind
+those numbers and that takes work and judgement. In my view, these models are
+just as dangerous as the PEG ratio "analysis" which we discussed yesterday if
+you don't understand how few companies they apply to and which companies those
+are.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 7:24:00 AM
+From:Madharry
+
+It sounds to me like if you can figure out which moat will weather the sands
+time. Not much else matters a whole lot. Perhaps we should start by taking a
+poll and figuring out who will be earning above average rates of return on
+equity 10 years from now and go on from there. If we get that part of it right
+everything else falls into place. Having said that when I think of companies
+that should retain an edge 10 years from now what comes to my mind are
+companies like UPS and FEDEX. It is hard for me to imagine a new competitor to
+them coming up. ALso they should continue to grow as well. Wallmart wold be
+another. Any other candidates?
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 11:28:00 AM
+From:jeffbas
+
+Mike, pricing some consumer stocks for a 10% expected annual return
+might not be too dumb. A real non-cyclical, franchise stock could be expected
+to maintain that ROE indefinitely -- that's the definition of one. Therefore,
+to price it to give a return a few points over a bond yield makes some sense to
+me.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 1:12:00 PM
+From:Michael Burry
+
+It's not dumb. It's just fair. And I want more of a margin of safety than that.
+If I'm buying something, I want it to still earn 15% annually for me if things
+go to worst case. So that usually means above 20% in a reasonable case. As Coke
+and Gilette have shown, things can go wrong even with the consumer
+non-cyclicals.
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 1:24:00 PM
+From:jeffbas
+
+Jim, October same store sales were pretty mediocre for EBSC. Does that change
+your view at all of the stock, if the company being under obvious pressure to
+deliver something is going nowhere? Since it is #1 on your net-net hit parade
+and the price is heading back toward $6,
+I thought I'd ask. If you assume that same store sales will be basically flat
+indefinitely, my conservative scenario, what is the stock worth in your
+opinion?
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 1:26:00 PM
+From:Paul Senior
+
+Some stuff about GPC:
+
+http://www.bigcharts.com/quickchart/quickchart.asp?symb=gpc&sid=0&o_symb=gpc&fr
+q=2&time=20
+
+I've never liked GPC. Don't know why, but I consider GPC a bugaboo stock for
+growth investors just as I do Genessee Beer for value investors. These seem to
+be stocks everyone eventually stumbles across, everyone says looks like perfect
+stocks for their category, but nobody ever reports that they've made any money
+in them. (That's how it seems anyway- of course I realize plenty of people may
+be doing just dandy with these investments- but they're companies that have
+always looked attractive and for me, never seem to have delivered.)
+
+Charles Allmon recommended GPC in his "Growth Stock Outlook" for years in the
+late '60's, '70's and '80's, maybe even yet today. And the chart I've linked to
+which shows how one share becomes more than 200 is terrific. That's what was.
+But it's now now.
+
+http://www.genpt.com/98_ann_rep_71years.htm
+
+As I see it, GPC is not an industrial company. So the models we've just been
+talking about probably won't work. The company is more a distributor. And by
+the way I look at it, its fair value is closer to 13 than its current $26
+price. But that can't be either, because the dividend -- now yielding about
+4%-- would then be about 8%. (GPC would be way too cheap at $13)
+
+Very important for me, I cannot comprehend how, if GPC is a distributor,
+
+http://www.genpt.com/index.htm
+
+they deliver the results they do (and pay the dividend they do). I see their
+NAPA auto stores -- very dinky and dull compared to PBY. And PBY (Pep
+Boys)itself is having much difficulty increasing overall sales - they are
+closing stores, their stock is at stated book value. (aside to I2: PBY might be
+a buy now. -g-) How can this very competitive business be so profitable for
+GPC? GPC is in office products and furniture distribution (SP Richards)? Man,
+with Staples, Office Max, Office Depot blanketing the country, not only do I
+wonder how GPC can compete, but how can they possibly be reporting the results
+they do report? Totally incomprehensible to me. And I'm not too thrilled that
+they've increased ltd from almost nothing in '95 to $.7 Billion now. Yet ROE
+seems to have stalled or decreased (19 to 17%?)
+
+But there is still hope -g-. It's possible for me to take a "sausage" approach.
+(I eat the things, just don't like thinking about how they are made).
+
+http://www.genpt.com/investor.htm
+
+If one relies on history (and I often do), then with 43 years of dividend
+increases, and selling for a pe of 13 and a 4% dividend yield, this stock is a
+buy now for long term, patient money. You are getting a stock selling for a
+decent ROE, relatively low p/sales, and an excellent business history. This is
+a stock to put in Mom's account(maybe).
+
+GPC? I don't like thinking about it. Not one bit.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 2:09:00 PM
+From:Madharry
+
+Your last sentence could have come out of Dr . Seuss. Speaking of stocks we do
+not like. I cannot understand how people are willing to pay what they do for
+General Electric. Which for the most part is a successful finance company ,
+which manipulates earnings through its insurance units. A nice company but
+35-40 times earnings?
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 2:26:00 PM
+From:James Clarke
+
+<<Jim, October same store sales were pretty mediocre for EBSC. Does that change
+your view at all of the stock>>
+
+For a company with a net-net valuation, I don't think "pretty mediocre" hurts
+me. Of course if Walmart had come through with the same numbers the stock would
+have been crushed.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 2:47:00 PM
+From:James Clarke
+
+Very thoughtful post. Genuine Parts is very difficult to explain, but you raise
+the million dollar question. Recognizing the profitability and growth they have
+achieved still leaves one wondering HOW they do it. It all starts with
+cheapskate management. The next thing you have to recognize is that they don't
+make their money competing with Pep Boys, although they are moving more and
+more into that DIY retail market. Their franchise is a different market
+(distributing to service stations, fleets). Autozone has been trying for five
+years now to compete with NAPA in that business, and it just isn't working.
+
+Picture this. There are something like 250,000 distinct auto parts on the road.
+If I run a service station, I don't know which one the next car to enter my
+shop is going to need. And I need it soon. A Pep Boys or Autozone might stock
+30,000 SKUs. So I can't rely on them. NAPA has a nationwide hub-and-spoke
+logistics and warehousing system, they are incredibly efficent operators, and
+they have the experience to know how much of what to stock where. You really
+want to compete with them?
+
+The industrial parts and office products businesses are harder to understand
+the profitability in because here there is no monopoly. They have direct
+competitors in each and are not the biggest player. They are making twice the
+profit margin of their competitors though, which tells me that here GPC has a
+cost advantage.
+
+Paul, I'd be interested in how you came up with $13 - or were you just pulling
+my chain? The company earns about $2.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 5:03:00 PM
+From:Paul Senior
+
+GPC@$13 Not sure I want to delve into a valuation method that doesn't work
+here. Maybe a slightly better way is to look at psr/price. ODP is .4/12, PBY is
+.3/12, OMX (no debt)is .15/5, GPC is .6/26. Roughly. Maybe by comparable value
+GPC should go for $18-24. But imo, it's too superficial. I have to defer to
+experts who will do comparables right.
+
+The thing to fall back on is The Reason To Buy: Relatively high dividend that
+consistently is increased on a stock with historically consistent growing
+earnings and which now has a low pe and sells at a four year low. Whew.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 5:15:00 PM
+From:Paul Senior
+
+Mike, ref. your post re REY and fwiw: I'm averaging down today in REY under
+$18.
+
+Record sales and earnings announced.
+
+Still though the same plusses and minuses as we've discussed:
+
+Sales are mostly now dependent on car dealers. That market is saturated. They
+are branching out into health care info. systems.
+
+They seem to be able to sustain a high ROE.
+
+They are moving to e-commerce. There may be a kicker to the stock with the
+Carpoint aspect of REY.
+
+PE is 12 and stock is near a yearly low.
+
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 5:35:00 PM
+From:Paul Senior
+
+LauA: ref. your post re: GAI. Thanks for mentioning GAI here. Your post
+provides excellent info which I failed to consider properly. Chinese companies,
+Al Dunlop, and cash looking for a business are warts that do not engender
+warmth, hope, or enthusiasm -g-
+
+I calculate that at today's $4 3/8 price, GAI is selling less than 2/3 net
+current assets.
+
+I've taken a position, added it to my other net-nets, and will try to hold for
+2 years or a 50% gain.
+
+Paul Senior
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 7:26:00 PM
+From:jeffbas
+
+Holy cow, PHSY! Management found it an "irresistible" use of funds to
+continue a large buyback program when the announcement was written in
+the low forties. $31 to $59 in two weeks! I have got to be more attentive.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 10:49:00 PM
+From:Grommit
+
+OT -- PHSY -- Holy cow is right.
+
+I looked at PHSY again last week and declined due to the lawsuit threat. And
+when then when newsweek featured "HMO HELL" on the cover this week I had no
+regrets. Oh well...
+
+I also passed on VECO a month ago. And I sold QCOM long ago. And other misses.
+(But I did get TALX at 8 a couple of weeks ago.) But none of these are value
+stocks.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/4/1999 10:57:00 PM
+From:James Clarke
+
+Office Depot and Pep Boys are not comparable to Genuine Parts. I don't know if
+there is a comparable, but GPC is not a retailer. Maybe a Grainger. I didn't
+use comps on this one because they are so much more profitable than their
+competitors (like USTR). A competitor is not necessarily a comparable. For
+example, I would never comp Nike against Reebok or Walmart against K-mart.
+
+And for you guys looking at Pep Boys, there is reason for this valuation IMO.
+AutoZone (and now NAPA)has been rolling over them, the market is oversaturated
+and management is greedy and inept. The stock looked cheap at 20 too a couple
+of years ago.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/5/1999 12:03:00 AM
+From:jeffbas
+
+My experience is that if is on the cover of a news magazine go the other way.
+Laser eye surgery was on the cover of TIME very recently,
+and VISX hasn't seen a good day since. I think the theory is sound --
+that by the time it catches the attention of the general press sufficiently to
+rate a cover story, there is no one left to buy/sell
+who hasn't already done so.
+%EOM----------------------
+
+%BOM---------------------
+Date:11/5/1999 10:01:00 AM
+From:Grommit
+
+Here'a a pick...
+
+Allmon type selection. Decently priced stock with great history.
+
+1. Sales growth, 3 year 23%, 5 year 52%
+2. EPS growth, 3 year 15%. Analysts expect 17% ongoing. But it's a zero sum
+game, like most. Gotta take market share.
+3. Operating margin 13%
+4. ROE 20%
+5. Debt - zero
+6. Insider ownership 30%
+7. Inventory turns - couple of days. :o)
+8. P/E 15
+
+Comparables --
+1. PE 15 while the industry is 26. The company's 5 year high is 41, and the low
+is 3.5 -- It is now at 5 year low PE!!!
+2. P/Book 2.7 - industry 5
+3. P/Cash Flow 11.6 - industry 19
+4. Debt/Eq is zero - industry .62
+
+Other
+Stock price - 52 week range $40-$20, now at $23
+($40 was ridiculous, $23 is quite decent!)
+
+.......
+What am I missing?
+
+Comparables --
+http://yahoo.marketguide.com/mgi/ratio/A01A6.html
+
+Profile
+http://biz.yahoo.com/p/o/ossi.html
+
+An opinion
+http://cbs.marketwatch.com/archive/19991104/news/current/analyst.htx?source=blq
+yhoo&dist=yhoo
+
+thanks, good luck.
+
+%EOM----------------------
+
+%BOM---------------------
+Date:11/5/1999 10:20:00 AM
+From:TwoBear
+
+Grommit, Carrabba's Italian Grill is the hot new restaurant in our metropolitan
+area. Has Outback hit on a new "theme" to replace the aging Outback model? Have
+not ate there, but might try it this weekend to get a pulse on the buzz. From
+the number of locations it looks as if they are still in the rollout phase of
+this theme.
+
+Scott
+%EOM----------------------
+

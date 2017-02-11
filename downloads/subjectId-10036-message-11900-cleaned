@@ -1,0 +1,2325 @@
+%BOM---------------------
+Date:1/18/2001 12:03:08 AM
+From:James Clarke
+<< resulted in a step of the calculation being skipped, (the one where the
+liabilities get subtracted)>>
+
+If you're going to make a calculation error in valuation, that's about the
+biggest one you can make. (I think I recall Graham saying discount the assets,
+assume the liabilities are real.)
+
+We've all made mistakes. The only unforgivable ones are the ones that you don't
+learn from and make twice. But the real mistake would be if you rationalize
+holding these stocks you never would have bought if your model worked properly.
+I've bought stocks on erroneous analysis and then found another reason to own
+them and it usually wound up a big loss. (often the mistake was caught by
+somebody on this thread - I remember Mike Burry catching my error in Mattel and
+I didn't listen to him, and lost a lot of money.)
+
+Sell the stocks tomorrow and don't look at them again. If they go up, that's
+random - it has nothing to do with the reason you bought them. Then fix your
+model and find one good net-net investment. You'll find they're not so easy to
+find when you subtract liabilities.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 12:16:48 AM
+From:Q.
+Here are results from a net-net screen.
+
+I looked for NCA < 0.667 of stock price. (235 stocks survived)
+I applied additional filters to reduce the list:
+stock price > 2
+market cap > $10 M
+not traded on OTCBB
+current ratio > 1.5 (this eliminates some companies that
+have both huge current assets and huge current liabilities, but a small
+difference in those values)
+eps TTM > 0 (this eliminates about 2/3 of the remaining stocks)
+
+Here are the survivors. Dollar amounts, except for share price, are in
+millions. (The market caps are typically only $10 - $40 M.)
+
+http://quote.yahoo.com/q?s=aiii+dset+duck+ebti+ebsc+lfay+plcc+rags+spore+vii&d=
+
+<pre>
+
+Ticker Name Price MarketCap netnetratio Exchange netcurrentassets ROE_TTM
+Current Ratio
+
+1. AIII Autologic Information Int 2.406 13.926 0.487 NASD 28.575 0.90 2.82
+2. DSET DSET Corporation 2.500 28.833 0.561 NASD 51.401 4.71 5.19
+3. DUCK Duckwall-ALCO Stores, Inc 5.875 25.968 0.504 NASD 51.495 6.45 3.33
+4. EBTI eBT International, Inc. 2.438 40.622 0.597 NASD 68.062 12.74 6.30
+5. EBSC Elder-Beerman Stores, The 3.375 38.600 0.460 NASD 83.830 1.35 4.70
+6. FRDM Friedman's Inc. 5.688 82.374 0.567 NASD 145.306 9.56 4.49
+7. LFAY Leslie Fay Company, Inc. 2.750 13.973 0.462 NASD 30.252 9.41 1.83
+8. PLCC Paulson Capital Corp. 4.781 16.265 0.558 NASD 29.125 44.04 5.13
+9. RAGS Rag Shops, Inc. 2.156 10.353 0.499 NASD 20.764 6.24 2.60
+
+11. SPORE Sport-Haley, Inc. 3.016 10.435 0.459 NASD 22.752 2.06 11.60
+12. VII Vicon Industries Inc. 2.188 10.165 0.428 AMEX 23.761 2.88 4.65</pre>
+
+NB: I haven't looked at the filings. If a stock has multiple classes of stock
+or preferred, it should probably
+be eliminated, because the MarketGuide data I used doesn't count that in the
+market cap valuation or debt. Also, retailers with lots of inventory are
+automatically suspicious.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 12:17:44 AM
+From:TimbaBear
+If you're going to make a calculation error in valuation, that's about the
+biggest one you can make. (I think I recall Graham saying discount the assets,
+assume the liabilities are real.)
+
+No sense in half-measures :~) I think I quoted that very saying of Grahams the
+other night.
+
+You'll find they're not so easy to find when you subtract liabilities. 
+
+Go ahead, kick me when I'm down!....Really! I don't mind....much... :~)
+
+I know you're kidding me a bit....I'm just sensitive right now, all that hard
+work done in by a two second quirk....Man, that sucks!!!!
+
+I'm cool, I'm cool!
+
+Did I say: Man that sucks? 'cause if I didn't, I meant to!
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 12:22:05 AM
+From:Q.
+Here's a similar net-net screen, this time with a ratio of 1.0 instead of 2/3.
+
+This allowed me to raise the floor on the market cap to a minimum of $50 M.
+
+Otherwise, it's the same screen. If the name of the stock included "CL A", I
+threw it out manually, for having multiple classes of stock:
+
+http://quote.yahoo.com/q?s=bl+bba+kmx+cege+dztk+fit+gai+opti+obas&d=t
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 12:30:09 AM
+From:rjm2
+I am a RAGS fan. Also have a large position in SPORE but would gladly hang the
+management if given the chance.
+Also own a small amount of EBSC.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 12:34:34 AM
+From:Q.
+Here's one with a ratio <1.4, and market cap > $200 M.
+
+http://quote.yahoo.com/q?s=coms+cege+esst+npk+prds+rt+scnt+vian&d=t
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 12:43:19 AM
+From:Q.
+I did these screens using MarketGuide's free online tool "NetScreen"
+
+http://www.marketguide.com/mgi/screen/AScreen.asp?rt=screen&rn=
+
+To make it convenient, I had it calculate my own "user defined variables" for
+net current assets, total liabilities, shareholders equities, and net-net ratio
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 1:20:44 AM
+From:TimbaBear
+Thank you for the screens and the URL to generate our own.
+
+I'm tired and angry at myself tonight, so I'm not going to do anything else
+that requires objectivity until morning.
+
+If I find anything from those screens that might be interesting, I'll post it
+after I go through my spreadsheets tomorrow and make sure I have found all the
+bugs.
+
+I have no one to cross check my work on this end but myself and, as has so
+poignantly been pointed out, I have blind spots, apparently.
+
+No sense whipping a dead horse though, we increase our diligence and move on
+from here.
+
+Good night all!
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 1:35:45 AM
+From:Paul Senior
+Comments on stocks in your screens:
+
+GAI: Still holding. Some of us have already taken profits and perhaps sold
+after the substantial special dividend.
+
+FAB: I'm considering adding to my position.
+
+FRDM: Still holding
+
+EBSC: Suffering with this one as are others on the thread who said they bought.
+
+BL: Sold last year. From what I can understand, most of us here who bought took
+our 50% or more profit at exited the position.
+
+VII: Sold at a tax loss. It wasn't a net-net when I bought. I'll have to relook
+at it.
+
+All of the above stocks have been mentioned on this thread.
+
+Paul S.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 1:40:56 AM
+From:Don Earl
+rjm,
+
+When in doubt check the competition. Blockbuster amortizes their video costs on
+a 3 month basis. Blockbuster looks pretty twisty also, but at least 3 months
+strikes me as being more in line with the reality that rental income from
+movies drops off very hard in a very short time. You have to learn how to
+translate language in SEC filings. When a statement starts with "we believe",
+it's an open invitation to lie. When GAAP rules change, it's to plug up loop
+holes in existing accounting treatments. Management is certain to be miffed at
+not being able to cook the books like the good ol' days, but the idea is to
+give a more fair presentation than what the good ol' days represented. The
+negative working capital statement agrees with my calculation that tangible
+book is effectively less than zero.
+
+As far as your buddy on Yahoo is concerned; he's either a liar, a fool or a
+paid hypester. The statements about free cash flow and debt repayment are
+absurd at best. My tolerance level for that kind of garbage has gotten rather
+low over the past several years. Yahoo used to be rowdy but fun, now it's just
+a cess pool of hypesters and bashers whose sole purpose in life is to lead
+lambs to the slaughter. I find the practice offensive.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 9:27:02 AM
+From:valueminded
+Looking at your list, I would immediately eliminate friedmans. If I remember
+correctly, it has multiple classes of stock with the caveat that the class you
+buy has no voting rights......So no way to force management to do anything...
+imo
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 9:29:15 AM
+From:jeffbas
+Paul, on EBSC, I am no longer suffering as I tendered last year for a minor
+loss.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 5:34:14 PM
+From:geoffrey Wren
+About Blockbuster, etc., we are near the tipping point where DVD's will be the
+item rented. My evidence, is that I bought a DVD player, and since I am always
+late to such things as cell phones, CD players (still have the vinyl), that is
+some indication that the relative benefit is there for changing over your
+equipment. DVD makes a lot more sense than video as a method of playing movies.
+A store can carry a lot more DVD's than VCR's in the space allotted. My guess
+is that the studio's like them better, in that cost of production is lower.
+
+It is now practical to rent through the mail. 10 DVD's for 35 bucks, postage
+included. Better selection than you will find in your local video store. You
+have to plan ahead a little, but then you don't have to travel to the store.
+
+So, overall, I'd stay away from video stores unless the company was debt free
+and the cash per share was growing at a very rapid pace, say 20% of share price
+per year. Could be wrong about their rapid obsolescence, but that's how I'm
+betting.
+
+And about Yahoo, it is caveat emptor like no other market in America. Still, I
+wade through it cautiously. I wish they had the capacity to look through 10
+posts at once like SI has. Sure 5 would be SPAM, 2 obvious hucksters, and one
+hidden huckster, and one novice investor, but then there may be one post with
+something worthwhile to say.
+
+GTW
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 5:47:52 PM
+From:Kapusta Kid
+The Net-Net Method
+
+The following excerpt is from Charles Brandes' book, "Value Investing Today".
+Graham was an acquaintance of Brandes.
+
+Graham's most famous theory was that investors should buy stocks at prices of
+no more than two-thirds of the company's current assets (cash and equivalents
+on hand, including immediately salable inventory), minus all liabilities
+(including off-balance-sheet liabilities such as capital leases or unfunded
+pension liabilities). Nothing was paid for permanent assets such as property,
+plant and equipment, or intangible assets such as goodwill. Graham held that if
+a company traded at two-thirds of this ammount and was profitable, then
+investors needed no other yardstick.
+
+"What about companies that qualified except for current losses?" I asked
+Graham. Those companies, he believed, were dangerously situated. Losses
+constantly burn up corporate assets and could incinerate the appropriate margin
+of safety.
+
+Today, elevated valuations in the U.S. equity market make it nearly impossible
+to find a profitable compay selling at a one-third discount to the net-net
+current assets. However, using ...databases..,value investors can screen
+for those companies with the lowest net-net asset ratios.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 6:17:36 PM
+From:Paul Senior
+TwoBear, update for you. If it's a January effect, it's a whopper.
+
+http://www.siliconinvestor.com/portfolio/detail.gsp?pid=9242017
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 6:37:52 PM
+From:Madharry
+feel foolish now for selling my icix around 13 a week ago. at least i put the
+proceeds into airn. unfortunately i sold most of that yesterday.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/18/2001 10:43:11 PM
+From:Don Earl
+Geoffrey,
+
+It's hard saying where technology will be in a few years. We have cable
+available in my area now with 2 meg download speeds at $28 a month. I've been
+paying $15 a month for a 56K connection plus an extra $25 a month for a second
+phone line. I figure I'll make the switch sometime in the near future. At those
+kind of download speeds, it starts making downloading a movie online more
+realistic. From what I understand, cable connections are still the exception
+rather than the rule in most of the country, but I suspect it will be pretty
+universally available fairly soon.
+
+A few years ago I was guessing there would be a lot of start ups in an online
+movie market. Now I think it's more likely going to be the movie companies
+selling direct to the public. At least I can't think of any reason off hand why
+they would want to cut a middle man in on the action. Maybe the rental outfits
+will get a piece of the action for awhile, but a look at some of the balance
+sheets doesn't leave me with much confidence they could raise the capital to
+put something together short of Chapter 11. Bankruptcy is about the only way
+they could get out of all the leased property, blow out the old inventory, and
+get cleaned up enough to attract some venture capital. It may not happen that
+way but it strikes me as the path of least resistance.
+
+There should be some stock bets on the outcome a few years down the line, but I
+doubt any of them will be value plays. Should be interesting to see how it all
+plays out though.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/2001 1:27:24 PM
+From:TwoBear
+We have cable available in my area now with 2 meg download speeds at $28 a
+month.
+
+Are you going to watch a movie on your computer? I doubt that the masses will.
+As for Video On Demand, I doubt that this will be a huge success for the
+following reasons.
+
+First, it costs more than renting. Secondly, I don't like being held captive by
+the cable company by having to rent (monthly) THEIR box to download THEIR
+movies. And, the cable box is just another piece of equipment that has to be
+plugged in between all of the other equipment. Lastly, the success this year
+(and years to come) of DVD players have cemented renting media for another
+decade. The only change is that the format will graduate from VHS to DVD's.
+They just built a new blockbuster down the road from me and it is packed most
+of the time.
+
+Dislclaimer: I do not own stock in any video/dvd rental companies. Just my
+observations.
+
+This commentary and 50 cents will get you a cup of coffee so take it at its
+worth.
+
+Scott
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/2001 1:10:48 AM
+From:sjemmeri
+Mike,
+I don't know if you're hanging around here at all anymore but I'm hoping to
+learn a bit more on your methods. After selling a stock on new lows (e.g. YUM
+at 25 back in July), will you consider buying back after the stock starts
+trading better? Assuming the value picture hasn't changed of course. Or do you
+have a trouble buying a stock after
+its moving up?
+
+I'm specifically looking at YUM but if you can't comment on a specific stock,
+I'd still like to hear your philosophy.
+
+steve
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/2001 1:32:45 AM
+From:Don Earl
+Scott,
+
+I was thinking more along the lines of a few years down the road when I'd be
+willing to bet a person will be able to go to a web site, pick from a long list
+of movies, and then download their choice with a credit card.
+
+From what I understand, for the cable Internet service there's no box required,
+just a cable modem and a network card. There's an added advantage to where I
+am. There are two cable companies with Internet service and one of them is not
+AT&T (aka TCI). I can't argue with anyone who doesn't like cable companies. I
+tried TCI before AT&T bought them out. Somehow paying $600 a year for 120
+channels of bad programming with 20 minutes of commercials an hour didn't seem
+like much of an improvement over 5 channels of bad programming with 20 minutes
+of commercials an hour.
+
+Back to value investing. I noticed someone mentioned VIAN as turning up on a
+screen they ran recently. Since it also happened to be on a list of things I've
+been looking at, I impression is it seems to pass the sniff test (doesn't smell
+too bad). The balance sheet looks clean without any GAAP twists thrown in. It's
+trading close to cash per share with no debt to speak of. Checking the PRs,
+they warned on Q4 with a sizable miss and it looks like revenue has dropped off
+sharply from what they were doing around Q2. There's some reliance on a small
+number of big clients for a good size chunk of revenue and a certain amount of
+exposure to dot coms. They approved a $5 million stock buy back, but I couldn't
+find anything that showed they've been buying. Supposedly there will be some
+guidance with a CC when they report in a couple weeks. I'm curious if anyone
+else has looked at this one and what kind of feel they had for it. I almost
+think I could like it if the forward looking statements sound halfway decent
+and a retest of the 52 week low were to show up and hold. Any opinions on this
+one?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/2001 1:36:04 AM
+From:sjemmeri
+One more thing Mike. I went back and looked at your Strategy Lab sells - HLTH,
+CAT, JBX, EFII, PIXR, USFC, ALSC, CCL. I know the sales were for different
+reasons - new lows, better values available, taking profits - and their
+replacements have done well. But there were some nice turnarounds and continued
+runs in those stocks after the sells (all higher than at sell I think). You're
+a hell of a stock picker - maybe you shouldn't sell anything?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/2001 3:35:45 PM
+From:jeffbas
+Re the future watching of movies, Don, your scenario is reasonable except for
+three things. Relatively few people have cable modem service, over 3 years
+after I got it. Secondly, people generally do not want to watch a movie on a
+computer monitor typically not in their living room, and wireless or other
+connections between a computer and TV may be years away. Finally, people often
+want to watch a video as an impulse purchase. It will also be some time before
+quality streaming video with controls is available over the Internet. Quality
+VOD over existing cable is being delivered today (Austin, Hawaii, Tampa, and
+soon many others) - your scenario is 5-10 years away.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/2001 6:19:06 PM
+From:MCsweet
+> Chris,
+> First I'd like to point out that a press release is not a
+> balance sheet. In the last 10Q, the cash flow statement
+> shows line of credit borrowings of $5 million. If they've
+> paid that down by $4 million since the 10Q was filed,
+> it's a step in the right direction, but hardly impressive.
+
+If you took just a little time addressing my points and analyzing the latest
+10-Q, you'd see the total liabilities declined significantly. Even though
+long-term debt increased, this was more than offset by a decrease in other
+liabilities. Thus, the fact that long-term debt has now decreased by $4
+millions should not be a surprise.
+
+Given a market cap of only $46.6 million, MOVI has bought back $5.7 million in
+shares and expanded its store base. Given this context, I think decreasing
+long-term debt by $4 million is pretty darn good. To me this demonstrates
+strong free cash flow, implying your criticism of amortization policies is
+off-base.
+
+That being said, if you believe the video and DVD rental business is going to
+be unprofitable within the next couple of years, than obviously MOVI is a poor
+stock to own. This is a valid criticism (valid, though I disagree with it).
+However, I believe the pontificating criticisms of the current economics
+demonstrate a lack of rigorous analysis, something that annoys me to no end.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/2001 7:05:59 PM
+From:Don Earl
+MC,
+
+First, I agree with Jeff that technology advances are far enough in the future
+not to affect investments of anything less than two years. Second, since your
+belief in MOVI approaches the point of religious convection, it probably isn't
+a polite topic of conversation.
+
+You can't teach a pig to sing. It wastes your time and annoys the pig.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/2001 9:34:41 PM
+From:valueminded
+Don:
+
+My opinion is get the cable modem, you will like it. But dont be fooled by the
+download speed best I get is 80kbytes/sec. Also, (and correct me if I am wrong)
+be aware that as the cable company loads up, the speeds go down. Limited
+bandwidth on the cable.
+Also, if you think about it, it is highly unlikely that VOD will be a threat in
+the next 5 years. Bandwidth isnt their yet, (although that depends on level of
+video compression viewer will tolerate) and the cable companies are cash
+strapped so investment in increasing bandwidth isnt likely soon. imho
+Finally, I dont confuse press releases with balance sheets. However, if the
+company releases information that is material I see no reason not to include it
+in the analysis. I do appreciate your commentary on Movi, however as it has
+caused me to take a more critical look at their inventory and method of
+accounting for the same.
+
+On the value front, one stock I like is HKF, hancock fabrics. Insider buying,
+stock buybacks, generates decent amount of cash and earnings and trades, near
+book. Although they have some debt, it looks like they are making serious
+inroads in paying it off. Any thoughts on this one ? I am long and will
+increase position on weakness.
+
+thanks
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 4:02:53 AM
+From:Don Earl
+Chris,
+
+Right now my wish list on stocks is pretty picky. I took a quick look at the
+profile on HKF and in any other market, I'd probably pull up at least the last
+10Q to see what's there. There's a Hancock Fabric in my area. I went there once
+when I needed some vinyl fabric for a car project I was working on. The sales
+people were friendly and helpful and it looked like they had a good selection
+of just about everything. My only complaint on HKF from a quick look is the
+lack of cash. From what I saw of the store I visited, I'll guess most of book
+is made up of inventory. I'm focused more on companies where book is mainly
+cash and owned real estate in this market since it's possible to do so, and am
+pretty much sticking to companies I can buy into at or below cash where I
+basically get the business and other assets for free.
+
+I'm not 100% sure what to make of the economy. Obviously energy prices are
+putting a dent in everyone's budget. In my area residential electricity prices
+are getting hit with a 43% surcharge and large manufacturers are getting hit up
+to 78%. It isn't any mystery why manufacturing output was down in the most
+recent report. Some of the plants are on a deal where they get cheap rates as
+long as there is enough to go around, but they can be cut off if there isn't.
+Alcola shut down for several weeks during the last cold snap. Gas prices seem
+to be coming down, but they still aren't back where they should be. I still
+think a lot of what's hitting the market is pure FUD combined with the
+implementation of new accounting standards, but at the same time, it isn't
+possible to ignore the fact that energy issues are having an impact on the
+economy. I suspect the situation is more or less temporary and should level out
+by the end of the first or second quarter, but I also don't see any reason not
+to target companies with enough liquidity to weather a soft economy for a
+longer period if they need to. The way I see it with something like 16,000
+publicly held companies to pick from, there's bound to be at least a few that
+will meet just about anyone's investment objectives. With the beating the
+market took in the last 4 months it's a bargain hunters paradise.
+
+There are obviously a lot of different opinions on what constitutes value.
+Value plays usually mean you have to give up something to avoid paying a
+premium on the stock. Out of favor sectors, assets, earnings, bear markets,
+analyst downgrades, losses, restructuring charges, missed expectations, etc. At
+a certain point, I think it comes down to personal preference on what factor/s
+to give up to find value. I happen to like low/no debt and lots of cash. I also
+intentionally look for places where sentiment is unusually low and prefer
+situations where there have been losses and a recent restructuring. That's the
+typical set up for turnaround plays. It's probably a subset of value investing,
+but it's the area I'm personally most comfortable with. I don't recommend it
+one way or the other and only mention it to help explain why some things don't
+fit what I do. The one thing I do feel strongly about is that whatever method a
+person does use, it's important to check the profiles against the filings to
+make sure what you see is what you get.
+
+Lots of stocks go through the roof which don't have any fundamental value
+whatsoever. VOXX and MOVI could fall into that category even though I don't
+consider either one a value play by any yardstick by which such things are
+measured. IMO those kind of bets are based on the assumption that enough spin
+and hype will eventually produce suckers who will take the stock off your hands
+at a higher price. The danger doesn't come from it not being a value play but
+from not knowing it's not a value play.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 7:40:57 AM
+From:Madharry
+I do not understand your point about cable internet- I use @home it is very
+fast and hooked into my computer. since i am on the computer a lot I previously
+had a separate isp. I actually saved money by switching and my service is much
+much better. the service is independent of what i pay for cable which around
+$14 a month.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 12:44:52 PM
+From:TimbaBear
+Hello Don!
+
+A few posts back you mentioned VIAN for consideration. As you know, it's NetNet
+value is right about its current selling price, and the lion's share of that
+value is in cash.
+
+From the most recent 10Q filings I get the following:
+". CAPITAL STOCK On June 23, 1999, Viant closed its initial public offering of
+common stock at a public offering price of $8 per share. The proceeds to Viant
+from the offering were $50.2 million, net of underwriting discounts and
+offering costs.
+On December 13, 1999, Viant closed its secondary public offering of common
+stock at a public offering price of $47.3125 per share. The proceeds to Viant
+from the offering were $120.3 million, net of underwriting discounts and
+offering costs.
+On February 24, 2000, Viant, effectuated a two-for-one stock split in the form
+of a 100% stock dividend to stockholders of record on February 8, 2000. All
+share data in this report has been restated to reflect this stock split
+retroactively for all periods presented...." 
+
+Even though they also go on to say:...The Company's Board of Directors has
+authorized the repurchase of up to $50 million of Viant's outstanding common
+stock. Under the stock repurchase program, Viant may purchase shares from time
+to time over the next 24 months in the open market....
+
+My question is: "How comfortable should one be with a company that went back to
+the well so soon after its IPO?"
+
+Most of that cash apparently came from selling stock and not from the business
+model.
+
+Speaking of the business model, their report also says:
+..."THE INTERNET PROFESSIONAL SERVICES MARKET IS HIGHLY COMPETITIVE AND HAS LOW
+BARRIERS TO ENTRY. IF WE CANNOT EFFECTIVELY COMPETE, OUR REVENUES MAY DECLINE
+
+OUR REVENUES MAY DECREASE IF GROWTH IN THE USE OF THE INTERNET DECLINES..."
+
+In light of the recent major cutbacks in internet advertising that have gotten
+so much publicity, wouldn't it be reasonable to assume that that means
+cut-backs in plans to use the internet commercially have also been scaled back?
+And what of the competitors like ORCL and SEBL and SAP who are major size
+competitors in the internet build-out/services space, and who started at the
+top in company size served and are now working their way down the ladder as
+times get tougher.
+
+I'm not saying this company doesn't have appeal selling at these levels, I
+guess what I'm asking is whether it will also have appeal from lower levels in
+the future. What will stop the decline?
+
+They are currently CFO and FCF positive, so they should hold up better than
+most, but will it be enough?
+
+Just ramblings on a Sunday afternoon :~)
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 2:14:13 PM
+From:TimbaBear
+On the value front, one stock I like is HKF, hancock fabrics
+
+The recent price was $4.38, and I get a NetNet value of about $1.60, so I don't
+see this as a great buy at these levels.
+
+They have positive CFO and FCF but don't seem to have any great vision for what
+to do with it to improve the business(which isn't always a bad thing, as these
+visions are too often disguised ways of burning cash). I like the fact that
+they are using the cash flow to pay down debt and to fund the pension plan and
+to buy back stock, all things that help reduce future overhead. But I think I'd
+rather look at them again somewhere down the road, maybe in the next major
+market swoon.
+
+I don't think you would get hurt too badly owning this one, it's just not the
+kind of value play yet that I'm looking for.
+
+That's my two cents, and it's worth every bit of what you paid for it! :~)
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 4:06:58 PM
+From:Don Earl
+Timba,
+
+As a rule I tend to be in favor of secondary offerings. I'd sure rather see a
+company do a secondary near a market top than sell cheap shares near the bottom
+because they got in trouble. It's also a far superior way to raise cash than to
+issue preferred or debt. At least for holders of common. The secondary raises
+book value for everyone and produces interest income as opposed to interest
+expense. There are a lot of companies that went public near the market top in
+the last few years that should show up on net net screens right now because
+they were able to hang onto their cash. In the case of VIAN, they've managed to
+improve the cash position by around $20 million above what they received in the
+offerings over the last year and a half. MRCH is one I was looking at in the
+sector mainly because of the price, but I had to keep closing one eye to see
+anything good about it. In the case of MRCH, they burned cash like there was no
+bottom to the bucket to expand the company and found themselves trying to climb
+a step that wasn't there. The result was a private placement of an unholy
+amount of stock at rock bottom and it still wasn't enough to dig themselves out
+of liquidity problems.
+
+"In light of the recent major cutbacks in internet advertising that have gotten
+so much publicity, wouldn't it be reasonable to assume that that means
+cut-backs in plans to use the internet commercially have also been scaled
+back?"
+
+As I mentioned in a recent post, I tend to target out of favor sectors. The
+biggest percentage gains come from changes in market sentiment. When Reuters
+"hates" a sector so bad they devote a major part of their resources to spread
+FUD, that's the place I usually go to look for bargains. Look for the slant in
+those kind of articles rather than take anecdotal proofs, surveys without any
+kind of statistical validity, and obscure quotes from obscure analysts at face
+value. Take out the smoke and mirrors and you have something along the lines
+of: "Someone I know in the business went broke. I asked three of my neighbors
+about it and 66% of them said the situation is bad. 'Very, very bad.', said Jon
+Barleycorn, a soybean farmer with three acres under cultivation in Nantucket."
+The actual semantic content of those sort of articles becomes virtually sense
+free. It's about like calling October the beginning of an impending ice age
+rather than as part of a normal cycle known as winter.
+
+No doubt the consulting market is tight right now. My overall impression is
+that it will loosen up in the second half. Note that I said "my impression". My
+impression is no substitute for your own research. VIAN is on my wish list in
+the high 2's, low 3's provided I like the flavor of the next CC. I don't own
+the stock at present, may not see my price target show up and could decide
+against it even if the price does come into range. Since someone else mentioned
+it, I thought it might be an interesting one to kick around.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 5:35:33 PM
+From:Paul Senior
+Not following you on "I get a NetNet value of $1.60", TimbaBear. Is this your
+own metric as you may have defined in on a previous post? Or is $1.60 supposed
+to be the net-net value of the company, as net-net is used by Graham followers?
+
+Or perhaps I've not calculated net-net correctly or used the latest figures. I
+get NCA of $3.44/sh.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 7:30:33 PM
+From:RockyBalboa
+SPORE has been halted some time for not being nasdaq compliant, they had to
+restate earnings... trading has been resumed in mid Dec since. I'm only
+guessing why they still have the ....E on. Perhaps it is as there are no
+filings from Jun 30th onwards.
+
+http://quote.yahoo.com/q?s=spore&d=t
+
+http://biz.yahoo.com/prnews/001116/co_sport_h.html
+
+They show their amended restated 10-Qs as of Jan 16th
+http://www.sec.gov/cgi-bin/srch-edgar?0000892653
+
+Stock looks cheap, but... can we trust?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 7:51:50 PM
+From:TimbaBear
+Actually, Paul the amount per share is less than what I posted because I was
+doing quick figuring then, and now I paid more attention.
+
+The netnet valuation is my own interpretation of Graham. I discount receivables
+by 20%, inventories by 1/3, and count cash at face....in the case of HKF: they
+have(all numbers are in millions)7.089 cash, 0.614 receivables, 138.961
+inventories for a discounted total of $100.22 divided by the number of shares
+17.276= 5.80/share
+
+Long term assets I lump together and discount by 50% even though Graham
+suggests PPE be discounted by 85%. HKF has PPE of 26.232 and other LT assets of
+16.349 which amounts to a gross of 42.581 which when discounted by 50% is
+21.29, divided by 17.276 shares is 1.23/share
+
+I count all liabilities at 100% of stated amount. HKF liabilities are: Current
+Liabilities of 66.23, Long term debt of 21.0, and other LT obligations of 27.95
+for a total liability of 115.18 when divided by 17.276 is 6.67/share
+
+So, 5.80 + 1.23 - 6.67 = .36/share
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 7:52:06 PM
+From:Q.
+re. SPORE, I don't like stocks with an E at the end. If the Nasdaq doesn't like
+it, then I don't either. I'd rather look at another of the ~7000 stocks trading
+on nyse or nasdaq.
+
+Nevertheless, I took a quick look, and I found that it's cheap compared to net
+current assets only when you include the inventory of golf shirts, which
+accounts for half the current assets. I have no way of knowing how valuable a
+Haley-brand golf shirt might be in liquidation, but I'm sure it's not as good
+as cash.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/2001 8:03:36 PM
+From:RockyBalboa
+Thanks N, I didn't dig that far into the BS, I only read about the 23M working
+cap and the cash on the BS. Haven't looked at the net assets.
+
+I can ask my father re. Haley Golf shirt (whether they are really used by the
+golf pro's and amateurs, or whether they are simply being produced and stuffed
+into the sales channels). One sure sign would be if they appear on bluefly's
+deep discount outlet &#233;n masse.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/2001 12:12:38 AM
+From:Paul Senior
+TimbaBear: Thanks, I'll be alert to you and your valuations.
+
+On the one hand, I guess anybody can post anything they want and call it their
+interpretation of netnet. And as long as I've been forewarned, I guess that's
+as good as I can expect.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/2001 6:16:32 AM
+From:valueminded
+Spore is still embroiled in discussions with the nasdaq listing committee. It
+appears that as part of the resume trading and continued listing requirements,
+that they agreed to have all the prior years amended 10q's done by Jan 15 (i
+believe)
+Well they missed that date and want it extended to Mar 30 I believe. So far no
+news from the nasdaq. All that said, I remain long & am looking to increase my
+position on weakness.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/2001 8:28:31 AM
+From:Craig Bartels
+I finally got out Friday at 17 3/4. Had to take some profits off the table from
+7 to 18 in no time.
+
+chbartel
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/2001 7:34:33 PM
+From:Kapusta Kid
+Has anyone looked at lumber or forestry companies?
+
+A line from a recent Herb Greenberg piece on TSC:
+
+"Most mills in the South are shut down until the market recovers. In some cases
+the logs cost more than the lumber is worth after it is manufactured. There are
+going to be a lot of bankruptcies. ... There appears to be little relief in
+sight."
+
+I made a timely entry into the energy stocks a couple of years back when energy
+was getting the same kind of press and we were having gasoline wars at under 50
+cents a gallon. Has anyone explored any companies in this sector?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/2001 10:32:44 PM
+From:Q.
+re. out-of-favor stocks, DaimlerChrysler (DAJ) is getting bad press every place
+you turn. It almost seems like a feeding frenzy.
+
+The chart shows it, too: http://finance.yahoo.com/q?s=DAJ&d=2y
+
+re. DAJ's valuation, here's two ways of looking at it:
+
+(1) yield: <pre>
+DAJ 6.9%
+Fiat 2.3%
+Volkswagen 1.3%
+Porsche 0.4%
+F 4.5%
+GM 3.6%</pre>
+
+(2) price multiple (enterprise value / EBITDA).
+
+For that, here's an excerpt from this week's Barron's cover story about BMW:
+
+... that puts BMW's 2001 price/earnings ratio around 13. But few analysts or
+big investors regard P/Es as a good measure of value when it comes to European
+corporations, because accounting standards are rather loose and bottom-line
+figures can thus be "adjusted," sometimes quite liberally.
+
+Instead, they look at the enterprise value ratio, or EVR, which is enterprise
+value (market capitalization plus debt, minus cash) divided by EBITDA (earnings
+before interest, taxes, depreciation and amortization).
+
+By this standard, BMW is not the cheapest stock around, but neither is it very
+expensive. Its 2001 EVR of about 4 compares with
+3 for VW,
+5.3 for Fiat,
+3 for DaimlerChrysler and
+7.1 for Porsche.
+Because they are focused on the premium segment of the market, BMW and Porsche
+typically sport higher EVRs than other carmakers. 
+
+Looking at that, I'm not sure what to think. It has the same multiple as VW.
+
+I tried to compute the same ratio for F and GM, although I only had TTM values
+for EBITDA, not 2001 values as for the European makers in the article. I
+calculated the trailing EVR as 7.1 for GM and 17.8 for F (where the difference
+between the latter two is attributable in part to the greater leverage at F as
+compared to GM).
+
+I wonder if it's yet at a point where you can buy one of the world's greatest
+brands at a discount and get Chrysler for less than nothing on top of that. Any
+opinions?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/2001 11:17:42 PM
+From:TimbaBear
+The problem I have with using Enterprise Value for anything is that it is
+derived from Market Capitalization. Market Cap is simply share price times
+number of shares outstanding. If the stock is popular(like the dot bombs were),
+we could be talking a vastly out-of-whack market cap. Additionally, EV uses
+debt in its calculation as well, so a company that pays off its debt has a
+potentially lower EV for being prudent.
+
+Enterprise Value has too many flaws for me to use it yet. It is one of the
+calculations I've built into my spreadsheet, thinking I may find a use for it
+somewhere down the road, but I haven't found one yet.
+
+As far as Daimler Chrysler is concerned, I think they go lower before they give
+up altogether. They are trying to apply European business thinking to an
+American enterprise and very few are successful at that. If they would have
+kept American management throughout, they might have had a chance, but they've
+got it all screwed up right now from what I can see. I'm going to wait until
+either they get their management act together or sell it.
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/2001 1:31:37 AM
+From:Bob Rudd
+&#209; wrote<<By this standard, BMW is not the cheapest stock around, but
+neither is it very expensive. Its 2001 EVR of about 4 compares with 3 for VW, 3
+for DaimlerChrysler>>
+I'd rather have BMW @4 or VW @ 3 than DAJ @3, cause BMW & VW aren't stuck on
+the side of the road with 'mechanical problems' I suspect DAJ has internal
+cultural problems with the merger that won't be fixed quickly and it may have
+some marketing problems with the Germans taking over the US operation. All this
+in a company with high fixed costs & 2x debt to equity going into what could be
+a mild global recession with excess industry capacity. Kerkorian is bailing
+http://biz.yahoo.com/apf/010122/daimlerchr_5.html [and suing for $8 Billion]
+after sticking with Chrysler in some tough times.
+I don't have a clue what problems VW or BMW could be facing, but I can't
+believe they would be bad enough to justify parity with DaimlerChrysler.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/2001 2:02:08 AM
+From:Paul Senior
+P. Kocmalski: regarding "lumber and forestry companies"
+
+The stocks that I follow are up from their lows. I'd not be a buyer now.
+Namely,
+
+IP - if it gets down to where it was when I mentioned it on this thread last
+year, I'll double my small position in this Dow stock, the country's largest
+private landowner.
+
+WY - I buy this one when the dividend yield falls into a formula I use for
+evaluation. That is - I try to do that - The last time the price was right
+(last year) I had no confidence, passed on the opportunity, and the stock rose
+away from me.
+
+PCL, BCC, I occasionally look at. I monitor LPX- again when price was lower, I
+just could not reach for it. I'll try again if the stock drops to lows.
+
+In a different arena, I'm partial to BMHC. I've mentioned it here several times
+- don't wish to tout it (it garners no interest on this thread anyway -g-), but
+I'll mention it again because it is still attractive (imo, based on standard
+value criteria)and lumber does account for a substantial part of its business -
+garage doors, roof and floor trusses, pre-hung doors, wall panels - which are
+sold to professional contractors and builders.
+
+http://finance.yahoo.com/q?s=ip+wy+pcl+bcc+lpx+bmhc&d=t
+
+If you bought energy stocks when stock prices were low and the press was
+bemoaning the energy problems (gas was at or under 50 cents a gallon?? -- those
+were the old days all right), maybe the opposite might work now that energy is
+so expensive. I suggest looking at steel stocks, although I realize that this
+is just too ugly stinky a cigar to look at -- the structural problems with
+imports, brutal domestic competition, etc. etc. (Has anyone made any decent
+money buying steel stocks in the last 5 or 10 years???) Maybe more reasonable
+for a downtrodden industry would be airlines. We know people are still flying
+and want to travel, and the industry is trying to consolidate into just a few
+players (domestic carriers). Imo the stocks of these companies will, at some
+point, revert to higher prices (but maybe not before those share prices go
+lower -g-). I hold stocks in both these industries; will add more to airlines
+if/when they test lows.
+
+Paul Senior
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/2001 5:58:40 AM
+From:valueminded
+TimBa
+
+I think you miss the whole point of Enterprise Value discussion, the issue is
+Enterprise Value Ratio. Which means if you pay off your debt, your ratio will
+go down and if you have a small market cap, your ratio will go down. And
+smaller ratios are better
+
+The EVR = EV/EBITDA.
+
+It is commonly used in buyout scenarios as it is far less limited than PE by
+including the debt side of the equation.
+
+The actual enterprise value (or present purchase price of the corporation)is of
+great benefit and I usually replace market cap with EV when I do ratio analyis.
+For example, price to sales ratio doesnt mean anything to me if the company is
+saddled by a debt which dwarfs its market cap. (typical of many car companies
+in particular)
+
+In terms of car companies, I think Daimler has its hands full. The projections
+I read are that car sales will be declining for the next couple years - hardly
+a prescription for increasing values in the lot. I think they kind of bounce
+around for a while and maybe go lower here. Additionally, Last time I checked,
+there are more interesting companies which have EVR's in the 3 range (or less)
+- some of which may not have as many warts as daimler.
+jmho.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/2001 10:54:19 AM
+From:TimbaBear
+Chris
+
+Thank you for clarifying the context of EVR usage.
+
+So, a company which shows high EBITDA is more likely to have a lower EVR.
+
+I understand that the Enterprise Value number was just sitting there waiting to
+be used, because it had been derived to arrive at a company's sale price.
+
+But as an investor in a value situation, as a tool for evaluation, I still
+don't have any comfort with it. But then I've got screwy ideas anyway! I mean,
+to me, EBITDA is not that important of a number either. I would much rather use
+CFO(Cash from Operations).
+
+Since I never buy whole companies, just little pieces of them, I don't have to
+tie myself to the same techniques as those who do. I would much rather buy a
+company selling near it's NetNet valuation levels than one based on an EVR
+ratio. Have you considered using CFO instead of EBITDA in this ratio? Any
+thoughts on it?
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/2001 12:24:43 PM
+From:valueminded
+TimbaBear:
+
+Yes, and oftentimes do use cash from operations. Only caveat is I tend to use
+free cash from operations as opposed to just cash from operations. (maybe that
+is what you meant) At any rate, sometimes the capital load necessary to run in
+place in a business can be significant.
+
+I agree with you on the net/nets. When looking for companies to invest in, I
+look at them a couple of different ways, sometimes net/nets and sometimes as
+depreciated cash flows compared to the cost basis of the corporation.
+Occasionally, (and this is rare) I get companies which fit both.
+
+PS. My earlier musings on HKF was not a company which fit the net/net category,
+it did fit my criterion for cash flow and ev, however.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/2001 1:00:26 PM
+From:TimbaBear
+Chris
+
+Yes, and oftentimes do use cash from operations. Only caveat is I tend to use
+free cash from operations as opposed to just cash from operations. (maybe that
+is what you meant) 
+
+I don't think I meant FCF....how do you arrive at FCF? If it's Net Income plus
+Depreciation and Amortization minus CAPEX, then I meant CFO. If your
+calculation of FCF is a different formula, I'd like to know what it is so that
+I can more directly answer the question.
+
+....sometimes as depreciated cash flows compared to the cost basis of the
+corporation. 
+
+Would you take the time to explain your approach here? What do you use as the
+"cost basis of the corporation"? and are you meaning FCF instead of CFO? :~)
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/2001 4:12:24 PM
+From:Paul Senior
+Wayne C. Closed out my ALCO position today. Thanks again for your input here on
+this stock last year.
+
+(Stock seems to be in a trading range, and I've just got antsy, esp. to take
+some profits and move on. I'll place ALCO on my watch list and attempt to
+reenter if it again approaches lows.)
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/2001 10:26:34 PM
+From:valueminded
+TimbaBear:
+
+<I don't think I meant FCF....how do you arrive at FCF?>
+
+As you wrote, thats how I come up with Free cash from operations - (income
++depr+amort-capex) Sometimes, the capex is neglected - and it can often be
+high. For ex. semiconductor companies.
+
+In terms of cost of corporation, I probably would have been better suited to
+say EV as that is what I meant.
+
+One other point I neglected to mention it that I will sometimes modify EV by
+subtracting out cash on hand. I dont use current assets per se. because they
+are often hard to evaluate. (ie for companies like gtsi, inventory may need to
+be hit with a 0.5multiplier whereas for apparel, it may be closer to .7 or .8)
+Cash on the other hand is somewhat easier.
+
+As far as discounted cash flows, it is pretty straight forward other than your
+choice of the risk free rate. For me, I choose to look at my "longer term" debt
+(mortgage, car etc) and use the highest interest bearing debt as the risk free
+rate.
+
+Dont know if this helps or not, But if your interested, I will publish a recent
+stock screen if you like. I am not wholely satisfied with the screening
+criteria yet, but it is what I am working with now.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/2001 2:13:17 AM
+From:TimbaBear
+The definition of risk free rate that I've come to know is that rate you can
+earn on the money with no risk associated. Since there is no such animal, what
+has been generally accepted is the rate on the T-Bill. When you indicate using
+a rate higher than that you are, in effect, saying that you want to be
+compensated for the risk you are assuming in making the investment. Frankly, I
+use 14% as a minimum. May be unreasonable, but if I can get it, I laugh all the
+way to the bank :~)
+
+I'm still not clear on your valuation methodology. The factors in discounting
+cash flows as I know them are: Time, PV(present value), rate, payment and
+(FV)future value. I take it that the rate is what we've been discussing, and
+the payment for these purposes is always zero, I think you are using EV as
+future value(discounted back to the present?)but then what time period do you
+use? 1 year?
+
+As far as sharing your screens, I'd love to see them!
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/2001 7:56:59 AM
+From:valueminded
+TimbaBear:
+
+I think the idea of a risk free rate is important when discounting future cash
+flows. I dont think it should incorporate getting paid for market risk as I
+view that as something altogether different. Hence the need for a relatively
+accurate risk free rate. For me it is easy to determine. Since I have a
+mortgage, I use the interest rate of the mortgage. It is essentially risk free
+(at least for the remainder of the mortgage period).
+
+To be compensated for market risk, I like to see about a 40% discount between
+the calculated value (if you can call it that) and the buy price. Since I am
+not much for projecting growth rates, I look at just the prior and next year.
+These companies should be throwing off excess cash. I have a predilection for
+them to use the cash for dividends, stock buybacks and debt repayment. If not,
+I tend to avoid.
+My last stock screen brought up: hkf, mga, nvh & finl. I havent researched any
+of these except hkf to date. On a first cut, finl is looking interesting. Any
+comments there?
+
+thanks
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/2001 10:56:57 AM
+From:sjemmeri
+I did a screen yesterday for O'S type criteria (low PS, up from 52 week low)
+but added a limit on debt2equity and then manually screened for insider buying
+in last 12 months (some a little, others a lot). Got the following:
+AMES
+ATPX
+CAV
+CEDC
+CONV
+HBI
+IECE
+JLMI
+KMX
+MGL
+NRRD
+PSAI
+ROWE
+SMNS
+TFH
+TRBR
+WAC
+WLK
+
+I didn't buy any yet (well except for rjm2's HBI in recent past) but several
+look very interesting. Unfortunately, AMES is shooting up on news today.
+
+steve
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/2001 12:15:32 PM
+From:TimbaBear
+Hence the need for a relatively accurate risk free rate. For me it is easy to
+determine. Since I have a mortgage, I use the interest rate of the mortgage. It
+is essentially risk free (at least for the remainder of the mortgage period).
+
+I think you are mixing apples and oranges here. "Risk Free" means to the person
+investing the money. The lender on your mortgage still has risk at the rate
+they lent to you, at the minimum, they have default risk and they have
+inflation risk if you have a fixed rate. They accepted the difference between
+what they could get on a T-Bill and what they charge you as an interest rate as
+their desired compensation for taking on the added risk. This does not make it
+a "risk free" rate for them, just the rate at which they feel adequately
+compensated. This is not a "risk free" rate for you because this is a debt
+expense, not an asset return.
+
+By using the mortgage rate, you are in effect saying:"I can get (say)6% on a
+T-Bill, but I want at least X." Where X is the T-Bill plus some margin of
+return that raises the rate to your mortgage rate.
+
+Regarding your list, I had already looked at NVH and came up with a NetNet
+value of about $7.75/share which, I believe, is lower than current market
+price.
+
+FINL, by my calculations has a NetNet value of $4.76/share, which is also below
+current market price.
+
+I haven't looked at the other two.
+
+I just bought some ARWM at $2.00, I get NetNet at $1.85 with most of that from
+current assets. Looks like a decent growth rate.
+
+I have two more I'm interested in, but don't want to say what they are until I
+get them.
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/2001 12:42:31 PM
+From:TimbaBear
+The other two companies are VII and REF.
+
+On VII I have a NetNet valuation of $4.25/share, and I bought today at $2.50.
+It has slow growth, and is showing a negative CFO for the most recent reporting
+period, but it is because the Postal Service contractors have been slow in
+paying and therefore their receivables have increased thus reducing CFO. This
+sounds plausible enough that at this discount to NetNet, I'm willing to take
+the chance that it is a short term negative CFO.
+
+REF I show with a NetNet value of $3.57/share, I bought it at $3.125/share.
+This one has somewhat faster growth and currently positive CFO and FCF.
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/2001 10:31:51 AM
+From:Kapusta Kid
+Mike Burry's new hangout...
+
+http://www.scioncapital.com/
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/2001 3:52:25 PM
+From:Allen Furlan
+Pete, fwiw you might find ffs, fletcher challenge forests, interesting. I do
+not own it and have been too lazy to investigate all the shenanigans going on
+with the parent company( recent huge writeoff and secondary offering befuddled
+me) But based on your theme this may be a sleeper.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/2001 10:19:31 PM
+From:TimbaBear
+Well Guys and Gals, I won't be posting again until Feb. 4th or 5th. I'm off on
+a 7 day Caribbean cruise. Leaving a day or two early to do some visiting before
+reaching Ft. Lauderdale to sail on Saturday.
+
+It would sound nice if I said I'd think of you all, but I'd be fibbin' if I
+did! :~)
+
+Ocho Rios, Jamaica(mon!); Cozumel, Mexico; Grand Cayman; and Princess Cay....a
+tough life, but they got the right guy for the job!
+
+I hope to find a boatload of NetNets waiting to be plucked when I return :~)
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/2001 10:32:52 PM
+From:Bob Rudd
+FCF - I've always used CFO - CAPEX, because it adjusts for working capital
+changes, which (income +depr+amort-capex) doesn't.
+EV should be Total debt - [cash & marketable securities]+ market cap. Not to
+adjust for cash can be misleading in high cash companies like PE and PS are
+misleading in high debt companies. [For a more accurate read, include preferred
+and operating leases - sometimes debt by another name]
+Agree with comments that EV/EBITDA is basically a quick and dirty measure of
+relative value that does a far better job than PE & PS because of debt
+inclusion. Basically a first cut, 'Do I want to look further?' tool, leading to
+further analysis if attractive. I also like it because it's smoother than FCF
+based ratios and there's some industry data that provides standards of
+comparison.
+Just my .02
+bob
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/2001 12:33:16 AM
+From:Paul Senior
+re: "EV/EBITDA is basically a quick and dirty measure of relative value that
+does a far better job than PE & PS because of debt inclusion"
+
+Perhaps on that basis, but there are other issues to consider as well. For
+example, if it is desirable for other people to recognize value and so buy the
+stock and bid the price higher, it's pretty easy to find historical trends -
+company specific as well as industry - to argue when price/earnings is
+unusually low or price to sales. But calculating historical EV/EBITDA takes
+much more work and imo, limits the population of potential investors who will
+do this work and so come into such an undervalued stock.
+
+Furthermore, there are some stocks which historically trade on their
+relationship to price/earnings or to book value or perhaps to interest rates or
+dividend yields. Knowing how such stocks or industries trade can be very
+helpful to the investor. In that vein, I have come to rely on several people
+here for their knowledge that broadcasters or newspapers, for example, do trade
+based on cash flows. Applying EV/EBITDA as a general screen against all stocks
+only would work in two general cases, I believe: finding attractive candidates
+that also are attractive on price/sales and/or price/book; finding favorable
+EV/EBITDA stocks in which this is the only outstanding favorable metric, but
+favorable enough to where one is willing to become obstinate in purchasing and
+holding regardless of how hidden to others the underlying value might be.
+
+My impression from recent posts here is that the stocks people are finding now
+that fit their favorable EV/EBITDA requirements either do not exist or are of
+2nd or 3rd tier companies. Is this right? Or perhaps I am confusing this with
+the net-net discussions?
+
+Paul S.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/28/2001 9:24:03 AM
+From:Freedom Fighter
+Paul,
+
+I've come to around to the view that the best way to think about how to value
+businesses is to think like an owner.
+
+The different methodologies (P/S, PEs, P/BV, P/CF etc..) that are applied by
+the marketplace to different businesses usually make a lot of sense because of
+the specific qualities of the businesses.
+
+Some are cyclical - so earnings in any snapshot of time can be meaningless.
+
+Some have profits that change with interest rates.
+
+In some cases the depreciation rates don't match economic reality - so earnings
+are actually higher than reported.
+I agree that that can complicate the screening process.
+
+My own screening process is pretty simple. I buy both versions of Value Line.
+Each week I scan them for companies I would like to own based on their long
+term record, balance sheet, return on capital, prospects, other basic
+information.
+
+I put them all in Yahoo portfolios broken down by industry and then I casually
+glance at the charts and news daily. In the mean time I do more serious
+research on any of them that are close to a price at which I would like to buy
+them.
+
+I also add companies to the list that I read about in magazines, learn about
+from other investors like yourself, pick up from Outstanding Investor Digest
+that other top value guys are buying etc..
+
+Because of my initial screening criteria, I think my process leaves out a lot
+of potential investments in industries and individual companies that are very
+depressed.
+
+But it gives me a list that quite frankly is a lot larger than I will ever
+understand fully or can track completely without giving 100% of my time to
+investing. I try to lead a very balanced life so anything over 98% is too much
+:-)
+
+Wayne
+%EOM----------------------
+
+%BOM---------------------
+Date:1/28/2001 4:14:49 PM
+From:Tomato
+I wonder if someone is interested in helping me out on how to value the stock
+of KDUS and also tell me what action a rational BOD would be doing now to
+enhance share value?
+
+Here are the facts as I know them to be.
+
+KDUS:
+1. 13.1 shares O/S
+
+2. Carl Icahn owns 25%
+
+3. Approx $24 mil in cash
+
+4. a 20-30% (not sure exactly) interest in Axiom, a private
+biotech. Not aware of how much it's worth, but figure a min. of 20 cents per
+KDUS share.
+
+5. No employees, so the burn rate, if there is one after assuming a 5-6% return
+on the $24 mil in cash would consist of the salaires of the CEO, who is the
+only employee, and the BOD and whatever the cost is to produce the SEC required
+documents (maybe there are more expenses, but I'm not sure what)
+
+6. (Here's the tricky part) There's a good possibility/probability that KDUS
+will be receiving patent royalties beginning in 2004 or 2005 of perhaps $12 mil
+yr. or more--lets say $13.1 mil per year to make the arithmetic easy. I don't
+know how long the royalties continue for - but assume it's the length of the
+patent--I also don't know how long a drug patent in good for? Anyone know that?
+7 years or so?
+
+So with that, how do you figure the present value? It's got to be at least
+$2/sh just figuring the cash and Axiom shares...but how do you do the math and
+what discount rate do you use for the stream of royalties? If you expect $1/sh
+in 4 years, would that $1/sh convert to 60 cents now? The $1/sh in 5 years to
+50 cents now? Do you just add the 7 or whatever it is years' worth of royalties
+up properly discounted and add those to the $2/sh cash for the right answer?
+
+Then to the final part of the question-- if you're the BOD, do you try to sell
+the company now or is it best for SH to just sit tight and wait for the
+royalties to begin? And then, do you pass them on as dividends, or do something
+else?
+
+Thanks to anyone interested in tackling this. BTW, I own some of this stock if
+you're wondering.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/28/2001 6:11:11 PM
+From:Q.
+re. EV/EBITDA, I think it's most valuable for comparing to foreign companies
+that don't use US-GAAP accounting, especially for evaluating them as takeover
+candidates.
+
+I think that this discussion began when I posted a table of EV/EBITDA for
+automakers that appeared in a Barron's article on BMW, which was discussed as a
+possible acquisition for various larger automakers.
+
+BTW, automakers are so highly leveraged that the stock price has little effect
+on EV. If you're a big company interested in taking over a little one, EV (not
+market cap) is obviously what you want to look at in the prospective
+acquisition.
+
+I'm not sure it's as helpful for stock investors, though, especially for
+evaluating a cyclical stock and a highly leveraged company. The massive debt
+appearing in the EV will wash out the effect of the stock valuation.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/29/2001 2:37:27 AM
+From:Don Earl
+Tomato,
+
+If I'm not mistaken, drug patents are good for 17 years. Ichan doesn't have a
+reputation for looking after the welfare of other shareholders. I can picture
+two things happening. 1. Ichan gets voting control and does a leveraged buyout
+to grab the cash. 2. Ichan finds a buyer who will swap stock to get the cash.
+The best shot for shareholders would be for the company to actively seek a
+buyer. My guess is most companies would be fairly pleased to get around $20
+million in cash for maybe $40-$50 million in stock. I don't think it would be a
+hard sell even if the value of the patents was assumed to be zero. It would
+basically amount to free money.
+
+I'm not a big fan of the OTC BB, but that one looks fairly clean provided the
+litigation can't come back on them. I don't think I'd bet the farm on it but it
+might fit into someone's basket of 100 net nets. <g>
+%EOM----------------------
+
+%BOM---------------------
+Date:1/29/2001 11:10:01 AM
+From:Jurgis Bekepuris
+A story of uninformed investor...
+
+My worst last year's investment (not counting some option plays ;-) ) was GES,
+which I bought at 7.X in November and sold at 4.X couple days later after
+negative earnings report. Of course, I could have held it from there or even
+added more, but I decided to let it go because of the high leverage. I should
+not have bought it in the first place for that reason, but greed rules
+eternal...
+
+So it climbed to 7.X and then today's news hit:
+
+http://www2.marketwatch.com/pulse/yhoo/pulseone.asp?source=blq/yhoo&dist=yhoo&d
+teid=36920.4131944444-765205784
+
+Maybe the company is a good investment at this point, but the "violation of its
+loan covenants" is not something uninformed investor can deal with.
+
+Good luck
+
+Jurgis - Almost all tech right now. Lightened on SYMC @ $50. Holding the rest.
+Still looking to add LDP.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/30/2001 9:36:10 PM
+From:Archie Meeties
+Only casually and related to this...
+http://futures.tradingcharts.com/chart/LU/W
+Which I follow as a leading indicator of housing starts and a piece of the
+puzzle when determining bank/builder/consumer confidence. In order for the
+lumber companies to become attractive to me, I need to see a discrepancy
+between the price of lumber and the valuation of the companies. Right now the
+companies are overvalued vs. the lumber and have moved in response to the
+expectation that recent rate cuts will trigger a reacceleration in housing
+starts. That's yet to appear, and the price of lumber, dispite production cuts,
+reflects that. You'd have to go back to 1991 to find lumber prices this cheap,
+and that's not inflation adjusted.
+Yes, a contrarian play worth following. Remember also, that higher electricity
+costs will affect all forms of industry in the West. Several mills have
+curtailed production for this very reason.
+
+BTW, what does this mean to you?
+"Most mills in the South are shut down until the market recovers. In some cases
+the logs cost more than the lumber is worth after it is manufactured." I don't
+know the industry well enough to know if this means that the price of
+harvesting logs exceeds the cost of selling the lumber made from them or if it
+merely means that logs are mispriced!
+
+One site of many.
+http://www.randomlengths.com/dailynews.html#curtailment
+%EOM----------------------
+
+%BOM---------------------
+Date:1/31/2001 9:51:08 AM
+From:Kapusta Kid
+Soon after I wrote the original post on this subject, I did a fast survey of
+the majors in this sector and I came to the same conclusion that you did: the
+stocks are overvalued. If the stocks come down significantly, I'll dig in
+further re lumber prices, but it doesn't look like it's worth the effort right
+now.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/1/2001 1:45:18 AM
+From:Don Earl
+Archimedes,
+
+"You'd have to go back to 1991 to find lumber prices this cheap"
+
+If so, the prices aren't being reflected at the retail level, at least not
+where I am. Dimensional lumber prices are within a few cents of what they were
+2-3 years ago which was a good 50% above what they were 2-3 years before that.
+The price of sheetrock has nearly doubled from 5 years ago and wafer board is
+up about 20%. This may not be true in all areas of the country, so consider the
+information as anecdotal.
+
+On the topic of logs costing more than the finished goods produced, my instant
+reaction would be to question the source. I've seen more absurdly slanted
+articles on just about every topic lately that sorting out hard facts is
+getting to be more guess work than anything else. My guess is the FUD factor
+should be discounted by about 70% on most recent news items.
+
+I live in the Northwest, so maybe I can fill in a little bit on that angle. It
+has been an unusually dry winter so far, but one thing I can guarantee is that
+going for a period of time without rain is not a permanent condition.
+
+It'll rain again and everything will go back to normal. In the mean time it
+will affect manufacturing in the area. Generally there is so much extra
+electricity produced from the dams that the power companies sell it very cheap
+to the major users in the area, at a sharp discount, on the condition that if
+there is a shortage the extra is cut off. These companies rarely run at full
+capacity, but if they need to in order to make up for lost time, they can pick
+up the slack pretty quick. The workers get laid off for a few weeks and then
+work a ton of overtime when they go back. The bottom line is that it all
+averages out after everything is said and done.
+
+I think there's another factor to consider and that's that in many areas of the
+country, it just plain isn't practical to build houses in the winter. For one
+thing, building codes won't allow a concrete foundation to be poured when
+forecasts suggest below freezing temperatures before it has time to set. And
+too much rain makes the lumber rot. The entire industry is seasonal and doesn't
+have nearly the exposure to current power shortages as the news would have us
+believe.
+
+None of this really has anything to do with whether or not construction stocks
+are a good value right now but I'm always amazed when I hear I'm in the middle
+of some kind of disaster area when everything looks the same when I look out
+the window.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/1/2001 12:01:35 PM
+From:Archie Meeties
+Long term chart of lumber.
+http://futures.tradingcharts.com/chart/LU/M
+
+You may be paying the same or higher for specialty woods, but for lumber - the
+type used in construction - you should be paying less.
+
+Hope this lack of rain means sunshine for you, not just empty clouds.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/1/2001 12:02:38 PM
+From:Archie Meeties
+At some point they will be great cyclic plays. Something to follow. Also worth
+following are the base metals.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/1/2001 3:04:02 PM
+From:Don Earl
+Archimedes,
+
+That chart really is interesting. I pulled out some receipts from when I was
+building my house in 97-98 and 2X4's were costing me $2.28 each. I bought some
+2X4's for my garage a month ago and they cost $2.26. Whoever gets the part that
+comes out of the middle must be doing okay. A ball park guess is it would cost
+20-25% more to build the same house today. The cost of studs is a fairly small
+part of what goes into a house. It's the cost of siding, roofing, trusses,
+doors, windows, carpeting, sheetrock, etc., etc., etc. that runs the price up.
+I don't follow the sector so I really don't have much of an idea what the 20
+something analysts are saying, but I'd have to assume any analysis based on
+wholesale lumber prices vs. construction costs would have to be flawed. Off
+hand I'd have to say the single biggest cost of building a house for anyone not
+willing to swing their own hammer is the cost of labor. If I were looking for
+trends, I think one of the places to check would be employment numbers. People
+without jobs have a hard time getting financing to buy a new house. Interest
+rates and building costs would have an effect on how much house a person can
+afford, but somewhere along the line they still have to pay for whatever they
+buy. Maybe buy dips after periods of higher unemployment and lower consumer
+confidence start to reverse?
+
+Just my two cents worth and probably worth every penny of it.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/1/2001 5:38:02 PM
+From:Archie Meeties
+Good ideas. To complete the analysis we'd have to break down the lumber
+companies into pure lumber plays and into those that are lumber/paper producers
+or other products. We'd be looking for those with most leverage to rising
+lumber costs, which we would try to anticipate by looking at trends in housing
+permits, interest rates, etc. If you or anybody else would like to do something
+like that, PM me. It might be useful information at some point in the next 1-2
+years.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/2/2001 1:44:35 AM
+From:James Clarke
+Good read
+
+http://www.mjwhitman.com/q_a.htm
+%EOM----------------------
+
+%BOM---------------------
+Date:2/3/2001 11:34:46 AM
+From:Q.
+Forest products industry: list of companies (From MSDW):
+
+ARH Asia Pacific Resources International Holdings Ltd.
+
+CRO Crown Pacific Partners, L.P.
+
+DEL Deltic Timber Corp
+
+FFS Fletcher Challenge Limited
+
+TGP Georgia Pac Corp
+
+GP Georgia-Pacific Corporation
+
+LFB Longview Fibre Company
+
+LPX Louisiana-Pacific Corporation
+
+MYS Masisa S A
+
+POPEZ Pope Res Del Ltd Partnership
+
+PCH Potlatch Corporation
+
+RYN Rayonier, Inc.
+
+WY Weyerhaeuser Company
+
+WLL Willamette Inds Inc
+
+Paper Products Industry: list of companies
+
+ABY Abitibi-Price Inc.
+
+PFA Alliance Fst Prods Inc
+
+AIP American Israeli Paper Mills Ltd.
+
+ARA Aracruz Celulose S A
+
+PAP Asia Pulp & Paper Company Ltd
+
+BPMI Badger Paper Mills Inc
+
+BCC Boise Cascade Corporation
+
+BOW Bowater Incorporated
+
+BKI Buckeye Technologies Inc
+
+BNL Bunzl Pub Ltd Co
+
+CSAR Caraustar Industries Inc
+
+DTC Domtar Inc.
+
+FMK Fibermark Inc
+
+GID Grupo Industrial Durango, S.A. de C.V.
+
+ZCOM Impreso Com Inc
+
+KVIKB Industriforvaltning Ab Kinnevk
+
+IP International Paper Company
+
+JS Jefferson Smurfit Group plc
+
+MERCS Mercer Intl Inc
+
+NSH Nashua Corporation
+
+GLT P.H. Glatfelter Company
+
+POP Pope & Talbot, Inc.
+
+SPP Sappi Ltd
+
+SWM Schweitzer-Mauduit International, Inc.
+
+SEO Stora Enso Corp
+
+MEA The Mead Corporation
+
+UPM Upm Kymmene Corp
+
+VCP Votorantim Celulose E Papel Sa
+
+WMO Wausau-Mosinee Paper Corp
+
+W Westvaco Corporation
+%EOM----------------------
+
+%BOM---------------------
+Date:2/3/2001 11:37:59 AM
+From:Q.
+5-year charts for the stocks in MSDW's Forest Products Industry:
+
+http://quote.yahoo.com/q?s=arh%2Bcro%2Bdel%2Bffs%2Btgp%2Bgp%2Blfb%2Blpx%2Bmys%2
+popez%2Bpch%2Bryn%2Bwy%2Bwll&d=5y
+
+Compare this to the chart for lumber commodity prices:
+
+http://futures.tradingcharts.com/chart/LU/M
+
+Maybe somebody can see if any of these stocks correlate extremely well with
+lumber commodity prices.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/3/2001 12:02:02 PM
+From:Paul Senior
+I've started to trim positions in hotel REITS FCH and LHO.
+
+Back last night from vacation in London. Fortunate to be able to fly there
+first class. Heck of a nice way to travel! Found a very decent Euro. hotel
+through the internet @ 50 pounds per night for two people which included full
+English buffet breakfast each day. (That means a substantial
+eggs/bacon/sausage/potato/croissant/pastry/cereal/cheese/salami/fruit etc.
+calorie fortifier to ward off the English cold weather. ) As many know, hotels
+in London are very expensive. (Yes, "expensive" is relative- but for middle
+class type tourists paying their own way to get middle class type amenities (US
+expectations of shower & toilet in room, TV, phone, clean, quiet, location near
+desirable areas) that price - about $75/night American, including taxes scared
+me. Too low. That- coupled with a couple Sunday's ago NY Times article about
+how businesses have cut back travel thus enabling more vacationers to find
+travel bargains to major US cities- spurred me to place an order (that was
+filled) to trim my relatively large positions in FCH and LHO.
+
+Anybody else considering similar -- hotel REITs are showing good FFO and still
+pay good dividends -- just wondering if anyone else here is considering that
+stock prices of these businesses might be topping?
+
+Paul S.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/3/2001 2:41:52 PM
+From:Q.
+Do hotel REITs actually operate the hotels, or do they lease their property
+with long-term contracts to other businesses who operate them?
+
+This would seem to make a big difference in who is taking the risk during a
+downturn.
+
+I've never looked at hotel REITs before.
+
+My REITs are in shopping centers and office rental, which are pretty well
+protected during an economic downturn by multi-year leases, and apartments &
+mobile home parks, which are stable because everybody needs housing.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/3/2001 6:35:18 PM
+From:Paul Senior
+re: mgmt of hotel reits. Depends on the REIT. Some hotel reits contract out
+operation of hotels. Marriott reit - if I am correct-- split into two separate
+companies, ownership and management, for example. Sometimes, some of the hotel
+reits contract out the running of the hotels to private management companies
+that are owned by the same people who run the reit. There, that would be a
+possible conflict of interest I'd want to be alert to. With LHO, they are small
+and run their own hotels. With FCH, they run their own stuff and also manage
+some of the properties in which they are joint owners I believe.
+
+N, I'm with you on office rental. Still own all I've bought there. And apt.
+rental too. Have no retail other than MLS. Holding on to GTA at a loss.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/3/2001 6:47:50 PM
+From:Paul Senior
+Jim Clarke, re. M. Whitman article. I see he likes RDN. That stock might work
+out okay long term. Do you (or anyone else here) have an opinion on it?
+
+RDN is buying EFS, also a Whitman recommendation. As you know, EFS is a bond
+insurer, a small and poorer competitor to MBIA and Ambac which have been
+mentioned here several times. (Aside: oops. Sorry that I sold most of my MBIA
+(MBI) last few weeks-- figured wrongly, it seems, that MBIA would be dropping
+for quite a while due to bond exposure to California energy companies.)
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2001 12:39:10 PM
+From:Q.
+CRO is the lumber pure play that's taken the biggest beating as a cyclical, due
+to low lumber prices:
+
+Crown Pacific Anticipates Earnings Shortfall and Reduction of Quarterly
+Distribution
+
+PORTLAND, Ore., Dec. 21 /PRNewswire/ -- Crown Pacific Partners, L.P. (NYSE: CRO
+- news) today announced that its earnings for the fourth quarter of 2000 would
+be significantly below analyst expectations of $0.20 per unit. The lower
+results will negatively impact the unitholder distribution level and the Board
+of Control is now analyzing, in accordance with the Partnership agreement, what
+level of quarterly distribution is sustainable given the current market
+conditions. The Board expects to complete this analysis, and announce the
+fourth quarter distribution level by mid-January 2001 after receiving the
+Partnership's fourth quarter results.
+
+Continued dramatic declines in prices for lumber, logs and timberland have
+impacted the Partnership's cashflow and earnings necessary to pay the current
+level of distribution without impairing the long-term value of its assets.
+
+http://biz.yahoo.com/prnews/001221/or_crownpa.html
+
+That announcement of a dividend cut was fairly predictable, but it sliced the
+market cap by more than half.
+
+Here's an excerpt from an October analyst report, when the stock was selling
+for about 18 vs. about 7.8 now:
+
+Crown Pacific’s hallmark has been its ability to meet cash flow and
+distribution growth targets. However, with wood prices at current levels, we
+believe the company would encounter difficulties meeting objectives.
+Additionally, most of the cash flow generated has come from harvest levels that
+we believe exceed the growth rates on Crown Pacific’s lands. We note that,
+based on our estimate of Crown Pacific’s net asset value, we think there could
+be upside in CRO on a liquidation basis.
+
+==============
+
+Taking a look at the balance sheet, it is highly leveraged, with $688 M of LT
+debt, vs. $151 M equity.
+
+http://biz.yahoo.com/prnews/010125/or_crown_p_2.html
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2001 1:24:32 PM
+From:TimbaBear
+Hi everybody, I'm back from the cruise! Had a great time, spent a lot of money,
+got a nice tan and plenty of rest.
+
+Some thoughts I have on CRO....I ran it through my spreadsheet and it doesn't
+look good to me. Even if I discount PPE(and I'm counting the timber and
+timberlands in this total)by less than normally do...I usually discount PPE by
+50%, but here I'm discounting by 30% because large tracts of land seem to hold
+their value....anyway, even allowing for a higher value percentage of long term
+assets, I get a negative NetNet value because of the huge LT debt.
+
+I ran across an interesting way for me to get a feel for Free Cash Flow, and
+have incorporated it in my analysis spreadsheet. I'm starting with the change
+in cash and adjusting it for investing and financing results that are either
+discretionary or non-operational(a la Hackel in "Cash Flow and Security
+Analysis"). By this formulation, I get a FCF of negative 9.7 million.
+
+Until the fundamentals of this company improve, to me buying it at these levels
+would be too much like trying to catch a falling knife.
+
+Just my 2 cents.
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2001 1:54:34 PM
+From:Paul Senior
+A Sunday rant and vent - idiocy of stock picking contests.
+
+These things are mostly set up by journalists or people with something to sell.
+They almost never are promulgated by serious or successful investors. Because
+real investors know how difficult it is to buy and hold on to a stock until
+real gains are achieved -- let alone have some arbitrary contest-ending
+deadline forced on them (which almost has to be just a few months or less -
+otherwise people would lose interest or even forget they've entered the
+contest).
+
+Further, the goal of the contest is always (in my experience) to beat everyone
+else. That is just not a realistic, viable goal for an investor. An investor
+who would or should in reality have a goal that is an accumulation of $$$$ -
+substantial in amount and earning a good return if the funds are not
+accumulated for a specific purchase.
+
+So the contest leads people to pick stocks they believe will go up quickly and
+beat everyone else's picks. These would be, or should be, stocks that the
+contestant wouldn't actually own or would own only as small part of his/her
+investments. Imo, it's really a waste of time to consider these contest-type
+stocks for actual purchase with the expectation they will see superior
+increases in so short a time frame (the contest period.)
+
+Plus, the emotions of paper trading are imo SUBSTANTIALLY different from what
+is experienced in actually owning stocks. And understanding or mastering those
+real life emotions are often what is critical to investment success.
+
+Whole thing is just a waste of time (just like my writing this post!) which
+diverts people from the real issues, and worse, for unsuspecting or new
+investors, the excitement and apparent interest by so many people regarding the
+contest, obscures what successful investing is about.
+
+So there!
+
+Paul Senior
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2001 4:52:32 PM
+From:cfimx
+Paul. I agree completely. It's designed to increase traffic on the site.
+They're inane.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2001 10:03:34 PM
+From:doug5y
+Ditto......
+%EOM----------------------
+
+%BOM---------------------
+Date:2/5/2001 9:23:32 AM
+From:Grommit
+Hotel REITS
+
+Meristar turned in results today and the outlook seems OK.
+http://biz.yahoo.com/bw/010205/dc_merista.html
+
+My largest REIT holdings are CLP, FR (with buffet), UDR, and SNH. And I have
+been buying slightly more and more lately. I figure that it a good hedge if the
+economy tanks because if interest rates drop, RIETS will increase, like a bond.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/5/2001 10:58:12 AM
+From:rjm2
+How about GTSI today ? Nearly a double from my $2.78 buys a few months ago and
+it might be going higher.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/5/2001 1:23:42 PM
+From:Archie Meeties
+Paul, do you know any place to monitor rent/lease rates? I've heard plenty of
+second hand reports about declining rents in some of the more tech heavy places
+in the country.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/5/2001 10:07:47 PM
+From:Paul Senior
+Arch, I don't know of such a monitoring site. Maybe somebody else here or on
+Richard Baron's SI REIT thread might know.
+
+P.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/6/2001 4:00:04 PM
+From:Terrapin
+Thread,
+
+In the "Where Are they Now" column we have Sunbeam (SOC).
+Mentioned here in the past. Wish I had worked shorting into my Value Investing
+strategy!
+-----------------------------------------------------------------
+
+Tuesday February 6, 3:17 pm Eastern Time
+Sunbeam Files for Bankruptcy
+By Brad Dorfman
+
+CHICAGO (Reuters) - Home appliance maker Sunbeam Corp. (NYSE:SOC - news),
+burdened by a heavy debt load, shareholder lawsuits and a probe into its
+accounting practices, on Tuesday filed for voluntary bankruptcy reorganization.
+
+The maker of Sunbeam appliances, First Alert smoke alarms and Coleman camping
+gear, said all its operating units will conduct business as usual while it
+reorganizes under Chapter 11 of the bankruptcy code.
+
+``This was a difficult, but absolutely necessary decision for us to make,''
+Chairman and Chief Executive Jerry Levin said. ``It is, in fact, the only
+option that will free Sunbeam from its overwhelming burden of debt and
+securities-related litigation expenses.''
+
+Sunbeam has been hampered by a heavy load of debt, most of it taken on to
+finance acquisitions by former Chief Executive ''Chainsaw'' Al Dunlap.
+
+The company had total debt of $3.20 billion as of Sept. 30, according to the
+bankruptcy filing, with $2.96 billion book value in assets.
+
+DANGEROUS LEVERAGE
+
+With such a large debt load, the company was unable to meet its obligations as
+the U.S. economy softened, cutting into sales of most appliance makers,
+analysts said.
+
+``With that dangerous level of leverage, nothing could go wrong and obviously
+with this sluggish economy, things did go wrong,'' Rommel Dionisio, analyst at
+Friedman, Billings, Ramsey & Co., said.
+
+The company's cash had dwindled to $15 million on Friday and Sunbeam needed to
+file for bankruptcy protection in order to fund operating expenses and building
+seasonal inventory, the filing said.
+
+``That was a very critical part of the plan, in fact, to continue to pay the
+vendors what we bought for the season,'' Levin said in a telephone interview
+with Reuters. He added that vendors in recent months had forced the company to
+accelerate its payments in order to receive inventory.
+
+Meanwhile, the Boca Raton, Fla., company said in November that the U.S.
+Securities and Exchange Commission recommended an enforcement action after a
+two-year probe over its accounting practices.
+
+The company has also faced shareholder lawsuits as the stock plummeted from $53
+in March 1998 to mere pennies for the past several months. On Tuesday, the New
+York Stock Exchange said it would suspend trading on the stock immediately and
+has filed with the SEC for the stock's delisting.
+
+Sunbeam said its banks have agreed to provide it with a new $285 million line
+of credit, and it has received a
+
+commitment from General Electric Co.'s (NYSE:GE - news) GE Capital Corp. for a
+new $200 million accounts receivable financing program for its domestic
+businesses.
+
+The company said it will file its reorganization plan for itself and its
+domestic operating subsidiaries in U.S. Bankruptcy Court in the New York.
+
+THE PLAN
+
+Under the plan, Sunbeam would convert a substantial portion of its existing
+bank debt into term debt, convertible debt and equity interests in the
+reorganized company. The plan would also include the discharge of all of
+Sunbeam's securities-related litigation and bondholder debt.
+
+The company said it expects to emerge from bankruptcy in six to nine months.
+
+Banks that hold about $1.7 billion of Sunbeam's debt support the plan, the
+company said.
+
+Loan losses, including problems with loans to Sunbeam, hurt fourth quarter
+profits at Bank of America Corp. (NYSE:BAC - news) and First Union Corp.
+(NYSE:FTU - news). According to the bankruptcy filing, each bank holds $499.2
+million in secured Sunbeam debt. Spokespeople at both banks were not available
+for comment.
+
+Morgan Stanley Dean Witter & Co. (NYSE:MWD - news) holds $665.6 million under
+its Morgan Stanley Senior Funding Inc. and Bank of New York Co. Inc (NYSE:BK -
+news) holds $863.7 million in unsecured subordinated bonds. Bank of New York
+was also unavailable for comment.
+
+A Morgan Stanley spokeswoman said the bankruptcy filing was not a surprise and
+added that the firm adjusts the carrying value of its debt holdings to reflect
+the market value of the debt.
+
+Sunbeam said it does not anticipate any work-force reductions or plant closings
+as a result of the reorganization.
+
+Analysts said they did not expect the reorganization to lead Sunbeam to slash
+prices lower than competitors, stressing that the company merely needed to get
+out from under its heavy debt burden.
+
+``Sunbeam is a brand that is going to be here in five years,'' William Steele,
+analyst at Banc of America Securities, said. He added that the bankruptcy
+filing actually could be a positive step for the company, which has suffered
+through uncertainty about its fate for months.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2001 1:15:27 PM
+From:Josh Sliver
+Thread, can anyone help with merger math?
+
+If company A has 300 shares outstanding, company B has 500 shares out, and A&B
+merge at a 1:1 ratio, how many shares does the resulting company have
+outstanding? Is it 800 or "none of the above"?
+
+Thanks for your help,
+
+Josh
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2001 1:51:17 PM
+From:Paul Senior
+I'll jump in with an answer before someone who really knows gives the correct
+response.
+
+If the transaction is 1:1, stock for stock, then I say it depends on what is
+meant by shares outstanding.
+
+I say that B, if B is the buyer, with 500 shares outstanding, has to give out a
+total of 300 shares for each share of A outstanding. If all of B's 500 shares
+are already distributed among B's shareholders, then B has to come up with 300
+additional shares by issuing stock (300). But if only 200 of B's shares are
+distributed among shareholders -- and the other 300 are held by the company as
+treasury shares (allocated to be used for business purposes)in the company's
+equity section (the total thus still being 500 shares outstanding), then B
+could issue those 300 for A's shares. So after the deal is done, in that case
+the answer is 500 shares issued and outstanding.
+
+Similar logic if A is the buyer. Answers depend on how much, if any, treasury
+stock is available.
+
+Paul
+who is wrong many, many times
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2001 12:56:21 AM
+From:James Clarke
+Simple answer is yes. Paul, like any good value investor, loves to complicate
+the simple and simplify the complicated. Thats just the way our brains work.
+Like he said though you have to really dig into most stock merger deals to
+figure them out, especially if you own the buyer.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2001 6:11:42 PM
+From:TimbaBear
+Is anyone familiar with CPCL?
+
+I get a NetNet value of $5.79/sh. which is right around where it is currently
+selling.
+
+Looks to me like they are burning cash pretty quickly, but they apparently have
+expanded fab capacity and seem poised to take advantage of any pick-up in
+technology orders.
+
+Don't know enough about this one to make a call and would appreciate any
+insights anyone else might have.
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2001 7:40:33 PM
+From:Paul Senior
+re: CPCL.
+
+Per Jim Clarke's (ref: post 11971) link to M.J.Whitman's Q&A:
+
+"Q: What do you think CP Clare (CPCL) is worth per share? (December 28, 2000)
+A: Give this valuation a wide berth and a high beta! In a fire sale I would say
+$5 per share (cash plus some value for PPE and intellectual property). If some
+of their new products gain traction (a big if), the value of the company would
+easily go into the low double digits. (Answered by Curtis Jensen, Co-Portfolio
+Manager of Third Avenue Small-Cap Value Fund"
+----------------
+I'm still holding a small position with an average cost around 6. I posted on
+it 7/7/99. At the time, the Whitman people were positive on the stock, having
+established their position with buys between 7 and 12. Jensen's answer above
+seems to indicate that he might not be so positive now. Maybe he's liquidated
+or reduced his ownership.
+
+Using Yahoo - always a dangerous thing to do -- I still see CPCL with no debt
+and going for somewhat more than twice cash. (If verified by the filings, to
+me, it would be the possible margin-of-safety aspect.)
+
+Every year for the past several, CPCL has traded at some point at 10 or more
+(albeit sometimes only briefly). They design and manufacture semiconductors and
+specialized components like switches/relays, and I am betting that once again -
+at some point in the next 12 months I will see 10 in this stock as the general
+component/semi outlook becomes more favorable. (And if I can hold on to this
+thing and the stock does rise, maybe I'll be alert enough to take some
+profits.)
+
+OTOH, Whitman people are pretty astute - Mr. Jensen seems negative on the
+stock, and regarding my picks and my logic and my predictions - I've been wrong
+many, many times.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2001 11:14:43 PM
+From:TimbaBear
+Thanks for the feedback, Paul.
+
+While, indeed, there isn't any long term debt to speak of, I am concerned about
+the cash burn rate. I didn't read their whole report, but I looked at the
+financial statements and some of management's discussion(which didn't really
+address it, which concerns me also), and I didn't see any big non-cash
+write-offs like excess depreciation or amortization of goodwill or anything
+like that. Which says to me that they just aren't profitable at what they do.
+
+I was hoping I was wrong about it, but I guess not. I am looking at these
+Netnets from the point of view of having a margin of safety. If the company
+isn't profitable in it's underlying business, any margin of safety I might feel
+from it selling at Netnet values would be illusory at best. I guess I'll pass
+on this one. Just because it might go to 10 sometime is not enough for me, it
+just might go to zero too.
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:2/11/2001 11:56:41 AM
+From:Paul Senior
+fwiw, value stocks mentioned elsewhere on SI:
+
+http://www.siliconinvestor.com/insight/editorial.gsp?p=IF
+
+http://finance.yahoo.com/q?s=s+esr+dxyn+vsea+vsh&d=t
+
+Paul,
+(I have a small position in esr and a smaller position in vsea.)
+%EOM----------------------
+
+%BOM---------------------
+Date:2/12/2001 1:26:55 PM
+From:Paul Senior
+RDN, CIX.
+
+regarding RDN which I asked about couple of weeks ago,I did start a small
+position in it last week. I'll add more if the stock drops back to my entry
+price.
+
+I'm starting a position in CIX today. Your basic and prosaic industrial type
+value stock, imo. Negative is that it's likely to be in cyclical businesses
+that we haven't seen the bottom to yet. Given that the stock does not have a
+lengthy trading history, and a there's now a new CEO as well, this adds even
+more uncertainty.
+
+Still, at about $9.20, CIX trades below stated book value, and a couple of
+bucks maybe above tangible bv, and sports a p/s about .6 and an roe about 16%.
+(which MAYBE might not be decimated if this economically sensitive stock can
+maintain those earnings). There's a better than 5% dividend to soothe investor
+patience.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/13/2001 12:54:50 PM
+From:TimbaBear
+Paul,
+
+Here's my current list of NetNet stocks: DECK, VIAN, VII, REF, CYSV, CLRS,
+DSET, CPCL, and NPK is getting close.
+
+They are not presented in any particular order.
+
+Timba
+%EOM----------------------
+
+%BOM---------------------
+Date:2/13/2001 4:24:44 PM
+From:David D.
+Anybody with thoughts on COOL?
+
+Internet computer e-tailor.
+
+Quick peek at latest 10q seems to indicate current assets exceeding total
+liabilities. See article in WSJ. Company says they expect to be profitable soon
+etc. $1M rev per employee.
+
+Some insider buying lately.
+
+Haven't done real digging, just looking for opinions.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/13/2001 5:02:06 PM
+From:Paul Senior
+Thanks, TimbaBear. Looks like some good stock ideas to review. This list is a
+list of your netnet stocks that you are following, not a list of stocks in
+which you have actually taken positions, is that right? Because in your
+previous post you said you were not buying money losing companies, and at least
+a couple on your list are reporting losses.
+
+Paul S.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/13/2001 5:08:39 PM
+From:TimbaBear
+I just did a quick run-through of the numbers and show COOL to have a NetNet
+value of approx. $1.27/share.
+
+However, I don't feel that this represents any real margin of safety for this
+particular issue as they are not profitable at what they do and, as a result,
+have a very high cash burn rate.
+
+I have not read their filings with the SEC, just looked at the Financial
+Statements they filed.
+
+Timba.
+%EOM----------------------
+

@@ -1,0 +1,1451 @@
+%BOM---------------------
+Date:2/4/2005 1:32:31 AM
+From:gibbons
+Steve, based on this idea that Spek talks about (the majority of the returns
+come from a few stocks), you might want to also consider screening your set of
+net-nets through the Piotroski screen.
+
+http://webuser.bus.umich.edu/Lundholm/mywebs/valuedog/sniffing.htm
+
+The basic idea is to separate the low priced stocks that are about to collapse
+from those that are turning around.
+
+Richard
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2005 1:40:41 AM
+From:Paul Senior
+Muwis123, you asked about my favorite investing ideas.
+
+Hard question for me.
+
+Stocks that I'm enamoured with when I buy them - favorite stocks at the time I
+buy them - often seem to be just the ones that don't work out so great. (GTI
+and ABS being only two examples.) And the stocks that I'm iffy about when I buy
+them, well those sometimes just are the ones that eventually have the biggest
+upside moves. After they've moved up, I'm happy of course, and they become my
+favorites in that sense. Possibly not much interest for a value hunter then
+though, because the stock(s) would've already made a move.
+I guess I could also say my favorite stocks are the ones I'm buying now - my
+attention's focused on them, and I'm somewhat more clear about why I'm buying
+them vs. my lesser interest in some boring stocks that've been in my portfolio
+for months or years.
+
+I would say my favorite stock ideas now are oil related. I mentioned a few such
+stocks here again recently. I continue to make small adds now to my oil
+positions almost every day.
+
+Not necessarily favorite ideas, but I'm willing to make some small speculative
+bets on some non-value stocks that might do okay over the next few years. I've
+added to CZR (diverse gambling interests), DTV (I like the service), ATK
+(bullets and other military projectiles), and I recently started a position in
+SYK. (Perhaps I am also trying to reduce some seller's remorse - I sold BMY
+spinoff ZMH too soon (and have held BMY too long). Still, I bet the high p/e
+orthopedic stocks will hold on to those high p/e's somewhat even as earnings
+continue to increase (I hope.))
+
+http://finance.yahoo.com/q?s=ABS,GTI,CZR,DTV,ATK,SYK,ZMH,BMY&d=s
+
+Muwis123, what might be some stocks that you are buying now or that you might
+characterize as your favorites?
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2005 10:12:46 AM
+From:schzammm
+Moose Pasture?? Its just one pump and dump after another. Is this a Yahoo
+satellite board???
+
+Wallace, SYMC looks to have found support. Looking at the chart for a
+confirmation price to add on strength.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2005 12:38:16 PM
+From:Paul Senior
+COMS: The company just cannot get it together. Been waiting for the stock to
+drop to cash value ($3.35, no ltd, per Yahoo). Lost patience, and have decided
+$3.54 is close enough to add.
+
+A losing position for me, my buys being @$6+ in '01 and $5+ in '03&'04. Didn't
+take the opportunity to sell when stock was in positive territory last year.
+I'll try to wait another year to see if stock might retrace again. If stock
+does drop further though to below cash value on no additional adverse news
+(they warned last month about the upcoming quarter), I'll increase my bet.
+
+http://www.nasdaq.com/asp/quotes_reports.asp?mode=&page=&symbol=COMS&symbol=&sy
+bol=&symbol=&symbol=&symbol=&symbol=&symbol=&symbol=&symbol=&selected=coms&Form
+ype=&kind=&Leap=&mkttype=&sel=stockreports&userinput=&x=12&y=11
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2005 5:43:29 PM
+From:Jurgis Bekepuris
+Stock tracking:
+
+Unfortunately my system is not very efficient, but I don't see a good way to
+improve it. :(
+
+I track my portfolio financials in Quicken together with other finances.
+
+I have my brokerage data on the web, but don't use it much except to buy/sell.
+Interface is not that good for DD.
+
+I use Yahoo portfolios to track all ideas with upper and lower limits for
+buy/sell. 150 stocks there, so it's clear I don't spend enough time to watch
+each of them unless something big happens and they drop to the buy point. Don't
+have time to update buy points often either, so may miss the opportunities
+there. Use Yahoo news, Quicken.com data and SEC filings for research.
+
+I have a Buffettology spreadsheet for each one of these 150 stocks (and couple
+more) updated about couple times a year depending on the stock. That's what
+adjusts buy/sell points. I try to put short notes into these spreadsheets about
+my decisions to buy/sell, etc.
+
+I don't track performance more often than once a year and only for IRA, since
+it's rather simple with only one deposit per year. Too tough to do accurately
+for open account with frequent cash inflows/outflows (I use my brokerage as
+checking/bill pay too). Quicken does not do it, don't kid yourself. If you have
+frequent cash inflows/outflows almost no software tracks performance correctly.
+
+Jurgis
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2005 8:37:04 PM
+From:Stewart Whitman
+With regard to your question on how people maintain their portfolio information
+and with the caveat that I've done a lot of software programming:
+
+I maintain all my stock information in a database. I maintain 4 different
+categories of situations: Spin-off, Bankruptcy, Arbitrage, and Other. And I
+further classify the situations within each category (e.g. for the Other
+category there is Value, Growth, GARP, Turnaround, Restructuring, etc.). All
+information is presented via a web interface on my local web server. My
+spin-off information goes back to 1998. My bankruptcy information goes back to
+around 2002.
+
+For each situation, I store general descriptive data for each company typically
+taken from various sources on the web. For each situation, I can attach links
+to news items (for example, links to messages on Silicon Investor). And I
+provide ready access to links to services like Edgar, Yahoo, Quicken, etc..
+
+I also suck down information from various web sources to present derived
+information - for example, for an arbitrage situation, I show things like
+calculated merger value, spread, annualized returns, annualized returns based
+on standard position size and including commissions, even money probability,
+risk-adjusted return, spread history for last 60 days, relative liquidity. Some
+information is updated nightly and some things are based on delayed quote
+information.
+
+For each stock in each situation, I can mark the stock as held, bid, or
+actively watched, and I can present an overall picture of all holdings in my
+portfolio as well as looking into the individual categories.
+
+I also have a big area to enter notes. No more worrying about that skimpy
+single line of text that some internet sites provide.
+
+I also maintain my own buy/sell targets, and periodically during the day,
+e-mail myself a report of which stocks exceed their trigger points. Some nice
+thing about this vs. Yahoo alerts: 1) I can tell when a quote fails - like when
+a ticker has been changed or deleted which yahoo does not, 2) it's not just a
+once a day notice like yahoo at least sometimes seems, 3) it is much more
+immediate than being sent e-mail thru a ton of external servers, 4) I can check
+the list of my held stocks to see whether I've set buy/sell targets for each
+one, 5) generally, since I'm lazy about selling or buying stock and I often let
+stocks sit above/below my triggers, I don't have to worry about sifting thru 20
+or 30 recurring e-mails a day from yahoo.
+
+I subjectively rank stocks from 1 to 5 based on how good a situation appears to
+be. For arbitrage, the ranking is based on how likely a situation is to close.
+For uncompleted spin-offs and bankruptcies, it's based on how interesting the
+opportunity looks. If a stock is trading, the ranking is based on information
+including conference calls and financials. Ranking stocks helps to remind me
+which stocks I wish to retain and which I probably want to liquidate if better
+opportunities present themselves.
+
+Right now, I don't track portfolio transactions so there's no portfolio
+allocation tracking, position sizes, cost basis, or individual position return.
+I do remember the $ value of my account at the beginning of the year and how
+much money was added or removed, so I can tell my return in a rough manner. I
+download and run a program on the history of my account for tax purposes, from
+which I could probably accurately calculate return.
+
+One of these days I plan to add a general calendar that can track things like
+expected merger closings, conference calls, spin-off dates, dividends, etc.
+
+A lot of this is probably overkill (unless you do arbitrage). But if you want
+to graduate beyond spreadsheets, one direction might be to create your own
+personal database. I use Unix with a MySQL database and Perl scripts to do
+mine, but there's always Microsoft Access that includes a lot of tools to build
+interfaces with little work.
+
+Regards,
+Stew
+%EOM----------------------
+
+%BOM---------------------
+Date:2/4/2005 11:46:20 PM
+From:Spekulatius
+Sold 1/2 of my OIIM, USLM and ISIL for a trade in my IRA. TPE is gone as well -
+the stock may have further legs if history is any guide but i made some easy
+money and leave it at that. I consider adding to my losing position in UVN on
+further weakness to reinvest some funds.
+
+Overall, my portfolio has performed nicely this year, no reason to complain.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/5/2005 3:27:14 PM
+From:muwis123
+Paul - That's the way it works for me, too. Some stocks where I have high
+conviction may only perform in line with the market, while the ones I'm not
+completely certain of tend to outperform. I guess that's the way it should
+work. I take a portfolio approach to investing and have at least about 20
+stocks. Most of them are cheap on FCF and/or BV.
+
+I'm still overweight in energy but not as much as I had last year. My two
+energy names are WMB, HP, and NOI. Despite the run-up in WMB, it is still my
+favorite in that space.
+
+Otherwise, my holdings are fairly diverse. I have a mix of industrial related
+names like
+1) COLL (makes school buses, light trucks and ambulances),
+2) GNRL (makes bearings),
+3) HDNG (makes metal-cutting turning machines) and
+4) CVR (makes rivets)
+
+Technology names like
+1) MRM (makes RF and microwave components),
+2) OCCF (makes fiber optic cables),
+3) ENPT (IT co.) and
+4) RELM (makes wireless equipt)
+
+Regards,
+Wilson
+%EOM----------------------
+
+%BOM---------------------
+Date:2/6/2005 12:01:45 AM
+From:Steve168
+Gibbons, thank you for the link. I like the Piotroski report very much but I
+found there are several "Piotroski screens" do not necessarily produce the same
+results - each interpretation is different.
+
+I ended up with my own twist of "separating winners from losers within low
+price-to-book stocks" based on my personal experience. Apparently my approach
+did not do well in Jan 2005, actually it was doing very badly. There are
+several small things that I intend to modify but I have not given up on my
+basic approach. Investing is a life-long learning process and I sure found this
+board very helpful.
+
+Best,
+
+Steve
+%EOM----------------------
+
+%BOM---------------------
+Date:2/6/2005 12:09:28 AM
+From:Steve168
+Spek, my basket is not as undervalued as in late 2002, but it is definitely
+more undervalued than in entire 2004. There will be several stocks underperform
+and some may go bankrupt, but I hope some will become multi-baggers. But again
+I could be wrong - and my basket was doing extremely poor in Jan 2005. However
+my approach did very well in 2003 so I have not given it up.
+
+Can you share your current basket of stocks you are holding/buying? Anyone else
+can share too?
+
+Thanks,
+
+Steve
+%EOM----------------------
+
+%BOM---------------------
+Date:2/6/2005 12:12:15 AM
+From:Steve168
+MC, you have a good point. Can you share what you consider as traditional value
+stocks at this point of time?
+
+Thanks,
+
+Steve
+%EOM----------------------
+
+%BOM---------------------
+Date:2/6/2005 1:02:55 PM
+From:MCsweet
+As far as what I own. A couple mentioned recently on this board (had some small
+run ups) are GTSI and PLPC. OCA mentioned previously, as well.
+
+WEFC --- this one is basically a guaranteed $2 + divvy if u buy now for 99
+shares or less (odd lot), because there will be an upcoming reverse split that
+will take you out odd lots at 31.50. This also has some acquisition interest @
+35.00 (competing tender) that could possibly drive the price higher.
+
+I'll throw a few more random names out there AIH, SCVL, MAXF (a former Dale
+Baker success story that has come onto some rough times, trading near book
+value, seems like reasonable risk/reward at these levels). I am not saying
+these are awesome buys (do your own homework), but I am comfortable owning them
+as part of a larger portfolio.
+
+The stocks that Paul Senior recommends are usually good examples of traditional
+value stocks imo. Most of the stocks on the board fit the description,
+actually. However, from time to time people through out stocks that I don't
+think fit the description --- a few seem like speculative growth stories.
+
+Hope this helps.
+
+MC
+%EOM----------------------
+
+%BOM---------------------
+Date:2/6/2005 1:42:41 PM
+From:lazarre
+hi Brinks,
+
+Considering TPE with some discretionary dough.
+
+And I've always puzzled over this: why would the owner of potentially valuable
+land sell that land? Is it just a question of resources? i.e. the owners are so
+strapped for cash that they can't afford the necessary tests to determine what
+sits below? And/or further, they don't have the resources to develop the
+property even if they knew what sat beneath?
+
+Is that it?
+
+Just trying to understand.
+
+TIA
+lazarre
+%EOM----------------------
+
+%BOM---------------------
+Date:2/6/2005 5:25:25 PM
+From:Spekulatius
+My stocks:
+ADGO.OB, AVZ, BSX, C,CLE,ISIL,MLNM,USLM,UVN,AMAT,BDK,HUM,NSRGY,VIA.B. +40%
+cash. I recently sold OIIM, some ISIL and USLM, TPE and DNDT.OB. I am looking
+to add to my holding in UVN below 25$. My portfolio is doing well so far this
+year, up around 5%.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 10:51:57 AM
+From:Paul Senior
+I'll up my losing position in VSH a bit today.
+
+P/b = .8
+psr = .9
+
+In many past years avg. p/b > 1.2
+In many past years avg. psr > 1.2
+
+Stated b.v. has increased every year since '95 (as far back as my info. shows)
+
+Company looks poor imo on roe and profit margins. Vishay is a manufacturer of
+"passive and discrete active electronic components". Hard for me to see the
+need for all these components going away through technological obsolescense.
+
+Stock's now at about $13; I look for $20 in two years.
+
+All jmo, and I've been wrong many, many times.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 11:30:37 AM
+From:Wallace Rivers
+I own AMAT and VIA.B with you.
+I'm currently trying to get a feel for NYT. I've been looking at it for a
+while, my interest was piqued even more today when I read a CSFB piece on it as
+a potential takeover target (with mention of several others).
+Many of its business lines are soft, yet I like the fact it is trading near the
+low end of its range, and I like its broad portfolio of media and other
+properties - if you're a Red Sox fan like I, you gotta love the minority
+interest (I think 17%) in the World Series champs! It has a decent dividend
+yield, as well.
+
+Anyone with further insight on NYT?
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 11:35:51 AM
+From:MCsweet
+muwis123,
+
+congrats u done have very well to start. good job. don't get overconfident and
+hopefully your success will continue.
+
+i think smallcap and microcap value stocks have had a great run over the past
+few years. i wouldn't be expecting anywhere near those returns over the
+upcoming years unless you are (i) a super-genius, (ii) have a small portfolio,
+or (iii) are taking an inordinate amount of risk
+
+that being said, i have been lucky enough to have positive returns since 2001,
+when i started the strategy in earnest.
+
+MC
+
+don't confuse brains with a bull market
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 12:13:56 PM
+From:LauA
+Paul, I don't have a dog in this fight, but the Yahoo #'s seem to indicate that
+VSH's book value is dominated by goodwill and intangibles. I don't know what
+the barriers to entry are in 'passives', but I wonder if branding, etc. is
+terribly valuable in that business.
+
+Pages 7-9 of Grantham's most recent rant are fun:
+
+http://www.gmo.com/siteservercontents/marketcommentary/jg_letter_all_4q04.11071
+9819.pdf
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 1:18:39 PM
+From:Paul Senior
+VSH: Right. I believe part of VSH strategy is to grow by acquisitions. Their
+major American competitor (Kemet)at least once rebuffed an offer by them.
+
+Branding is probably irrelevant to the business. Competing on cost (against
+strongly capitalized Asian competitors) is likely #1, followed by
+time-to-delivery. (Sometimes customers experience spot shortages when times are
+good, so managing customer relationships is important.) Product innovation by
+VSH sometimes helps in creating added value in an otherwise (imo) commodity
+business.
+---------------
+
+No patience now to read the entire Grantham article. Not too thrilled with this
+guy from what I can read of him lately. He's very bearish - very public about
+it - and consequently in his advice. He says he is net short in his own
+account. But for the funds he manages he says (it is reported) that he loses
+too many customers by being so extreme in his bearish views when he acts on
+this in his funds. So he goes ahead and buys stocks for the fund to keep
+customers. A criticism I read of this is that here we have a long-time,
+high-level, successful big fund(s) manager - so likely he is now worth zillions
+of dollars - and yet at this point in his life he STILL is not willing to
+walk-the-walk; he is just not willing to do what he believes is right. In
+article you referenced, he seems to justify all this. However, his divergence
+between beliefs and actions is a valid criticism of the man, and perhaps a
+microcosm of how some fund managers go against their beliefs in their quest for
+personal profits. Perhaps also, another confirming sign of why individuals have
+to be wary of fund managers.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 1:23:12 PM
+From:Madharry
+You asked about gold stock took a small speculative position in MNG. Van Eck
+fund had a position in it awhile ago.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 1:33:01 PM
+From:muwis123
+MC - Thanks for the advice. I totally agree with what you're saying about not
+getting overconfident.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 4:51:00 PM
+From:Madharry
+I think that the guy is a realist. Unfortunately short term underperformance
+leads to unemployment in mutual fund manager universe.- Remember when Vinik at
+Fidelity at a big bond portfolio. I think he was ultimately right but didnt
+stay at fidelity long enough to be ultimately right.
+Also seems to me that much of the reasoning that i hear for investing in tech
+stocks seems absurd.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 5:04:27 PM
+From:LauA
+I thought Grantham's piece was rather sanguine. My reference to the last two
+pages was a reminder of Tobin's Q, and the current state. I enjoy reading
+something intelligent from someone who looks down before she looks up.
+
+Vis a vis VSH: have you looked into the guts of the new Apple G4/5 mini? The
+overclockers have been removing resistors which are barely visible. Wonder who
+makes them, and how they get soldered? AND, if you wanted to worry about the
+passive business, how about this nano-stuff. Self-assembly and carbon nanotubes
+that can be applied in solution. Looks like circuit boards will be printed up
+with inkjet technology. Perhaps may appear about the time that Social Security
+goes bust, but not good for commodity parts makers.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/7/2005 7:48:07 PM
+From:rich evans
+Paul, The problem with the Passive Electrical companies is in one word--
+SUPPLY. Growth in overall demand has returned but it is easy to supply this
+growth. Same with the chip companies. And now the Chinese are coming. Margins
+keep coming down with about 5% reduction in pricing each year. Since PSR= Net
+margins x PE, the PSRs are coming down for all the suppliers IMO both from
+lower margins and lower PEs.
+
+The EMS industry is a good example of these problems also IMO.
+Old PSRs used of 1- 1.2 are no longer applicable. PSRs of .4 to .6 are being
+used. Growth in EMS has slowed considerably causing a lower PE in the 20 range
+and Net margins are generally less then 2%.
+
+But with VSH, I think you have chosen the best of the lot as to component
+suppliers. They have a lot of diversity of products. They are number one in
+resistors and inductors. The power management chip business is supposed to be
+the best area for the active chip business. Their debt is all converts.
+They tried to do a billion dollar deal last year and failed. But are still
+looking. Their chip margins help the low 10% gross margin passives. I
+personally would stay away from KEM. They are running their plants as cheaply
+as possible. But no matter what the demand, their profits will be limited by
+the unlimited supply in capacitors and low margins. And the Asian competitors
+will keep the margins low and supply high.
+
+In fact when I look back to the good old days, before the bust in 2001, I think
+the mistake was to forget about supply and just focus on demand and expect
+growth to continue in EMS since penetration in the electronic market was only
+about 20%. I was wrong. Here we are several years later, growth is much less ,
+margins are low and capacity utilization is still below 70% and in the PCB
+area, SANM just said they are at about 55-60%.
+
+Regards, Rich
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2005 11:29:24 AM
+From:- with a K
+Update: I closed out ANF this morning on the LB downgrade. I had reenterd a few
+weeks ago; did 10.6% as a ST trade.
+
+Still hold retailers AEOS and CHS, purchased around the same time but which are
+more growth than value plays.
+
+Reentered Dale Baker's CIB recently. Yield of 2.7% Merger news, growth and
+attractive valuations IMO.
+
+Posted elsewhere, I've taken a position in BB stock PDGE, a mold and asbestos
+abatement contractor. I see it as an undiscovered value play (P/S .35, TPE
+11.9, ROE 28%)
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2005 1:35:51 PM
+From:Paul Senior
+VSH: Thanks, Rich Evans, LauA. I appreciate the comments and assist. VSH may
+give me more trouble than I anticipated. I'll keep my holdings - if I don't get
+scared out - small.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2005 1:35:59 PM
+From:Paul Senior
+VSH: Thanks, Rich Evans, LauA. I appreciate the comments and assist. VSH may
+give me more trouble than I anticipated. I'll keep my holdings - if I don't get
+scared out - small.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2005 1:44:08 PM
+From:Paul Senior
+ANF: I've been antsy on this one for a while, so I'll use your post, -with a K,
+to act on my feeling that it might be time to take some off the table.
+
+Forward p/e =19, psr =2.6, p/b = 6.4. Doesn't look cheap on these measures.
+OTOH, 0 total debt (unusual for a retailer, I believe) and $5/sh in cash
+provide lots of flexibility and possibility for management initiatives to
+enhance business value.
+
+Selling 1/2 of my remaining stub position (11/'02 purchase).
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2005 7:45:16 PM
+From:Grommit
+ANF, CLE and BHP.
+
+CLE is a retailer with zero debt. And the ratios are a bit more forgiving than
+ANF. I bailed on ANF mid-january and late-january.
+
+Economist Magazine has an article in Jan 8 edition concerning Steel Prices and
+Coke. Outlook for Coke (not the drug or drink) was exceptional. Here's a few
+clips from the magazine. It cause me to up my investment in BHP last week:
+
+Nippon Steel agreed on new prices with BHP $55 per ton old price, $125 per ton
+new price. "This week, POSCO, from South Korea, made similar deals with BHP,
+and Rio Tinto, number two in the trade."
+
+China just signed 25 year deal with BHP. JFE Steel (japan) agreed to 20% stake
+in a venture led by BHP... etc etc etc
+
+The steel makers haven't been worried about price, "The Steelmakers' real worry
+recently, however, has been getting the stuff."
+
+"The price of these raw materials (coke for the steel makers) rose fast in
+2004. They are likely to continue that way in 2005."
+
+grommit
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2005 9:20:19 PM
+From:Paul Senior
+Grommit: CLE, WTE. I see you and Spekulatius like CLE. Nice move in that stock
+today (incl. after hours rise). I initially believed it was too expensive. I'll
+check it out with my market research team this weekend (i.e. I'll ask my
+teenage nieces -g-)
+
+As I've said before, I missed the steel stock and coking coal run up - I
+gave-up just before the run-up. grrrrr. And have not been able to get myself to
+re-enter positions. (to my regret)
+
+I am holding stocks of steel distributors though. And as a play on Canadian
+coking coal, I have a very small position in dividend-payer, Westshore
+Terminals Income Fund, which controls the shipping of the stuff from their port
+in Vancouver. Canadian symbol is WTE.UN. I own very small of WTSH.pk. Info.
+about Westshore here:
+
+http://www.sedar.com/DisplayProfile.do?lang=EN&issuerType=03&issuerNo=00004002
+
+I got this particular stock from reading SI posts by Taikun. Seems to be a chap
+helpful and knowledgeable about Westshore.
+
+Paul Senior
+aside: I'd like to believe in port stocks. As trade increases, they should
+benefit as they take a $ haircut by charging from all the stuff passing in and
+out. So I also am holding Huwhy.pk - it's not doing too well now though.
+(Issues apparently with other aspects of their business (G3 communications))
+%EOM----------------------
+
+%BOM---------------------
+Date:2/8/2005 11:52:06 PM
+From:- with a K
+Picked up some KSWS today. I liked the recent report and CEO comments, even
+though he sold some shares in November (20% down from current price!) Some of
+the valuations are not that much more attractive than ANF, but I sure do like
+its earnings and revenue growth. Great margins, ROE, even better than ANF's
+impressive numbers. EPS estimates rose in last week. Graham FV calculation
+looks good. Fido's Joe Tillingast (sp) owns. Nice earnings surprises to the
+upside last 4 quarters.
+
+Discussed KSWS before (feel like I'm repeating myself!) but never acted on it.
+Dumb. So maybe I was feeling a little antsy.... to buy.
+
+:>)
+
+K-Swiss Reports Record Fourth Quarter and Year-End Results
+Thursday February 3, 7:00 am ET
+
+snip
+
+K-Swiss also issued guidance for the first quarter of 2005 and for 2005. The
+Company expects revenues for the first quarter of 2005 to be approximately $138
+to $143 million and earnings per diluted share to be in the range of $0.52 to
+$0.57. The Company expects full year revenues to be approximately $480 to $500
+million and expects to report full year earnings per diluted share of
+approximately $1.70 to $1.80.
+
+The Company's estimates for the first quarter of 2005 and full year 2005
+reflect the continued investments in marketing, sales and product development
+for the Royal Elastics brand as well as the expansion of European operations.
+They are based upon the following assumptions: gross margins will be between
+44% and 45%; SG&A will not rise above $32 million for the quarter and $127
+million for the year; cancellations will be moderate; and the Company's growth
+initiatives with respect to Royal Elastics will not exceed a net loss of $0.07
+to $0.08 per share for the year.
+
+Steven Nichols, Chairman of the Board and President, stated, "In a year filled
+with many notable accomplishments, the fourth quarter lived up to our
+expectations. We noted with pleasure the recent improvement in sales to our
+largest customer, yet another quarter of company-leading sales from our Classic
+shoe and the increasingly significant contribution from our international
+business. We also successfully executed a fourth quarter television campaign -
+our largest in that time period - that resulted in a sizable increase in
+at-once business and improvement in margin.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/9/2005 7:25:30 PM
+From:Paul Senior
+Nice analysis on the ABS preferred, E_K_S. I'm not much of a preferred investor
+though, and I know nothing about hybrids.
+
+I have a very small ABS (common stock) position which I'll possibly add to if
+stock drops below $20 on no adverse news. I'm not willing to buy the common at
+current price, and given my inexperience with preferreds, I'll avoid the ABS
+preferred also.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/9/2005 7:58:22 PM
+From:E_K_S
+Hi Paul - Thanks for your opinion. I have been slowly converting my common
+share purchase of ABS over to the preferred assets. My cost basis for my common
+shares is around $20 and I have sold half of my position in the common at
+$24.50 and bought the preferred at around the same price. This way I receive
+the higher "qualified" dividend while I wait for the company turn around. It's
+a matter of making a fair investment into a better investment (7.5% yield plus
+possible capital gain return.).
+
+The point of my post was that if the waiting period for the turn around will
+now be 24 months (and it's turns out to be a positive event), then the
+preferred shares are the best "hold" and "wait" strategy. My strategy was to
+exchange my common position to the preferred position. I still have 1/2 of my
+common position which I will continue to sell Jan'06 $25 calls.
+
+=========================================================
+Did you notice that the ALD dividend in a "non-qualified" dividend? The SFL
+dividend (about the same rate as ALD) is "qualified" and taxed at the lower
+rate.
+
+I am also following your JPM pick as I need to add to my bank stocks. Your Citi
+Corp. call (a few month's back) @ $44.50 (C) was excellent and I wish I had
+picked up more shares (it's a "qualified" dividend too!). I continue to load up
+on NYB and have up my position twice at prices in the $17 range. NYB now ranks
+number 2 in my taxable portfolio and I believe the long term holder will
+achieve a good return and will collect a safe %5.25 dividend while they wait.
+
+Finally, my new MRO position has done quite well moving above $40 near new
+highs. I covered my naked April $32.5 Put today and continue to let my April
+$40 covered call ride. These oil stocks continue to do quite well.
+
+Congratulations on your picks in the home builder stocks. New highs again! I
+missed this sector but this is the nature of the market.
+
+Your observations are always helpful.
+
+EKS
+%EOM----------------------
+
+%BOM---------------------
+Date:2/9/2005 8:01:58 PM
+From:Paul Senior
+KKD: Thanks, hoyasaxa and E_K_S for replies.
+
+Seems to me I've invested in doughnut company stocks at least a couple of times
+and have lost money. Can't remember the stock, maybe not Dunkin' Donuts -
+that's now part of Allied Domecq (The ADR is AED.)
+
+Point is that doughnut stocks can be dangerous, and KKD might be very much so.
+It's somewhat about saturation -
+
+- the health issues with saturated fats
+
+-the diet issues with people getting saturated on empty calories
+
+-the saturated distribution channels (with KKD losing its cachet as a special
+niche product - i.e. the product being distributed by many 3rd parties now,
+e.g. Albertson's grocery stores)
+
+- the oversaturation of stores. Media is saying KKD may not have enough cash it
+needs to close underperforming stores and cannot borrow any more money under
+their latest loan agreements. A solution may be bankruptcy or stock dilution,
+it is being reported.
+--------
+Goldman Sachs Asset Management filled today that they hold 5.3% of the common.
+I take that as a vote of confidence in the new KKD management team. May turn
+out to be a misguided vote though -g-.
+OTOH, with their backs against the wall, maybe KKD can work through these
+difficult times.
+
+I've taken just a VERY few shares @$7.15 today.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/9/2005 8:17:46 PM
+From:Paul Senior
+E_K_S. Yes, I keep most of my ALD and other Business Development stocks in an
+IRA because the dividends are not qualified. When the stocks have looked liked
+bargains, and there was nothing in the IRAs I was willing to sell at the time,
+then I added more in a regular account. I've got investment expenses that I can
+offset the dividend income I receive there.
+-----
+I added a bit more to my tiny JPM position today. Will add more if/as stock
+declines.
+
+I haven't decided what to do about my NYB shares (whether to add or not) - I'm
+just holding for now.
+
+OT: Decided I like the long-term performance of FII. Added a little to that
+small exploratory position today and likely will continue to do so in future.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/10/2005 7:02:22 AM
+From:David
+Watching the quick rise breaking $55.00 per share I keep diluding myself into
+believing ANF has sustainable advantage and is therefore a (dicey) long term
+hold.
+
+I sold leaps ('07 $50s)on 1/3 of my position when the company broke $50.00 a
+couple of weeks ago, thinking if the stock price plumeted sometime, even down
+to $30.00 per share, I could buy 'em back and continue holding as the company
+fundementals continued to grow, or if I was called out I would receive a total
+$60+ per share. I understand there is a big assumption here, but Jeffries and
+co. created nearly a ten year history of hugely profitable growth using little
+or no debt.
+
+I am not happy about the present valuation here, but if you can depend upon the
+growth prospects of 10%-15% per year over the next 10 years or so and 5% growth
+thereafter the today's price may be justied. Of course, these assumptions
+require nearly perfect execution and at todays price there is little, if any,
+margin of safety.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/10/2005 1:03:47 PM
+From:Paul Senior
+Oops. Guess negativity on KKD is too strong for me. I'll take a loss here and
+maybe consider reentering under $5 if it gets there - maybe pretty quickly -
+stock drop looks like a freefall.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/10/2005 5:40:26 PM
+From:Paul Senior
+Cendant: Looks like several on the thread are interested in this one. Okay,
+I'll move it off my watch list, and I'll take a few shares at current price in
+start of an exploratory position.
+
+I figure maybe an 18 month holding to see how the company's
+reorganization/recapitalization plan works out.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/10/2005 7:39:41 PM
+From:Madharry
+I remember following CD a few years back. Remember the stock plummeting in
+response to the fraud at the company that they bought stock dropped from the
+mid 20s to under 10. Response of the BOD was to reprice everyones options
+including of course Silvermans. Left me with a bitter taste in my mouth and
+hard for me to consider going back in now. OT Biotechs have been hammered over
+the past week and several look like bargains. Alas I am fully invested. Not
+sure why biotechs as a group have been hammered. Scratching my head over this
+one. But CEGE looks really cheap to me so I sold a little of the excess SSRI I
+bought and nibbled.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/11/2005 2:23:24 PM
+From:Paul Senior
+Guys here following CLE may have already seen this positive BusinessWeek
+article:
+
+http://yahoo.businessweek.com/investor/content/feb2005/pi2005028_6061_pi008.htm
+
+I post fwiw and because I'm still considering an exploratory position.
+
+Aside: a generally positive article. HOWEVER, a big warning as the author has
+tripped one my basic rules - run like Hell when somebody says the dreaded
+"poised" word!!! Namely:
+
+"We think the company is well entrenched as the leader in its industry.
+Moreover, it is poised to grow sales and earnings per share at a fairly strong
+clip over the next several years."
+%EOM----------------------
+
+%BOM---------------------
+Date:2/11/2005 10:40:04 PM
+From:Spekulatius
+Bought some GMAI -
+auction house for stamps and coins. Somewhat controversial (high short
+interest) due to arm lengths transactions with their majority share holder
+(72%) with Afinsa. While revenue with related parties is always a concern, so
+far this seems to work out great for GMAI and Afinsa does pay their bills, as
+is evident from GMAI's cash flow.
+
+Thread from Ebay is overrated, coils and stamps are difficult to value and easy
+to falsify so no serious collector would buy from a nameless person via EBAY
+IMO (I have been stamp colector myself). GMAI's valuation is very attractive:
+http://finance.yahoo.com/q/ks?s=GMAI
+%EOM----------------------
+
+%BOM---------------------
+Date:2/11/2005 10:43:57 PM
+From:gcrispin
+I liked CD several years ago. For the record I have sold my shares in CD fairly
+recently.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/12/2005 8:07:08 AM
+From:Larry S.
+I still own CD. the company rebuilt intself and its credibility after its fall
+from grace. merger of HFS and CUC formed CD. HFS is Henry Silverstein, now CEO
+of CD. CUC was the crooks. CD is a growing biz with interests in auto rental,
+hoteo/motels, real estate, and a large presence in online reservations.
+I will admit that i am getting tired of its potential. has been dead meat the
+last few years after its rise from crash:
+http://finance.yahoo.com/q/bc?s=CD&t=my&l=on&z=m&q=l&c=
+%EOM----------------------
+
+%BOM---------------------
+Date:2/12/2005 2:54:24 PM
+From:Paul Senior
+I see Charlotte Russe is a retailer also without ltd. Some insider buying near
+current price noted in today's Barron's. Stock apparently out of favor (near
+lows), but if that's because of product (wrong items, mark downs, shortages),
+perhaps the next season might see their stuff back in fashion and demand. I'll
+put CHIC on my watch list and look into it a bit closer.
+
+http://finance.yahoo.com/q/ks?s=CHIC
+%EOM----------------------
+
+%BOM---------------------
+Date:2/12/2005 5:33:16 PM
+From:Carl Worth
+historically it looks like CHIC has been a great buy when it reaches the 10
+area, and then wait for their results to improve and the market to like them
+again
+
+it appears their inventory is under good control, so the underlying book value
+is probably of fairly decent quality, diminishing the overall risk
+
+the significantly negative same store sales are a definite concern
+however...offsetting this would be the insider buying and the tone of their
+recent earnings release, which is quite matter of fact and shows they are
+working to correct their errors, rather than glossing them over
+
+all in all CHIC appears to be a decent risk/reward, especially if it were to
+dip back near 10, though i would feel more comfortable if i had any idea at all
+about women's fashion, and where CHIC fits into the overall picture <g>
+%EOM----------------------
+
+%BOM---------------------
+Date:2/12/2005 8:01:29 PM
+From:Madharry
+According to Barrons online Silver... exercised 4.6MM options and sold all the
+stock pocketing the tidy sum of $100MM. If I, as a banker , made a loan to a
+crook and as a result my bank stock plummeted by over 50% I doubt that I would
+continue to be employed let alone have my options repriced.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/12/2005 8:20:42 PM
+From:Larry S.
+1. Silver...is not a crook. He is a man of high integrity, he was personally
+devasted by the snookery of CUC.
+2. The stock plummeted years ago, having nothing to do with his current
+exercise of options (which were about to expire).
+you may not like the company, but please at least get your facts straight.
+larry
+%EOM----------------------
+
+%BOM---------------------
+Date:2/12/2005 10:05:39 PM
+From:Madharry
+Hello! I didn't say he was a crook. Please dont paraphrase what I wrote and
+then tell me to get my facts straight. I said that I thought he did not deserve
+to have his options repriced when his stock plummeted by over 50% because of
+merging with a company run by crooks- a merger that Silver... promoted and
+supported. No shareholders received repriced options. For all I know its those
+same options that he is now cashing in on to the tune of $100MM. The stock by
+the way was in the high 20s before plummeting. As for being a man of high
+integrity -I have nothing but contempt for ceo-s and their boards who screw up
+and then reward themselves for their mistakes. The company may be fine, but I
+never know when management will devise new strategies for dipping into the
+owners pockets.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/13/2005 5:40:23 PM
+From:Spekulatius
+re OVNT -
+based on a forward PE of less than 11, OVNT has become cheap again. Operating
+numbers look OK, I second Grommit's question - why the drop - the outlook for
+2005 does not look that bad to me. Fuel price concerns should hit competitors
+as well. OVNT has some of the best renatability numbers and balance sheets in
+the industry and should command a premium, IMO.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/13/2005 8:02:17 PM
+From:Carl Worth
+OVNT came out with their numbers, which included guidance slightly below the
+consensus at that time, during the market's recent ugly period, and promptly
+got clobbered, as so many stocks did
+
+i owned it then, and still own it now, along with YELL, with the idea that the
+strong economy will drive both higher
+
+to me the drop was more due to the market than the company's report and
+outlook, but time will tell...for now it will take a while to overcome the
+negative reaction and overhead resistance, but long term it should again make
+new highs as long as the company executes
+
+interesting that the estimate for 2006 actually went up a penny, though who
+knows what the economy will be like by then?
+%EOM----------------------
+
+%BOM---------------------
+Date:2/14/2005 12:19:26 PM
+From:Paul Senior
+Not a good day for us who are in home building stocks. Perhaps the
+long-awaited, long-predicted slowdown in housing might be upon us. I'll bump up
+my position in Orleans Homebuilders today though. Forward '05 p/e, roe, profit
+margins attract.
+
+http://finance.yahoo.com/q?s=ohb
+%EOM----------------------
+
+%BOM---------------------
+Date:2/15/2005 5:13:31 PM
+From:Dave
+why not just buy ARDI?
+%EOM----------------------
+
+%BOM---------------------
+Date:2/15/2005 5:15:43 PM
+From:The Ox
+Where were you 3 days ago?
+%EOM----------------------
+
+%BOM---------------------
+Date:2/15/2005 5:22:56 PM
+From:Brinks
+Already did.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/16/2005 4:17:52 PM
+From:Brinks
+TPE Make that 50% and it has only begun--wait to the large transaction is
+announced-Graham Net Net stock no longer:
+
+http://finance.yahoo.com/q?s=TPE
+
+http://www.siliconinvestor.com/readmsg.aspx?msgid=21011483
+
+Nice move again on SLXI also up 18% today after posting here yesterday--call
+the company to understand the technology & cost advantage that Satelinx has
+over competitors:
+
+http://finance.yahoo.com/q?s=SLXI.PK
+
+http://www.siliconinvestor.com/readmsg.aspx?msgid=21050831
+%EOM----------------------
+
+%BOM---------------------
+Date:2/16/2005 4:38:47 PM
+From:Dale Baker
+Nice call in TPE, thanks. (eom)
+%EOM----------------------
+
+%BOM---------------------
+Date:2/16/2005 5:54:46 PM
+From:epicure
+TPE was amazing (is amazing)
+%EOM----------------------
+
+%BOM---------------------
+Date:2/16/2005 6:26:50 PM
+From:Steve168
+TPE Great pick Brinks. congrats!!!
+
+It missed my screen because of low market cap, look like I need to reduce the
+minimum market cap requirement.
+
+thanks,
+%EOM----------------------
+
+%BOM---------------------
+Date:2/16/2005 10:32:46 PM
+From:Brinks
+Steve Thanks. I know you have to be careful on cutoffs because you can miss
+some great buys.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/16/2005 11:59:56 PM
+From:Carl Worth
+housing starts rise to a 21-year high in january and december revised higher as
+well
+
+i guess that "bubble" isn't bursting quite yet <g>
+
+SPF calls expire friday, cash out or exercise? hmmm
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 2:14:38 AM
+From:Dale Baker
+I cashed out half my TPE shares near the close on Wednesday to take my original
+capital off the table. This is still a speculative play but the volume was very
+impressive.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 10:17:46 AM
+From:Brinks
+SLXI news today--this is important:
+
+Satelinx Completes Filing to List on The NASD OTCBB
+2/17/05
+
+MONTREAL, Feb 17, 2005 (PRIMEZONE via COMTEX) --
+Satelinx International Inc. (Pink Sheets:SLXI) a global provider of satellite
+vehicle tracking, announced today that all SEC and NASD requirements had been
+met and a prominent market maker in New York completes the filing documentation
+to quote the company's shares on the NASD OTCBB.
+
+http://finance.yahoo.com/q?s=SLXI.PK
+
+http://www.siliconinvestor.com/readmsg.aspx?msgid=21050831
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 10:20:21 AM
+From:Spekulatius
+re BPT - unbelieveable rally in BPT recently, i have been very wrong on that
+one, glad I didn't short. I am not sure if my logic was wrong or if we are
+seeing a short squeeze, as some yahoo posters suggest.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 4:48:40 PM
+From:Madharry
+Cryp mentioned in briefing today. reports tomorrow. wish us luck.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 7:56:20 PM
+From:Paul Senior
+OT: I expect CRYP (the business) to continue to do well, although with the
+stock at a psr of 5.5, and p/bk of about 5, I don't see it as a value buy. I've
+not sold any of my very few shares though.
+
+(Also fwiw, I'm still holding shares of several of the gambling stocks that I
+reported here I was buying over the past few years.)
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 8:08:00 PM
+From:Madharry
+Neither the p/b or p/r ratios are relevant for this company. The one time i
+tried to buy a software company based on those ratios i lost at least half of
+my money when the company reported a huge loss, and writedowns on obsolete
+products adjusted the book value for me. The relevent numbers here are profit,
+profit growth and cash flow relative to book net of cash. I admit that this not
+a graham-dodd value. If you would like to list any gambling or internet related
+entities that you are evaluating in terms of p/b or p/r I would be interested
+to hear about them.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 8:09:58 PM
+From:Paul Senior
+Well BUD continues to hit new annual low, and I continue to buy small amounts.
+
+Very possibly the p/e is undergoing a slow and long-term downward revision by
+the market. The beer business just isn't growing revenues very much. And no
+matter if BUD buys back stock, introduces new beers, maintains/improves its
+great distribution network and dominant postion, there may be no long-term way
+around slow market growth.
+
+OTOH, they were talking about how beer was a slow-growth (product sales)
+business when I was a kid, and BUD seems to have done okay. (But not the stock
+recently - stagnant in the past three or so years.)
+
+I'll try to hold for 18 months or so to see what happens.
+
+http://finance.yahoo.com/q/bc?s=BUD&t=5y
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 8:45:08 PM
+From:Paul Senior
+Ah, you are right, Madharry... and I am not.
+
+I always look at p/bk, p/sales, but here - as with other gambling stocks, I
+forgot now that I often look at other ways that I have to evaluate them.
+
+I don't use profit, profit growth, or cash flow. I use profit margins - which I
+often like to use when the standard Graham measures don't seem relevant. And
+for gambling stocks - you are also correct when you allude that there are none
+to be seen that look good on p/bk, p/sales.
+
+There's no academic research that I know that would support me, but sometimes
+relative profit margins provide a tip-off to me that a stock is in buy range.
+And sometimes this works out. Basically, I have a multiple I'm willing to pay
+for the profit margin I see. So I'm willing to pay a lot more for a company
+with a profit margin of 21.8% (per Yahoo), than I am for a company like lottery
+company SGMS (which I own) with a profit margin of 10.6%. And by "pay a lot
+more" I can quantify that for any stock by combining profit margin metric with
+a price to value metric - that is, I try to evaluate how much each 1% profit
+margin is worth.
+
+The big issue for me is can profit margins (I try to use average over the past
+few years) be sustained? As an example, Scientific Games (SGMS) gets its share
+of new contracts, and contracts run for several years. To me, these give more
+confidence that the lower SGMS margins can be sustained than higher-margin
+CRYP, a small company in the competitive internet gaming business, a company
+about which I'm not so confident or knowledgeable.
+
+In addition, at least a couple of the gambling stocks I am holding also have
+special interest for me: CZR being bought out, WMS being controlled by Sumner
+Redstone, IGT the dominant slot maker. So you would be correct that Graham
+value criteria don't apply here.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 9:27:42 PM
+From:Wallace Rivers
+Paul -
+
+Not saying it is a great stock, but it is in the same general vicinity
+(beverages) as BUD - KO (Coke). Also trading near (although not absolutely at,
+like BUD) its lows. Reported OK results yesterday. Even though I own the stock
+and would like to think otherwise, I believe a lot of the better than expected
+stuff is due to non operational items (currency exchange, etc.) Upped the
+dividend today.
+
+Both BUD and KO are the biggest players in their respective industries, and two
+of the most recognisable brands in the world. IMHO I think KO has more total
+return potential than BUD.
+
+Speaking of beaten down stocks, I ended up purchasing NYT last week at a
+slightly higher price than it is currently. I think the portfolio of properties
+it owns could be worth significantly more than its current price.
+I will mention, however, that I too have been wrong many, many times!
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 9:38:48 PM
+From:Spekulatius
+Buffet "large moat" stocks on sale: BUD, WMT, CSCO, MSFT
+
+Besides BUD, CSCO,WMT, MSFT are near their 52 weeks low. I decided to buy MSFT
+today from this bunch because I like the growth prospects compared to WMT and
+BUD and the governance relative to CSCO (stock options). BUD has had earnings
+growth boosted to low single digits/share by stock buybacks but the balance
+sheet won't allow them to do so much longer without credit rating downgrade. I
+don't like their beers either...
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 10:13:44 PM
+From:Spekulatius
+Portfolio reshuffling - USLM, MSFT, ARDI
+Sold USLM yesterday (ouch),bought MSFT and ARDI. ARDI was brought to my
+attention by a poster in Bosco's and Crossy thread. ARDI appears to be in an
+interesting market (vehicle tracking) with large potential. Valuation is pretty
+reasonable:
+
+http://finance.yahoo.com/q/ks?s=ARDI
+%EOM----------------------
+
+%BOM---------------------
+Date:2/17/2005 10:26:25 PM
+From:- with a K
+Stopped out of AEOS today; 9.8% gain (EOM)
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 1:29:46 AM
+From:Madharry
+The idea of margins is very interesting. I dont recall seeing any literature on
+it. but I still think you have to couple it with some kind of growth projection
+to make it meaningful. Although you are right in that we dont know how certain
+the continued growth prospects are for CRYP, It seems to me to be a small but
+fairly dominant company in its field, in a sharply growing area. I believe that
+the returns to the casino operators far exceed their costs of doing business
+with CRYP, and safety and security is paramount, so it seems to me the longer
+the main player with the good track has the harder it becomes to dislodge. So
+unless some huge player steps into the fray I think that CRYP has the
+wherewithal to maintain and increase its leading position. Others believe that
+the casinos will switch to the lowest cost provider but if I were a casino
+executive- and I switched to a different provider and then ended up with either
+a fraud or a system shutdown I would have some difficult explaining to do.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 2:46:11 AM
+From:Paul Senior
+Wallace Rivers, I'm also considering NYT. On some measures, it looks better
+than TRB, a stock in which I recently started an exploratory position:
+
+http://finance.yahoo.com/q/co?s=TRB
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 2:51:39 AM
+From:Paul Senior
+Spekulatius. Re MSFT. Fwiw, I'm still holding a position purchased 2/13/04 @
+$26.95. That stock's not been good to me, although I did capture last year's
+dividend.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 3:09:23 AM
+From:Paul Senior
+Wallace Rivers, Spekulatius, fwiw, an update to my "beverage" stocks:
+
+Still have KO from discussion here last year. Also Latin American Coke and beer
+bottler FMX. Recently gave up last shares of CSG (7-up, Dr. Pepper, Snapple,
+etc.). Have BUD as stated earlier. Recently started an exploratory position in
+Heineken. Holding my few shares of Dean Foods (milk!).
+
+http://finance.yahoo.com/q?s=KO,FMX,CSG,BUD,HINKY.PK,DF&d=s
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 8:23:07 AM
+From:Mark Marcellus
+I took a glance at this one. The size of the company, my lack of knowledge of
+the business, and the fact that there are no SEC filings to look at are enough
+to keep me from going further, though that's my problem, not the company's.
+However, I would caution you IRT thinking of this as a software stock. I think
+a better comparison might be a company like Keane, EDS, CSC, etc.. To be a
+software company, or at least a software company that deserves the high P/B
+ratio you were discussing, the majority of revenues needs to come from
+licensing or other forms of software sales. This company appears to have a
+heavy services component, and the higher the ratio of services to revenues, the
+less desirable the company, at least when viewed through that lens. I also
+notice that from 2001 - 2003, operating costs have risen sharply as a
+percentage of revenues. That is exactly the opposite of what you would expect
+from a growing software company.
+
+This is all from a five minute look at their Annual Report, so take it FWIW.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 1:38:41 PM
+From:Paul Senior
+From new lows list I'll take just a most little AVCI now.
+
+Market cap. ~ $72M
+
+"Cash, marketable securities and long-term investments totaled $69.0 million at
+December 31, 2004" (1/27/05 p.r.)
+
+No ltd (per Yahoo); bk. value/sh = $6.04; trading now about $5.57/sh.
+
+http://finance.yahoo.com/q?s=AVCI
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 1:48:39 PM
+From:Dale Baker
+According to estimates AVCI will toast half that cash by Christmas; market will
+probably price that in sooner rather than later.
+
+JMHO.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 2:39:40 PM
+From:Paul Senior
+AVCI: Well, if they do spend lots of cash, I hope they will be building value
+for shareholders from it.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 2:56:56 PM
+From:Dale Baker
+If you consider setting fire to the cash hoard building value, it's possible.
+That's what AVCI's 5-year track record suggests.
+
+;<)
+
+2000 minus 19.80 per share
+2001 minus 7.75
+2002 minus 5.20
+2003 minus 3.02
+2004 minus 2.81
+2005 est. minus 2.29
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 3:30:44 PM
+From:Paul Senior
+AVCI: I'm hoping mgmt. will improve as their backs are pushed against the wall.
+They've had a lot of glamour ($800 stock in '00 and even $100 in '01). Now
+though, there's not much cash left or room left for mistakes and frittering.
+
+As I say, I'm taking on "a most little AVCI" now. A $5 1/2 dollar stock, maybe
+it'll drop to $2 or $3 before I maybe give up. OTOH, somebody saw potential in
+the company last year (stock was over $10 for a while and even over $20), so
+maybe there's still potential to be discovered by the market.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 3:47:07 PM
+From:Paul Senior
+E_K_S, fwiw, I've added a little more JPM today to my few shares. eom.
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 3:56:13 PM
+From:Kevyn Collins-Thompson
+Re: MSFT.
+
+Just another perspective here: I'm slowly selling MSFT now, not buying. I would
+be ecstatic to be wrong since I will continue to hold a large position, mostly
+for tax reasons. But my own feeling is that while MSFT is not a poor
+investment, it's no longer a really good one either. I believe the current
+stock price isn't a bargain - a long, slow selloff over the next couple years
+seems as likely to me as a slow rally - and in any case I've found more
+promising new investments. In general the company seems to have grown too
+complacent and reactionary, and has always been far too inward-looking. There
+still _many_ talented people there to be sure, and there are bright spots such
+as Xbox, MS Research and a few other groups.
+
+Like I said, I'd love to be proven wrong. I may suffer from too close a
+perspective since I worked there for almost a decade, starting in the late
+1980s.
+
+Cheers,
+Kevyn
+%EOM----------------------
+
+%BOM---------------------
+Date:2/18/2005 9:03:33 PM
+From:erickerickson
+re: MSFT
+
+Disclaimer: I'm a developer sort who is forced, by the size of our customer
+base, to program exclusively in the MS world and I've spent many weeks
+"dealing" with MSFT from a developer's perspective. So maybe I'm a little
+frustrated <G>.
+
+My problem with MSFT at this point is that I can't answer "how can they
+continue to produce revenues?". I mean, what other bell, light or whistle can
+they add to MS Office to compel people to pony up more cash for the next
+version? I don't know about you, but I use, maybe, 10% of the features in Word
+and that takes care of my needs. I sure can't justify paying for the next
+version that has features that I'll never use.
+
+They've tried alternate revenue models. They were trying to rent Office to all
+of us and force us to pay an annual renewal fee. That didn't work out. It's not
+at all clear to me that they can do anything to force me to pay for office
+again. Some of our customers are still working on windows 98 for crying out
+loud. So they, at least, see no real reason to upgrade.
+
+A while ago, I investigated Linux and Open Office. I can set up all the
+software on my computer that I need for $100. And that's only if I buy the
+"supported" version of Linux and do the right thing and contribute to the open
+office folks and the Mozilla folks.
+
+And Longhorn (the next op system they're developing) is already 2 years late.
+And getting later.
+
+I guess the point of this tirade is that I have no faith that MSFT can continue
+to produce growth the way they have over the last (Dear God) 2 decades or so.
+
+Of course, I've said that about MSFT for some years, so you may want to be real
+cautious about agreeing <G>.
+
+A recent development in Brazil is interesting. The government there has decreed
+that no government computers can run non open-source software. And while they
+claim that "this policy is not directed at any particular company", I interpret
+that with a wink and a nod. So I guess that if I were considering MSFT, I'd
+keep a sharp eye on how that works out since I suspect that the success or
+failure of the experiment in Brazil may have things to say about the future of
+MSFT continuing to dominate the PC market outside the US and Europe.
+
+Anyway, all of this IMHO, so take it for what it's worth.
+
+Best
+Erick
+%EOM----------------------
+

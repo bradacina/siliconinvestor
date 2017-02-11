@@ -1,0 +1,2053 @@
+%BOM---------------------
+Date:4/23/1997 12:23:00 PM
+From:Reginald Middleton
+
+<There are two ways of deciding on your discount rate IF you are going to
+forecast. First, you could go the theoretical route and plug Beta into the CAPM
+equation. Not hard. That's what Reginald is arguing, and it is totally sound in
+terms of theoretical finance. OR you can say, what do I want to earn off this
+stock over the long term. If that's 9%, use 9%. If its 15%, use 15%. I'm not
+looking for the theoretical value of the stock - I m looking for the price at
+which I would invest in it and sleep well.>
+
+See the lsecond to last paragraph of reply #999. My method is much more
+conservative than yours. The discount rate serves as a breakeven point (the
+point at which you will be at equilibrium with a so-called risk free
+investment. most of us wish to do better than that, or we would simply invest
+directly into the risk free investment.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 1:28:00 PM
+From:James Clarke
+
+OK, lets get this right.
+
+My discount rate has nothing to do with beta. It is what I want to get for a
+return. If you do not understand that, then it is you, not me, that needs a
+lesson on DCF valuation. The beta argument values a stock at what it is
+"worth", in some theoretical sense, which I would question. I am trying to get
+to the price at which I would buy. Lets not mix those up.
+
+Asset valuation may or may not be based on the balance sheet. I am not arguing
+for buying at book value. To return to my Red Roof Inns example, I don't care
+what the book value of the assets is, I care what similar hotels are trading
+for in the real estate market, and what it costs to build a new one.
+
+But the argument I really want to explore with you is the basis for your
+valuation methodology. I challenged forecasting by arguing that you cannot be
+at all confident in forecasts 2, 5 and 10 years out. Let alone "terminal
+value", which may make up 75% of the value of a growth company like the ones
+you are talking about. You told me to refer to an example of an annuity. There
+is a very big difference between an annuity and a forecast of the cash flows of
+Microsoft or Intel. You know what you are going to get from an annuity. You
+don't with a stock. Would you take a bet that your forecasts are within 50% 10
+years out? I wouldn't. And that is not meant to say that your forecasts are any
+worse than anybody else's. I am only questioning the reliance you place on
+them.
+
+The analogy between an annuity and a stock is only relevant in theoretical
+terms, which is not what we are debating.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 1:34:00 PM
+From:James Clarke
+
+Reginald, this is a good debate which hopefully will unearth a lot of the
+assumptions behind theoretical finance.
+
+We are not alone, there are a lot of people reading this who know finance.
+Referring to your post, tell me just how a 9% discount rate could possibly be
+MORE conservative than a 15% discount rate, in our hypothetical (actually real)
+example of Philip Morris. That just doesn't make sense.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 1:35:00 PM
+From:John Langston
+
+James: In previous notes, someone postulated that the original Graham
+techniques have to be adjusted to work in today's marketplace. Maybe someone
+should tell that to the fund manager at the Sequoia Fund? (g) Or maybe the
+folks at Tweedy, Browne? Or Jean-Marie Elivaard who runs the SoGen
+International Fund? And of course, John Neff could never make it today. (g)
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 1:38:00 PM
+From:James Clarke
+
+Point taken. What I said was that if you only invest in net-net buys with a 30%
+margin of safety (as Graham wrote), you better like T-bills because that is all
+you will have in your portfolio.
+
+I agree with you completely that the logic of Graham is timeless. Neff,
+Sequoia, et al are not using Graham's formulas, but they are using his logic.
+And they have done very well.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 1:55:00 PM
+From:John Langston
+
+Mike: How about starting with Buffet's tenet: $1 of increased market value for
+every $1 of retained earnings?
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 2:12:00 PM
+From:Reginald Middleton
+
+I thought I explained it already. Let us use the economic charge approach vs.
+your discounting approach, which should clairfy things. Your apporach says, I
+want ot make 15% on my money, hence I use 15% as a discounting factor for
+future cash flows and assets. I say that the discounting factor is simply a
+breakeven point, or hurdle rate, at which point you start counting the basis
+points to your return. If 9% is the agreed upon cost of capital, and you say
+you wish to use 15% since that is the true return you desire (and more
+indicative of risk). I am saying that you are not getting a 15% economic return
+on your money, you are only getting a 6% return. To illustrate: You are
+searching for a company whose "real" return is expected to be 15%, and you find
+two companies whose cost of capital is 9%. You do not trust that as a risk
+benchmark, so you use 15% as your minimum acceptable return (because you are
+desiring a 15% return). Company A returns 15% per year net ROIC on $1000 (that
+=$150), and company B returns 24% net ROIC on $1000. (that=$240). According to
+your method, you are assuming that you are fully compensated for the risk wiht
+a mimum of a 15% return (adjusted for the time value of money - that is what it
+apears you are saying). I am saying that for a 9% risk, you are not receiving
+due compensation for a 15% return. Let's walk through it. Company A returns 15%
+on a $1000,investment which = $150. You then apply a captial charge (for the
+risk assumed, which brings the investment on par with the risk accepted on a 10
+year t-bill), which would amount to (9% x $1000 investment = $90) $90. Your net
+return for a 9% risk in company A is $60 (ROIC of $150 less capital charge of
+$90), or 6% ($60/$1,000). Now, company B, has a ROIC of $240 (24% times the
+initial investment of $1,000) and once a capital charge is applied (less $90 or
+9% x $1,000 initial invesmtent), you are left with a net, economic value of
+$150 (or 15%, $150/$1,000 original investment), which was your original
+requested return. If we both invested in company A, I would see a risk adjusted
+return of 6%, (six percent as adjusted for the risk free rate), while you (as I
+understand you) are syaing that you will see a return of 15%.
+
+Which sounds like the more conservative method?
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 2:15:00 PM
+From:John Langston
+
+Arthur: Why discuss modern portfolio theory on a string dedicated to value
+investing? Will it lead to "value indexing?"
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 2:23:00 PM
+From:John Langston
+
+Jeff: I only suggested high PSR as an INITIAL screen, not the end all.
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 2:25:00 PM
+From:Jeff Maresh
+
+John - I agree.
+
+>I only suggested high PSR as an INITIAL screen, not the end all.
+
+Regards
+Jeff
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 2:49:00 PM
+From:John Langston
+
+James: Was "net-net" discussed in THE INTELLIGENT INVESTOR? If so, I'd better
+read it again, more carefully. (g)
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 2:59:00 PM
+From:James Clarke
+
+There is a HUGE flaw in your reasoning which it took three reads to capture.
+You are implicitly assuming one pays book value for the investment. The return
+on invested capital of 24% or 15% in your example is based on BOOK VALUE, not
+the price one would pay for the stock. Let's get this right because its very
+important - 24% ROIC DOES NOT MEAN 24% RETURN TO ME AS AN INVESTOR UNLESS I
+PAID EXACTLY BOOK VALUE FOR THE STOCK. But of course you could never buy such
+an investment for book value.
+
+If I buy a stock, the 15% which I (and any DCF) uses to as a discount rate is
+the return on the price you paid for the investment. This is the difference
+between finance and accounting.
+
+I am not interested in writing a finance textbook here, but that was a big one.
+Before you respond, look back through your logic, not your numbers, carefully
+and tell me where I'm wrong.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 3:08:00 PM
+From:James Clarke
+
+I don't know if it was in that book or not. I have been at Columbia Business
+School the last two years where Graham used to teach (and Buffett used to study
+under him), so we hear about "net-net" a lot. I can't cite references, and he
+may not have called it a "net-net investment". He may have called it "Net Asset
+Value (NAV)" But the concept is the same. Possibly in Security Analysis.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 3:36:00 PM
+From:stockvalinvestor
+
+Has anyone else taken a look at DHTI? It looks like a very good buy in
+7 range. Motley Fool had a write up on the company last week that was
+very positive. The company is expected to earn .17 this quarter and .48 for
+the year yet sells for just 7 with a 45% projected growth rate. Looks to
+me like this company is still undiscovered and eventually will be discovered
+and head up to that 21 level that the Motley Fool predicts
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 4:10:00 PM
+From:sea_biscuit
+
+>I thought I explained it already. Let us use the economic charge approach vs.
+your discounting
+>approach, which should clairfy things. Your apporach says, I want ot
+>make 15% on my money,
+>
+[...]
+>
+> A, I would see a risk adjusted return of 6%, (six percent as >adjusted for
+the risk free rate), while you (as I understand you) are >syaing that you will
+see a return of 15%.
+>
+>Which sounds like the more conservative method?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Let me make a wild guess... the one that values MSFT at $522?! ;-)
+
+Dipy.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 4:18:00 PM
+From:Reginald Middleton
+
+You are wrong, because I have not mentioned book value ONCE, nor implied it. I
+have never mentioned what the indivudual pays for the asset, only what its
+value would be after the calculation. Like you said, I don't want to write an
+investment thesis either, but we are going to hafve to come to terms. I am
+measuring cash flows, not book value. That is why I said you are going to have
+a problem valuing companies in the information age. Book value does not
+represent invested capital (at all). If anything, a reconciliation of the cash
+flow statement is what you would use to base ROIC on, definitely not book
+value.
+
+< Let's get this right because its very important - 24% ROIC DOES NOT MEAN 24%
+RETURN TO ME AS AN INVESTOR UNLESS I PAID EXACTLY BOOK VALUE FOR THE STOCK.>
+
+24% ROIC means a gross, return less the capital charge, equals economic value.
+Market value tracks economic value VERY closely. Let's look at the situation
+from a historical (hence, factual) point of view.
+http://www.sternstewart.com/1000performance1.html
+
+Your misunderstanding is emanating from the use of the discounting figure. The
+reason why the cost of capital is used as the discounting figure is because it
+encapulates the risk the market has placed on an asset. Anything above that
+risk level is considered economic value. I would link you to my representation,
+but I have summarized it already. My site literally has several megabytes of
+downloadable information on methods that I have used to improve upon this
+concept and which I have encapsulated in what I call Knowledgeware. See the
+Novell acquitision, or download one of the many reports and models from
+http://www.rcmfinancial.com/test1/
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 4:40:00 PM
+From:Reginald Middleton
+
+After reading your reply over again, I think I can get you to see where I am
+coming form. Treasuries often lead to a zero net real return, as I have
+explained in earlier posts, factoring inflation, taxes, etc. Suppose you have a
+10 year T-note yielding 6%. What will be your discount rate for a 10 year
+horizon? I assume you say 6%, ro close to that. Now if you were to choose a
+company like MO in lieu of the T-note, with a WACC of 9%, what would you see as
+you discount rate and why. If you choose 9%, than you are requesting a return
+that is on par with that of the T-note, adjusted for risk. If you choose 15%,
+than you are requesting a return 6% more than the t-note, adjusted for risk.
+24%? etc. What will your IRR be?
+
+If I were to by MSFT two years ago, should I have used a 100% discount rate due
+to the fact that it returned 200% over that two year period? Of course not, I
+should use the appropriate risk rate, which is in most cases, the WACC.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 5:13:00 PM
+From:James Clarke
+
+<<I have never mentioned what the indivudual pays for the asset>> That's why
+we're talking around each other. That's what an investment is, my friend.
+
+<<I have not mentioned book value ONCE, nor implied it>> What is the
+denominator of your 24% ROIC calculation? Book value plus debt, right? Or
+something very similar.
+
+I'm not trying to one-up you, but just to make my point clear. Somehow you keep
+misunderstanding what I am arguing.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 5:25:00 PM
+From:Reginald Middleton
+
+<<<<I have never mentioned what the indivudual pays for the asset>> That's why
+we're talking around each other. That's what an investment is, my friend.>>
+
+Actually, what we are doing here is VALUING financial assets.
+
+<<<I have not mentioned book value ONCE, nor implied itI have not mentioned
+book value ONCE, nor implied it>> What is the denominator of your 24% ROIC
+calculation? Book value plus debt, right? Or something very similar.>
+
+Actually, you have just proved my point. ROIC = invested capital for year
+1divided by net operating profit adjusted for taxes on a cash basis in year 2.
+Where in there (denomintor or numerator) is book value or anything similar to
+it. I have alluded to this (actually stated it explicitly) many times in
+various different ways though five different posts. Now that we have come to
+the understanding that book value has NOTHING to do with this calculation of
+economic value, let us move on. did you browse to the link I provided that
+compared the market value to market value added to economic value to economic
+value added to economic spread (the cost of capital and the return on invested
+capital)?
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 5:48:00 PM
+From:James Clarke
+
+<<Actually, you have just proved my point. ROIC = invested capital for year
+1divided by net operating profit adjusted for taxes on a cash basis in year 2.
+Where in there (denomintor or numerator) is book value or anything similar to
+it.>> First, you've got your numerator and denominator reversed. I think you
+meant to say cash flow divided by capital. Just wanted to point out that I
+understand exactly what you are talking about so you'll cut out the baby
+finance lectures. Now Reginald, what is "invested capital for year 1" if not
+book value plus net debt, or some minor adjustment thereto? We'll let others
+judge whose point was just proven, or if we've both lost the point altogether.
+
+I'm done. This is like arguing with a wall.
+
+Let's just recall where this debate started. To get from here to EVA and cost
+of capital really misses the boat of what value investing is all about.
+
+<<Don't get me started on Beta.
+
+A value investor views risk very differently than finance theory would. Lets
+say you think intrinsic value is, say, $100, and you buy the stock for $50. In
+that case, I don't care what beta is or what volatility is. Your risks in the
+long term are these:
+1) your calculation of intrinsic value was wrong
+2) intrinsic value decreases substantially>>
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 6:26:00 PM
+From:Arthur Tang
+
+Thank you, Paul
+
+Standard Deviation on Wall street is:
+
+S&P500 12% gain and standard deviation is 14%.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 6:40:00 PM
+From:Arthur Tang
+
+Thank you, John
+
+Indexing is the best value for some time now. Value investing whatever you hold
+is still based on value. Indexing your portfolio may be not popular this year;
+but the year has not ended yet. If you look at Warren Buffett's portfolio; it
+is averaged around Coca-Cola. You might call it a Buffett index of 8 stocks.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 6:51:00 PM
+From:Reginald Middleton
+
+< First, you've got your numerator and denominator reversed. I think you meant
+to say cash flow divided by capital. Just wanted to point out that I understand
+exactly what you are talking about so you'll cut out the baby finance
+lectures.><This is like arguing with a wall. >
+
+About talking to a wall....... LISTEN VERY CAREFULLY. INVESTED CAPITAL CONSISTS
+OF WORKING CAPITAL, MARKETING AND ADVERTISING, RESEARCH AND DEVELOPMENT........
+and things such as that. Thes are considered investments, hence the term
+invested capital. This is in no way indicative of book value, which consists of
+assets, liabilities and equity. You say you want me to stop with teh finance
+101 lecture, yet you keep harping on book value when I say invested capital.
+How many times must this be said? You are absolutey refusing to acknowlegde
+this plain and simple fact. It is no longer a matter of me not being clear ( if
+that ever was the case), now you are ignoring what is being said. I even went
+so far as to show you a historical list of value adding companies using the
+economic value method which you ignored.
+
+<<<Don't get me started on Beta.
+
+A value investor views risk very differently than finance theory would. Lets
+say you think intrinsic value is, say, $100, and you buy the stock for $50. In
+that case, I don't care what beta is or what volatility is. Your risks in the
+long term are these:
+1) your calculation of intrinsic value was wrong
+2) intrinsic value decreases substantially>><<
+
+Once again for the road. Beta is used to calculate the equity capital charge
+and is related to volatility which affects debt pricing. The most valuable
+comapnies have overcome their capital charge by a significant amount. The most
+valuable companies, I repeat. And if there is any doubt, you can refer to the
+historical calculations which I posted earlier. This is directly related to the
+subject of value, since the value of these companies are what is being
+measured. I even went so far as to explain how one priced the value of these
+companies in order to ascertain the "margin of safety" in a particalur
+investment.
+
+Honestly, if you cannot see whre I am coming from after all of this typing, I
+might as well refrain from posting at all, since I am failing at communciation.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 7:51:00 PM
+From:David S.
+
+LTUS (Garden Fresh) reported a very nice March quarter.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 8:12:00 PM
+From:James Clarke
+
+Ok, I understand now. Usually invested capital means something different. You
+should clarify that one at the outset. Probably if I could have downloaded your
+model (I can't do it without messing around with some Excel viewer on the web)
+I would have seen how you calculated that.
+
+The Stern-Stewert list (you might want to repost that link - everybody should
+take a look at it) has been in a lot of publications. It does show exactly what
+you said, that the companies which have created the most value have return on
+capital (defined in the traditional way, I believe) well in excess of its cost.
+Really, I cannot understand why this is taken to be so profound. This is from
+the "Well, Duh" school of finance.
+
+What that list of companies does not tell you is what this thread is supposed
+to be all about. Value investing. This has a very different meaning than "value
+creation" or "valuable companies". Value in the Graham sense is buying
+something (whether a good company or a bad one) for a fraction of what it is
+worth. We know these are good companies, but are they good investments at the
+price you have to pay? Even superior return on equity (or return on whatever
+denominator you want to use) is probably already discounted in the price.
+History tells us that for truly great companies, it is usually over-discounted
+(i.e. the stocks are overvalued) unless, like Buffett, you buy them when people
+don't think they are so great. Also, the Stern list is historical data, and
+extrapolating from great historical financials is exactly what a value investor
+does NOT want to do.
+
+Sorry about the misunderstanding on that one point, but it really doesn't
+change my argument. Would love to hear some other opinions.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 8:58:00 PM
+From:Paul Senior
+
+Mr. Langston: Well you are gonna make me chase it down, eh?
+
+I said that I thought (from my memory) that Graham only talked briefly about
+net-nets in the Intelligent Investor.
+
+Well now I call on you to stick by your word, and "read it again more
+carefully." -g-. I do have three page citings. And you won't find them in the
+index -g-. Can you find the pages that say:
+"It always seemed, and still seems,ridiculously simple to say that if one can
+acquire a diversified group of common stocks at a price less than the
+applicable net current assets alone...the results should be satisfactory. They
+were so, in our experience for more than 30 years-say, between 1923 and
+1957-excluding a time of real trial in 1930-1932. Has this approach any
+relevance at the beginning of 1971. Our answer would be a qualified 'yes.' A
+quick runover of the Stock Guide would have uncovered some 50 or more issues
+that appeared to be obtainable at or below net-current-asset value." ??
+
+Geez, on a Value investing thread, somebody should be able to stick up for Dr.
+Graham. How could you ever imagine him NOT saying something about net-nets
+(even, as I suggested, he moved away from it by 1976. And if you're gonna come
+back in the light of day and want a citation -you would be right....-g-.... he
+did not move away from it in 1976. "It has returned in quantity since the
+1973-1974 decline. In January 1976 we counted over 300 such issues in the
+Standard & Poors Stock Guide - about 10% of the total." p. 23, FAF, Sept./Oct
+'76. )
+
+Now I have to dig up EVEN MORE "stuff" to refute your next next post.
+;-)
+
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 9:19:00 PM
+From:Reginald Middleton
+
+Now that we can move on. You can use economic value, let's use true value (my
+derivative) form now on, to ascertain a stock selling at a deep discount. What
+you do is discount the economic value to be generated by the appropriate risk
+rate, and compare that projection to the actual market value. That is part of
+what my model does. Now, most of the market must disagree with the overvaluing,
+or undervaluing, or a stock in order for a market oppurtunity to occur
+(remember Buffet's comment - if there really were an efficient market, I would
+be holding a tin can, or something like that). This is the reason why Buffet
+saw so much oppurtunity in KO, and this is why there is so much oppurtunity in
+MSFT, both companies are spewiing value at a rate that beggars the competition
+and the broad market, yet the common (institutional) investor does not see it,
+hence the discount in price. The MSFT is overpriced theory has been made for 4
+year and running now, and both MSFT's economic spread and the net amount of
+invested capital has increased significantly year after year (MSFT should be on
+top of that list for the 96-97 year).
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 9:53:00 PM
+From:Paul Senior
+
+John Langston: You misinterpreted my post. I said if Graham were alive I
+believe he would be adjusting his methods, tweaking his criteria in order to do
+what worked. A product of the depression, he probably would continue to work at
+his craft. The alternative being do nothing different and pull out of stocks
+(if there were not enough stocks to choose based on his latest criteria.)
+
+I do think value investors who follow Graham are adjusting their techniques to
+reflect some of the reality of this market. John Neff, with his rule of 6's --
+buy when the p/e is 6 and there is a 6% yield... those days are (mostly)gone.
+But if John Neff is still investing, I proffer that he is still a value
+invester and still picking stocks that will go up... but he has tweaked his
+methods. Tweedy Browne, the classic Graham people. Now sticking to their
+knitting, going overseas for their value stocks too. But also buying stocks
+like Fuji Photo Film, Nestle (Sun 10/96 NYT)- stocks with a margin of safety,
+but only if an expert looks at the balance sheet (I think). Also, as Buffet has
+done, going beyond Graham, in looking at other criteria (Glassman, Wash. Post
+12/31/95). Still using and basing on, of course, price to asset, low p/e, and
+all the good value criteria.
+It would be great if there were methods that worked absolutely - maybe there
+are - but the market has to make appropriate stock available. I think value
+investors have to change - NOT LOWER THEIR STANDARDS - to find where the
+intrinsic value and purchase price points are in this market. For example,
+using PSR's. JMO. Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 11:18:00 PM
+From:James Clarke
+
+Great post.
+
+I had the good fortune to see a number of esteemed value investors speak last
+year in a class at Columbia (Graham's old value investing class that Gabelli
+and Buffett took). Almost all of them talked about net-net buys as the ideal,
+but each said don't waste much time looking for them today. Though they did not
+say you will never see them again.
+
+In today's world of computer screens, net-nets of successful businesses are
+just too easy to find, and there are plenty of us looking for them. So you
+preserve Graham's logic of buying things for less than they are worth, not
+based on some forecast, but based on what is there today. But you have to relax
+the "2/3 of net-net value" criteria, otherwise there's nothing to invest in. I
+don't think Graham would have had a problem with that. Although in today's
+market I have no doubt he would have been at least half in, as he liked to say,
+"high quality bonds". Held to maturity of course - not like Vinik.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 11:27:00 PM
+From:James Clarke
+
+Do you really believe investors are down on Microsoft? It is more popular with
+Wall Street analysts than even Coca Cola, with the average rating between a buy
+and a strong buy. You dropped in your opinion that the institutional investors
+are missing this one, but the analysts (and I would say the price - you
+wouldn't) indicate the opposite. What makes you believe you are seeing
+something everybody else is missing? And what exactly do you see? That
+Microsoft is phenomenally profitable? Everybody knows that. Its probably the
+most visible company out there, and one of the most popular. I'm not down on
+the stock by any means - I agree with you completely that it is a great
+company. No way would I short it, because I think the profitability is probably
+sustainable for a while. But way undervalued? It just doesn't fit the profile.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 11:45:00 PM
+From:Paul Senior
+
+David S. Well maybe LTUS is a value, but I still can't see where its
+undervalued.
+
+46 stores up from 35. This year 8 more. Next year 10. How they going to pay?
+Float more stock if share price gets to 15? That'll kill the stock faster than
+locusts on lettuce (-g- sorry). LT Debt 11.6 up from 6.4 already.
+
+I don't get it. Are we getting your best info and best recommendation.? This
+co. seems like just an appetizer compared to meatier stocks that have been
+posted here ;>)
+%EOM----------------------
+
+%BOM---------------------
+Date:4/23/1997 11:53:00 PM
+From:sea_biscuit
+
+MSFT is a neglected stock???? Pah! Even I know enough to say that it is not. It
+is one of the most sought-after stocks among the Nifty Fifty (or the Plenty
+Twenty or the Fabulous Five or whatever the people call them). The "creme de la
+creme" of stocks! The elite of the elite! But unfortunately, it has been
+neglected, and hence, suffers from a "discount in price"! ;-) Thanks for the
+laughs!!!!
+
+As for the "spewing value" part, here is the PSR history of MSFT. At the end of
+1994 its PSR was 7.3 ; end 1995, it was 8.61 ; end 1996, 11.0 ; and today, it
+is 14.2! I wouldn't like to be around when this bubble bursts, for sure! :-)
+
+Dipy.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:01:00 AM
+From:Gottfried
+
+Mike, I found this article exciting at first, too. Now someone on
+the TLC thread is throwing cold water...
+
+http://www.techstocks.com/~wsapi/investor/s-13960/reply-812
+
+Gottfried
+
+PS: too good to be true?
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:10:00 AM
+From:marty009
+
+To: The Spacemen (not a response to Paul)
+From: Marty009
+
+This could have been a great thread. But, you guys from outer space
+keep attacking mother earth with a constant barrage of bullshit.Is
+this what Mike wanted when he started this thread?
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:15:00 AM
+From:Tim Russell
+
+I've got a couple that intrigue me. PAGE and SFSK both have recent news to
+support price swings page has tremendous debt but also has MOTOROLA'S support
+any comments would be appreciated. Tim.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:51:00 AM
+From:Michael Burry
+
+Gottfried,
+
+Certainly is. There are major flaws in the
+model which are pretty obvious.
+
+It is interesting, and there is
+science behind it. But it ignores
+cyclicals (GM), its costs of capital
+are debatable, and it relies heavily
+on projected earnings, among other
+things.
+
+Also, like all models based on
+projection, the projections tend
+to be optimistic and don't allow
+for adverse news/new competition.
+
+Good luck,
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:56:00 AM
+From:Paul Senior
+
+Here's why I don't like PAGE:
+
+It's a special situation as far as I am concerned. You have to really know your
+stuff to either analyze the balance sheet - because the debt - wow 1.4B., neg
+net worth, neg profits, but pos EBIT seems like - that dissuades me from
+further analysis -- or you have to really know the business. Read posts to me
+regarding GEMS. (GEMS is a partner with PAGE and probably a reason Mr.
+Raimondes L. would not invest in either co.) If you can't analyze the numbers
+and you can't analyze the business (future prospects), then you've got to rely
+on somebody else's opinion. Terrible way to invest.
+What is the value that YOU see with this company? Or are you just shopping for
+a casual opinion?
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 1:00:00 AM
+From:Gottfried
+
+Mike, >>But it ignores cyclicals (GM),<< he does show Chrysler
+as a buy, though. Do you mean it's a buy only because he ignores C's
+cyclicality?
+
+Gottfried
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 1:09:00 AM
+From:Paul Senior
+
+Raimondas L.: yes, re. BRKS, maybe a little high for a straight value play at
+12 range. My opinion only.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 1:13:00 AM
+From:Michael Burry
+
+RESTATEMENT OF PURPOSE FOR THE VALUE INVESTING THREAD
+
+This thread is about value investing "in the Graham tradition."
+
+A "Margin of Safety" as Graham and Buffett and other well-known
+value investors (Klarman, Kahn, etc.) define
+it should be incorporated to some extent into approaches
+and ideas posted here. Net asset plays, overlooked stocks, stocks under
+temporary stress, a bear market/correction all create opportunities with a
+margin of safety.
+
+Keeping this key concept in mind, please feel free to propose approaches and
+investment ideas on which the thread may comment. Questions of all kinds are
+especially welcome, because if you have a question, it's likely many of us do
+too.
+
+In general the goal will be to present ideas, get feedback,
+and move on. Updates on specific ideas at future dates are
+most welcome and help us all keep perspective. But 10-20
+posts should be the maximum for any but the most extraordinary
+of subjects. Such volume indicates the subject is interesting and
+especially deserving of its own thread.
+
+Alternatives for greater discussion of particularly
+controversial topics are e-mail and a new thread.
+
+This thread, however, should focus on "traditional" value
+investing based on a margin of safety in the stock price.
+
+If you do not understand what I mean by "margin of safety,"
+please e-mail me. Those that understand this concept
+or want to understand it better, please continue to contribute.
+
+Neo-value investing approaches that make extensive
+use of projections into the future may be better served
+by a new thread devoted entirely to them.
+
+I apologize for the interruption, but it was never my
+goal for this to become one of SI's most posted-to threads.
+My own offenses are very much recognized and I will
+limit myself in the future.
+
+Good investing,
+Michael Burry
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 1:18:00 AM
+From:Michael Burry
+
+<<Do you mean it's a buy only because he ignores C's cyclicality?>>
+
+Yes, I meant that cyclicality is not incorporated into the
+model, so it may spew out cyclicals when their
+ROE is precisely at the peak (and hence ready for
+a downturn).
+
+Good investing Gottfried,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 2:02:00 AM
+From:James Clarke
+
+Amen. Even if volume goes down, lets preserve this for value investing in the
+Graham tradition. I'll try to stay out of fights on theoretical finance from
+now on.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 2:11:00 AM
+From:James Clarke
+
+An obscene value investment. One that won't show up on any of your screens.
+
+Tejon Ranch Company (TRC) owns 270,000 acres of land in Southern California.
+Just one hour north of LA. This is a pure asset play - the company earns
+virtually nothing. The market cap is $220 million, no debt. Do a little
+division and you get to about $800 an acre. Land in the area is selling for
+$5-10 thousand per acre.
+
+This won't show up on a book value screen because the land is on the books at
+pre-1936 cost. About $15 an acre. If that did not make you smile, you are not a
+value investor.
+
+The stock peaked at around 60 in the last real estate boom. It now trades at
+17.
+
+And yes, Gabelli fans, there is a catalyst. The company has just hired JP
+Morgan to evaluate alternatives. The largest shareholder wants to sell out, and
+now the majority which has long controlled the company is no longer a majority.
+
+I'm sure I am not the first to find this one. If anybody has anything further,
+please post it or e-mail me privately. I'd be happy to share whatever else I
+can dig up.
+
+Reginald, Mr. Microsoft, THIS is what a value investment looks like.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 4:41:00 AM
+From:John Langston
+
+James: Thanks for the info. I appreciate the debate between yourself and
+Reginald. Class is in session and I am listening.
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 5:05:00 AM
+From:John Langston
+
+Arthur: No matter how hard you try, you can't marry value investing to modern
+portfolio theory. Value investing relies on the fact that some market
+efficiency does exist or their would be no predictability of a stock reaching
+its intrinsic value. But, that the market is inefficient in sufficient
+proportion to allow an astute investor to find undervalued stocks. The
+academics of the MPT camp believe that the market is optimally efficient and
+therefore no inefficiencies exist. Therefore, Peter Lynch, Michael Price, John
+Neff and Warren Buffet were simply "lucky." I do believe that it is probably
+more difficult to "win" now than thirty years ago, but do you really think that
+successful stock pickers are just lucky? I use true diversification as espoused
+by MPT for most of my clients for a portion of their portfolios. For some, ALL
+of their portfolios. The predictability and reduced volatility is more
+important to some than others. It probably should be of greater concern to
+many. I also realize that few understand diversification. But, to attach MPT to
+value investing is to infect it with mediocrity.
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 5:22:00 AM
+From:John Langston
+
+Paul: You done real good their, partner. (g) I wasn't refuting the "net-net"
+reference in THE INTELLIGENT INVESTOR, just that I couldn't remember it. It was
+my first "value" read. Are you convinced that one could not follow Graham's
+original tenets and be very successful in the stock market?
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 5:30:00 AM
+From:John Langston
+
+Thanks, Paul. I should have read this note before I asked the question in my
+last one. (g) Do you think that the approach has to be tweaked for industries
+that existed in Graham's day? Or maybe just the new industries such as
+software, biotech, service industries, technology companies in general?
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 7:15:00 AM
+From:Reginald Middleton
+
+<Do you really believe investors are down on Microsoft? It is more popular with
+Wall Street analysts than even Coca Cola, with the average rating between a buy
+and a strong buy. You dropped in your opinion that the institutional investors
+are missing this one, but the analysts (and I would say the price - you
+wouldn't) indicate the opposite.>
+
+Price and value are relative terms. The investors say MSFT is worth $100, I say
+it is worth a lot more. It is irrelavant whether they are down or up on MSFT,
+what matters is its economic value in realtion to its actual market price. If
+you remember, forteh last four years MSFT was supposed to be overpriced, and
+nearly 400% later.....
+I am not the only one who sees this. Morgan Stanley picked this up. They did
+such a fantastic job at selling that they convinced a programmer (Bill Gates)
+to issue a structured security, the first time this has ever been done. MSFT
+announced thier sturctured preferred offering wtih embedded puts which actually
+guarantee the principal of the investor, while offering him participation in
+the upside potential of the common and a current yield. Now, knowing that
+management has the inside track and more information on the companies prospects
+than most outsiders, why would mgmt. put themselves on the line with such a
+generous offer when their stock is so allegedly overpriced. It happened around
+December, was Bill Gates playing Santa Claus? The reason it was done was
+because the MSFT common was so outrageously underpriced that the preferred
+could have been used as a ultra low cost loan (a loan cheaper than MSFT's cost
+of capital, cheaper than market debt,and cheaper than a bank loan) that would
+have funded various projects such a a common buy back to fund the voracious
+MSFT compensation system and increase the value of the comon shareholders at
+the expense of the guys who do not know how to value the financial assets.
+
+<No way would I short it, because I think the profitability is probably
+sustainable for a while. But way undervalued? It just doesn't fit the profile.>
+
+Did you see it when Buffet horded KO at prices that many deemed as extreme. It
+becomes apparent when you use the discounted value approach. I use a very
+pessimistic projection, and if I can discount the value from that pessimistic
+projection to that above the current market place, then i know the market is
+not efficient, or all knowing. If you ask the guys at MSFT vs, NSCP thread,
+they will tell you how I consistently opined NSCP down with a series of very
+inexpensive puts (average price $.80, or something like that), which I
+announced on the thread before the fact. This was doen twice, from $80 to $40,a
+nd from $60 to $30. This was not the result of techincal anslysis, but simply
+the result of pure fundamental anlsysis - analyzing the true value of NSCP
+under extreme conditions (stress testing, as some would say) and finding the
+market to be way off cue.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 7:19:00 AM
+From:Reginald Middleton
+
+<Thanks for the laughs!!!!
+
+As for the "spewing value" part, here is the PSR history of MSFT. At the end of
+1994 its PSR was 7.3 ; end 1995, it was 8.61 ; end 1996, 11.0 ; and today, it
+is 14.2! I wouldn't like to be around when this bubble bursts, for sure! :-)>
+
+Back up the relevance of the PSR with performance evidence in the technology
+sector. PSR is an inaccurate measure for infotech, because the economies of
+scale are very different to the ones that were prevalent when PSR was
+originally concocted. There are times when you simply can't win a car race with
+a horse and buggy :-) you should be counting the money made versus the price,
+not sales. How do you compare two companies with disparate profit margins using
+PSR. Compare Ford Motor Company with MSFT then compate them to Dell Computer.
+You will get confused.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 7:49:00 AM
+From:Christian Atallah
+
+Hey all you value investors, take a look at this stock. HTCH has a PE of 9 on
+'97 earnings and it has a high growth rate. I would like to know your opinon on
+it if I could. Thank you.
+
+sincerly, Christian Atallah
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 9:18:00 AM
+From:Arthur Tang
+
+Thank you, John
+
+I think you answered most of your own objections. We are speaking of standard
+deviations of value and risk. We are speaking of establishing value and risk
+comparison. You can compare one stock or many (index). But, if you insist, only
+you are right for your clients; you are correct every time. We are speaking of
+the method to look at value and risk comparison. If you have your clients; we
+have our clients. But if every value on every stock has a different set of
+standards as you insist, then we are not on the same wave length. Your concept
+is like the TA people fitting the curve each time they do MA (5 days to 200
+days) whichever looks best to the user.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 10:26:00 AM
+From:Paul Senior
+
+Mr. Land Baron! Thanks. Have ordered annual report.
+
+This one might work for me as an offset to industrial/tech/financial stocks.
+Sorta-kinda like investing in raw land. Way outside of my circle of competence,
+but a special situation worth checking. Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 11:19:00 AM
+From:Arthur Tang
+
+Buy cheap sell dear, good old value investing method.
+
+Buy high and sell even higher, new value investing method today. Basic reason
+is liquidity changes over the years. The 401k money amount changes the value
+investment environment. The amount is so large that only the most liquid stock
+can be invested; so that people can buy and sell 15 million shares a day.
+
+The cheap stocks never pick up the extra 401k money. For reasons of value and
+risk, the market value of cheap stock is the fair value evaluation of the day.
+Some of us old value investors are still holding on to stocks; that even good
+news or story does not move the price.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 11:50:00 AM
+From:John Langston
+
+Arthur: If you are going to accuse me of "curve-fitting," then prove by what I
+said.
+
+John
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 11:55:00 AM
+From:P. Ramamoorthy
+
+James - How one calculates net-net? Computer screen results could be misleading
+if I don't know how these are calculated. Ram
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:21:00 PM
+From:P. Ramamoorthy
+
+Reginald - You recommend looking at price to cash flow rather than price to
+sales? Is price to cash flow independent of the mechanism (enterprise) that
+generates cash (or economic value" as you would say)? Ram
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:24:00 PM
+From:P. Ramamoorthy
+
+James - How the investment in TRC will work? Buying at 17, waiting for the
+disposition of land, mgmt distributing net proceeds to stock holders as
+one-time distributions? Will this be a one-time deal? Ram
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:26:00 PM
+From:James Clarke
+
+Net-net. We've been throwing around this term without really explaining it. It
+is classic Ben Graham concept at the core of value investing.
+
+The more rigorous formula is:
+
+Share price < Current Assets - All liabilities
+
+A relaxed formula is
+
+Share Price < Current Asset - Current Liabilities - Long Term Debt
+
+The concept is this. Current assets are usually pretty certain, and the value
+is pretty close to book value, even in a liquidation. By taking out all
+liabilities, unadjusted, you build in conservatism. Essentially, the business
+and all fixed assets are free.
+
+Be very careful that there are no off-balance sheet contingent liabilities.
+
+These are very hard to find today, but Mike Burry has found a few for us which
+are very close.
+
+Jim
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:29:00 PM
+From:James Clarke
+
+Mike - I bought a little WHX today. It looks absolutely awful, but at 1/7 of
+book value I couldn't resist. Book value looks pretty solid (lots of cash, and
+newly modernized plant). I don't see how things could get worse. Any good news
+on the strike kicks the price up to 7 or 8 dollars.
+
+Thanks.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:43:00 PM
+From:James Clarke
+
+TRC could work out in a number of ways. The company could get bought. Maybe it
+takes 5 years for them to start developing the land. Way too early to tell.
+
+What I do know is this. I bought (yes I already bought it) tangible assets for
+a fraction of what they are worth. And there is a catalyst. Nice things tend to
+happen in these kind of situations. And what's the downside? Even if nothing
+happens, the assets are still there. I can't see this one going much below 13
+or 14 (the price before the largest shareholder announced it wants to shake
+things up)
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:45:00 PM
+From:sea_biscuit
+
+Who told you that PSR analysis treats all companies on the same footing? May be
+it is *you* who is confused! Ford would belong to what Fisher calls the
+"smokestack" category. The highest PSR that he allows for such stocks is a
+measly 0.8 As for tech stocks of Super companies (like MSFT?), they are
+attractive buys at PSRs of 1.5, much higher than the PSR at which you would
+SELL the "smokestack" stocks.
+
+Then there is the issue of PRR (Price to Research Ratio) which could be used in
+addition to PSR to evaluate tech stocks. This number should be between 5 and 15
+(the lower the better) for a stock to be attractive.
+
+If you want to consider the money made instead of the sales, it means you are
+looking at profit margins. Now, if profit margins are high, which of these two
+is more likely to happen in the LONG TERM -- the margins go higher, or they
+revert to "normal" levels?
+
+All this is irrelevant if you want to buy MSFT and sell it for a profit six
+months from now. You might be able to pull it off. But I don't think we are
+talking along those lines, are we? This thread is titled "Value Investing"...
+
+Dipy.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:46:00 PM
+From:Woody_Nickels
+
+Karl, I think Value Line lists best price/book stocks every week. Good
+to see some reasonable people having reasonable discussion. Will stop
+in more often once I get on-line at home. I used shorts alot while
+trying Futures. Works great and fast, but can be costly if it goes
+against you. Stops are OK in the Futures market.
+Ken.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 12:54:00 PM
+From:Reginald Middleton
+
+<Reginald - You recommend looking at price to cash flow rather than price to
+sales? Is price to cash flow independent of the mechanism (enterprise) that
+generates cash (or economic value" as you would say)?>
+
+In a way, yes. Price to sales can easily be distorted when comparing companies
+with different operating margins, you will not be comparingthe same thing.
+Price tocash is better, especially if you are using a reconcilated cash flow
+that adds back accrual accounting intangibles such as amortization and
+goodwill. This will end up giving you NOPAAT (net operating profit after an
+adjust for cash). The difference between this and economic profit (or value) is
+that this is just the reward side of a risk reward calucaltion. To include the
+risk, you will have to apply a capital charge aginst your reconciliated cash
+flows that reflects the relative risk assumed in generating those cash flows
+(owning the asset). This capital charge is the equivalent of the market
+dictated weighted average cost of capital (risk as the free market prices it)
+times the amount invested to receive the reconciliated cash flows (invested
+capital). You can get this aomunt by culling the data form the income statment
+and the cash flow statement.
+
+Economic profit, True Value, EVA, and their derivatives are simply DCF
+structured in such a fashion as to show the practitioner/investor the breakdown
+of risk and reward on a proportional (percentage or spread) basis as well as an
+aggregated dollar amount.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 1:07:00 PM
+From:Reginald Middleton
+
+<Who told you that PSR analysis treats all companies on the same footing? May
+be it is *you* who is confused! Ford would belong to what Fisher calls the
+"smokestack" category. The highest PSR that he allows for such stocks is a
+measly 0.8 As for tech stocks of Super companies (like MSFT?), they are
+attractive buys at PSRs of 1.5, much higher than the PSR at which you would
+SELL the "smokestack" stocks. >
+
+Including your "research ratio" how do you decide which company is the better
+empirical (financial) risk if they are equivalently priced and have the same
+research ratio and the same PSR in the same industry?
+
+How do use PSR or research ration to account for excessive reserving of
+revenue, which will severely distort a PSR calculation in the case of MSFT?
+MSFT has reserved considerably over a billion dollars as an offset agianst
+liabilities that have a very slim chance of manifesting themselves. They do
+this in order to "bank" revenue, which serves as a resevoir of cash that
+smoothes earnings volatility in future reporting periods.
+
+How do you use PSR or research ratio to account for a comapny that is forced to
+spend excessively in marketing in order to remain competitive (ex. AOL). This
+will not show up in a PSR calculation. It will also not show up in a reseaerch
+ratio calculation (if that somehow refers to R&D spending).
+
+These are but a few of the pitfalls that can occur when you use a method of
+valuation that fails to encompass most relevant parameters. Risk vs. discounted
+cash flow adjusted for volatity (True Value) is the most comprehensive
+measurement possible in this day in time. It may not be the easiest though.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 2:05:00 PM
+From:sea_biscuit
+
+<<Including your "research ratio" how do you decide which company is the better
+empirical
+(financial) risk if they are equivalently priced and have the same research
+ratio and the same
+PSR in the same industry?>>
+
+Simple. If the ratios are high, avoid them both! OTOH, if they are attractive,
+just split your investment between the two. Better than tossing a coin, IMO.
+
+<<How do use PSR or research ration to account for excessive reserving of
+revenue, which will
+severely distort a PSR calculation in the case of MSFT? MSFT has reserved
+considerably over a
+billion dollars as an offset agianst liabilities that have a very slim chance
+of manifesting
+themselves. They do this in order to "bank" revenue, which serves as a resevoir
+of cash that
+smoothes earnings volatility in future reporting periods.>>
+
+Use YAVC (Yet Another Value Criterion :-) )-- the price-to-book ratio. (Btw,
+MSFT is at 14.2 price-to-book, which is probably 3 or 4 times the p/b of the
+S&P 500? And we are living in an age of excessive valuation i.e. historically
+very high p/b ratios...).
+
+<<How do you use PSR or research ratio to account for a comapny that is forced
+to spend
+excessively in marketing in order to remain competitive (ex. AOL). This will
+not show up in a
+PSR calculation. It will also not show up in a reseaerch ratio calculation (if
+that somehow refers
+to R&D spending).>>
+
+If the company spends too much on marketing etc., its earnings will come down.
+People then sell the stock. If the PSR reaches attractive levels, we pick it
+up. As the company recovers and flourishes, it need not spend so much on
+marketing anymore. The earnings increase. People start buying the stock again.
+The PSR keeps rising. And when it reaches a sufficiently high value (between 3
+and 6, depending on one's capacity to tolerate risk), the PSR investor pulls
+the trigger. End of story!
+
+Dipy.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 2:27:00 PM
+From:Reginald Middleton
+
+><<<Including your "research ratio" how do you decide which company is the
+better empirical (financial) risk if they are equivalently priced and have the
+same research ratio and the same PSR in the same industry?>>
+Simple. If the ratios are high, avoid them both! OTOH, if they are attractive,
+just split your investment between the two. Better than tossing a coin, IMO.>>
+
+My friend, please forgive me if I doubt the accuracy of your less than
+empirical methods. There is no need to toss a coin or buy both. you choose the
+one that creates the most value per dollar invested.
+
+<Use YAVC (Yet Another Value Criterion :-) )-- the price-to-book ratio. (Btw,
+MSFT is at 14.2 price-to-book, which is probably 3 or 4 times the p/b of the
+S&P 500? And we are living in an age of excessive valuation i.e. historically
+very high p/b ratios...).>
+
+The brand name and proprietry technology (API's) value of Windows, MS office,
+Excel, Word, etc. is not listed on the balance sheet, yet is the msot valuable
+asset in the entire software industry. It is worth in excess of 3.1 billion
+dollars (the amount IBM spent on Lotus). The majoroty of asset value in
+software companies lie in the intellectual capital, copyright and trademark,
+and the actual code - none of which is reflected on the balance sheet. BV is
+practically useless when dealing with software companies.
+
+<If the company spends too much on marketing etc., its earnings will come down.
+People then sell the stock. If the PSR reaches attractive levels, we pick it
+up. As the company recovers and flourishes, it need not spend so much on
+marketing anymore. The earnings increase. People start buying the stock again.
+The PSR keeps rising. And when it reaches a sufficiently high value (between 3
+and 6, depending on one's capacity to tolerate risk), the PSR investor pulls
+the trigger. End of story!>
+
+I'm not sure if you are serious or not, so I will assume that you are and if i
+am wrong, please forgive my lack of humor. Very, very few companies spend to
+much on advertising. If you look at the most succesful desptop software and
+hardware companies, you will conistently see a number that hovers around 40% in
+the sales and marketing line. The problem is that companies don't spend enough
+onsales adn marketing, or do so inefficiently (reference NOVELL). AS for
+earnings, in many instances where you don't have a contigent quasi-liability
+such as dividends, the less earnings the better. If a company is efficient, the
+more money invested the better (invested as in R&D and marketing). If it is not
+invested, it will be nearly halved by the tax man (do you attempt to show as
+much income as possible on year yealry 1040 or do you squirrel as much or your
+money away as possible in tax dedcutions and tax deferred investments - smart
+companies do the same thing). There are two major needs for earnings in
+technology companies, is actual and the other one is perceived. The first is
+the need for retained cash as a buffer for unforeseen events, future cash flow
+volatility, and acquisitions. The second is the rather ignorant (please forgive
+my blatantness) perception of management that Wall Street wants to see
+earnings. This is not true, Wall Street wants to see cash, money, moolah....
+
+Many managers have a tendency to forego lucrative deals and operations because
+of a diluition of earnings (such as acquisition of companies that result in
+significant goodwill, or extensive investment in marketing or R&D, again see
+the Novell Corp for and example). This in turn tends to reduce the value of
+their company. Only small, retail investors or institutions that truly do not
+knwo any better chase earnings. The very infuential players chase cash.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 2:48:00 PM
+From:David S.
+
+I'll go through the numbers in more detail. I'll try to put it all together
+over the weekend. Locusts? uh oh, better sleep indoors!
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 2:55:00 PM
+From:sea_biscuit
+
+Getting back to MSFT, the bottom-line, at least to me, is that a lot of people
+are chasing the stock (this might be a "less than empirical" method, but it is
+also a matter of fact and I cannot but help notice it). Therefore, I refuse to
+accept that $522 (or whatever) is the fair value of the stock. MSFT is not
+exactly "a fruit that is hiding behind the leaves"!
+
+I use PSR merely as a guide to confirm my suspicions. I don't expect it to be
+infallible. After all, in investing, you don't have to be (and can't be) right
+all the time. You only have to be right most of the time.
+
+Things are great for MSFT as of now, and it is being bid up. (It is still a
+long way from $522 of course!) The only unexpected thing that can happen in
+this situation, is for the company to skid. If it continues to sail smoothly,
+well, it was expected all along, wasn't it? That in itself, is a good enough
+reason for me to avoid the stock. (Yes, I know this is definitely a "less than
+empirical" reason, so let me say it myself and save you the trouble! :-) )
+
+Good Luck. And when MSFT reaches $522 sometime during this bull-market, I
+promise I will be among the first to congratulate you.
+
+Regards
+
+Dipy.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 4:20:00 PM
+From:Paul Senior
+
+Well, I be danged! The person who welcomed The Finance Professional to the
+thread apparently doesn't know ass from assets. Are you a just a kibitzer or
+are you in the game? -g-
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 4:49:00 PM
+From:Tim Russell
+
+sorry it took so long to get back I'm limited to 5 posts a day.
+I read PAGE'S latest 10-k filing on edgar and they have 9 MILLION pagers in the
+market and expect to double that in 3 years. That is a lot of cash flow any
+kind of proper managment should right it's course and if the stock stays down
+someone will buy them.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 4:54:00 PM
+From:Paul Senior
+
+Hey C.A. Well I'll give you my .02 on HTCH:
+
+Good little niche co. But it does get beat up every now and then as result of
+being a key supplier to the disk drive industry. As I recall, (I owned it last
+year) most business is with 3 key customers.
+As you know, it's getting hit the past few days because of some delays in
+introducing or ramping their new product line - and this, of course,is known by
+everybody. The question is, is there a mispricing (misperception), and will the
+stock come back to higher prices? I think it might, but I don't know that it
+will, and the price has been a lot lower. (Last year was very tough for DD
+makers, the cyclicality of the industry was reaffirmed - that's why I think the
+P/E's could remain low.) I'd say there are better buys out there now right now.
+
+Price today is about 25+
+ROE of 24% (but it's been 1/2 that in previous years. Will their
+customers let them maintain this high profitability?)
+PSR is high at 1.2 (has fluctuated between .26 and 1.2 in past years)
+Book is about 7.9.
+
+Personally, I'd pay at most, $20 for this one.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 5:26:00 PM
+From:Andrew Williams
+
+Just thought some readers may be interested in the following:
+
+1) a short article about stock screening services
+
+http://www.forbes.com/forbes/97/0421/5908372a.htm
+
+2) an interesting valuation approach with some interesting results
+
+http://www.forbes.com/forbes/97/0505/5909183a.htm
+
+Andrew
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 5:27:00 PM
+From:Jeffrey Shortis
+
+Hey Art, you're not going to let these "bozos" scare you off of the CCUR page
+are you?
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 5:32:00 PM
+From:Michael Burry
+
+UPDATE ON THE RESTATEMENT OF PURPOSE
+
+We're still at +20 posts/sign-on.
+
+I just want to add that personal attacks
+are less than welcome. If the comments
+are not related to value investing
+"in the Graham tradition," everyone
+should feel free to start his/her
+own thread and point us to it.
+
+Thank you.
+
+Good investing,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 6:00:00 PM
+From:Paul Senior
+
+Tim Russell: Why are you limited to 5 posts/day? Don't answer!-it's not worth
+using 1 of the 5 -g-.
+Okay, using the info. you provide, I now get 102.6 / 9 = 11.3 shares
+outstanding for every pager. At a price of 6 11/32 per share (Yahoo, but
+another quote service says 6.94?? how can that be? (don't answer! -g-)), I
+figure it takes about $72 to control each pager. Oops, better add in the 1.46B
+debt or $14.3/sh. Whaddya think? About $84 dollars for each pager? That might
+be cheap enough for an investment in the stock. As for double to 6m pagers in 3
+years, I can't evaluate that. Got to know who said it, their record (and don't
+tell me! -- I am investing here on today's facts, not opinions) As for being
+bought out because their stock is at current levels, that reads too much like
+the hopes of too many frustrated investors seeing their stock on the new low
+list. But of course you could be absolutely right. In which case you might want
+to use at least 1 of the 5 posts to tell me how wrong I was. ;-) Paul Senior
+
+ps. also, there is an ongoing discussion on this thread about how do we
+evaluate management. I've said I like ROE, possibly a crutch for me because, I
+don't know personally any of the managers of the companies I invest in. PAGE
+has terrible ROE, so I am stuck. I have to know the business - back to my
+original point - in order to figure what a "competent" management team could
+do.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 6:12:00 PM
+From:Tim Russell
+
+during your first 50 posts SI limits you to 5/day, I don't know why. I also do
+not know the managment team at PAGE. Thank you for your enlightning input I'm
+still going to speculate on 500 shares but your point(s) were well taken thank
+you.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 7:45:00 PM
+From:Bob Davis
+
+The URL for the new Web Site for The Napeague Letter is:
+
+http://www.napeague.com/
+
+Please "bookmark" it on your web browser.
+
+A word of "warning" - This web site is not "pretty". It doesn't have fancy
+graphics, pictures of my dogs or kids, or any cute stuff that flashes or
+blinks. But, it downloads fast and doesn't use a lot of bandwidth. It is
+stark, but it is functional....and you can reach it through the AOL web
+browser!
+
+If you are not yet familiar with it, The Napeague Letter identifies
+undervalued small-cap companies which are investment opportunities. Its
+Analyses are based on in-depth research and apply a variety of
+fundamental analysis tools to identify growing small-cap companies whose
+stocks are undervalued. It then uses technical analyses to identify possible
+Buy and Sell points.
+
+I'm Bob Davis, the editor of The Napeague Letter. I am a relatively
+sophisticated individual investor, with 15 years of experience as Chief
+Financial Officer of two different NASDAQ companies and an MBA from
+Harvard Business. I am not employed by or compensated by the
+companies that are analyzed in The Napeague Letter. However, I am
+frequently a stockholder in the company, as the result of purchasing shares
+on the open market.
+
+The Wall Street Journal recently profiled The Napeague Letter in an
+article about e-mail investment newsletters. Describing the Newsletter's
+editor (yes...me), they said, "He uses a variety of valuation methods and
+sends a description of them to anyone interested. His letters, running six to
+ten pages in length, examine one company he is thinking of investing in
+personally. He looks at the industry, the market segments, management,
+clients, what kind of business it is, and includes a balance sheet
+evaluation. "I do it to make up my own mind," he says."
+
+The Wall Street Journal also interviewed investors who read The
+Napeague Letter. They quoted one as saying "The ones that I've read
+from Bob, I think are quality work. He does his homework".
+
+Up until now I have been using E-mail to distribute TNL to a list of
+subscribers. For the present, I plan to continue doing this, as well as
+posting it to the web site. However, in the not-so-distant future, I would
+like to use E-mail only for information that is "time sensitive" in some
+way, and post the in-depth Analyses to the web site, where its HyperText
+features can be more useful to you.
+
+These Analyses rely on many different sources of data, most of which are
+on the Internet already. By placing these Analyses on a web site and
+including HyperText links to the original sources of data, you will be able
+to carry out your own due diligence more effectively. After all, it is my
+feeling that if an investor is considering committing funds to an
+investment, they should know as much as possible about the investment
+itself beforehand.
+
+Of course, if you would like to be added to the TNL E-mail list, please
+E-mail me a request at rmdavis1@ix.netcom.com. This is a free
+subscription. No one will try to sell you anything and this list will not
+be used for any other purposes.
+
+If you are having any problems reaching this web site, or if you have any
+ideas as to how I can improve it, please e-mail me at
+rmdavis1@ix.netcom.com, and I'll get back to you as rapidly as possible.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 8:23:00 PM
+From:Arthur Tang
+
+Thank you, Jeff
+
+CCUR? Just watch the price; nothing doing; the more you buy the lower the
+price.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 9:27:00 PM
+From:Paul Senior
+
+Karl: re your HCIA, MRRW, ANET, FSII, CMOS. I looked quick.
+
+Probably too quickly. (Volume of suggestions on this thread recently has
+increased. So far not enough net-nets. I seem to be in a position now of
+looking for reasons to exclude stocks, rather than include them. May be a good
+sign, but I don't like it. Similar to being in HR, where volume of resumes
+meant looking for reasons to exclude people... I didn't like that either.)
+
+HCIA: AMBAC subsidiary. That would be a +, because they have a "sponsor".
+Growing. At book all right, but no ROE.
+
+MRRW: around book, 8%ROE, growing.
+
+ANET: neglible ROE
+
+CMOS: at 15.5 with book at 9.58 and ROE at 13% -- fairly valued.
+
+FSII: 11.125, rising earnings (neg to pos from '91-96) book 9.58
+PSR about .9, ROE 13, sell consumables? to electronics industry
+
+I chose this last one for a closer look. If you or anyone else have any other
+info/opinions re. these co's that you can share, now would be a good time.
+
+(Don't mean to be fixated on ROE, but unless I can get more facts more easily
+and quickly, I'll either move on (and risk missing an opportunty) or wait for
+"the homerun pitch" -where the facts are apparent or opinions discussed
+convince me.)
+
+Thanks, Paul Senior
+%EOM----------------------
+
+%BOM---------------------
+Date:4/24/1997 11:20:00 PM
+From:Michael Burry
+
+Thank you for your efforts, Bob.
+
+Your contributions are missed, and I do
+enjoy the letter.
+
+Great work!
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 12:40:00 AM
+From:sea_biscuit
+
+<<Getting back to MSFT, the bottom-line, at least to me, is that a lot of
+people are chasing the stock (this might be a "less than empirical" method, but
+it is also a matter of fact and I cannot but help notice it).Therefore, I
+refuse to accept that $522 (or whatever) is the fair value of the stock. MSFT
+is not exactly "a fruit that is hiding behind the leaves"! >>
+
+(Sorry about following up on my own post, but had to add this...)
+
+A friend of mine, a savvy investor, once said something I cannot forget -- "The
+market is right!". And then he explained, "It doesn't mean that you have to
+*agree* with the market. But you have to *accept* what it says. Sometimes you
+might think you are right and the market is wrong. But if you are *indeed*
+right, you will find that eventually the market will agree with you."
+
+So, all those formulas and analysis that value MSFT at $522 are (gasp!) wrong
+if the market doesn't agree! Now, I don't expect this to happen tomorrow, but
+IF the analysis is right, MSFT should and will hit $522 during this business
+cycle! Otherwise, the formulas and analysis rightfully belong to the dustbin.
+
+As simple as that.
+
+Dipy.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 1:14:00 AM
+From:Christian Atallah
+
+How can you say that? This stock is cheap as heck!!
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 1:42:00 AM
+From:Michael Burry
+
+Hi Christian,
+
+From a certain standpoint Hutchinson appears
+appealing. It seems unfairly punished
+amid a misunderstanding of its news that
+it is behind in its capacity expansion plans.
+Profits look good and it has 12 major
+contracts in hand. Given the down tech
+market and this temporary stress, there
+might be a certain margin of safety in
+the shares. For many investors, this
+is a buying opportunity. And in my gut
+I feel it will rise again.
+
+On a valuation basis, however, I tend to
+agree with Paul. Its ratios mostly approximate
+the industry averages, with no special
+value-based floor. While the PSR is getting low
+for the industry (especially in light of the
+good news on its margins),the future success of the
+stock seems very dependent on it proving
+future profit growth. While this seems
+very likely, a srict interpretation may
+call it speculation, IMO.
+
+Good investing,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 1:54:00 AM
+From:Michael Burry
+
+Two more prospects :
+
+They don't beat Tejon Ranch, but here goes:
+
+Southern Peru Copper Corp (~17.5, PCU)
+
+A $243M slow but steady revenue-grower and vertically integrated
+copper and silver producer with Peruvian operations
+sports a 6.3% div yield. Prospering in the midst
+of lower copper prices, just announced results today. Also:
+
+P/B .23 vs 2.33 for the industry
+ROE 19% vs ~10% for the industry
+LT Debt .10 (ind avg .88) and Current Ratio 3.33 (IA 1.92)
+Cash Flow of 3.33/sh
+
+Paul Mueller Company (MUEL)
+
+Oops gotta go. But this is a $40 M supplier of dairy
+equipment, very well recognized. Quest and DFA recently
+took positions. Strong cash flow, trades just over book on light volume, 7%
+dividend, zero LT Debt, very well managed, last
+year tough due to mad cow dz... More later...
+
+Good investing,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 1:59:00 AM
+From:Paul Senior
+
+Christian: Stock was cheap when you first posted and got cheaper when I
+replied. In Dec. of last year it was 18. It's not about cheap for me. I need a
+margin of safety. I wouldn't pay more than 2.5X book for HTCH. (I lived through
+HTCH once before -last summer-, not sure I want to relive the experience -g-)
+But that's me. What about YOU? How's about you give me some data/info/opinion
+so there's more info than just my opinion? And so that, if (when) the stock
+rises, we'll both know why. regards, Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 2:09:00 AM
+From:Paul Senior
+
+Mike: And here's one that works for me. Start your engines!
+
+Exide, EX.
+
+They've come from nowhere to become a major player in car batteries. Numbers
+look like this:
+Current Price: 15.75
+PSR: .14
+BV: 21.2
+D/E: 3:1 (Wow!)
+
+Their idea is to centralize the manufacturing of batteries (fewer but bigger
+plants), cut deals with large retailers (they make, for example, Sears Diehards
+(trademark registered Thank you, Reginald -g-), and manage many retailers'
+battery operations. (Deliver, stock, set-up displays, maintain stock, collect
+old batteries, remove, recycle). It's two-sided: they get economies of scale,
+but they have large support expenses. Now they are trying the same thing in
+Europe. They seem to think they can consolidate many small and unprofitable
+firms into profitable operations. But as you can pretty well guess, it's not
+been so easy. Very costly, - just look at that debt exposure - and not
+profitable either. (A lot of this has to do with lead prices - they've gone up
+a lot in `96, and EX is not hedged in its Europe operations. ) Furthermore,
+there is a big (big!) credibility problem with management in their
+communication to/with analysts (maybe stockholders too). Also, the Sears
+contract expires this year, and the competitor that had it before, had it for
+decades, so there is some bruhaha going to develop I'd guess. The top man at
+EX, is from what I can tell, gung ho on a mission. They may be battery crazy
+(-g-). They are big in marine batteries and are apparently looking into doing
+deals for lithium batteries. I am investing in this company at this price for 3
+reasons:
+
+1. Somebody is going to be selling you a battery (Okay, maybe value investors
+are too cheap to even buy cars, -g- but a lot of batteries are going to get
+sold. (EX sales have been growing rapidly past few years.)
+
+2. The PSR is just too low.
+
+3. The stock is below book value.
+
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 6:17:00 AM
+From:Bob Davis
+
+Mike,
+
+Once again, thank you for your efforts in building this forum, which I
+personally feel is one of the strongest that I have seen anywhere.
+
+I keep planning to get more involved with it, and I will....right after I get a
+couple of other things done...I will...honestly...pretty soon...well not that
+soon...but pretty soon.
+
+Bob Davis
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 7:08:00 AM
+From:Reginald Middleton
+
+Exide has a long history in the annals of rough instititional finance. I
+suggest you read Dangerous Dreamers, by Robert Sobol, and the Money of the
+Mind, they are quite interesting and detail (on a fairly objective basis) the
+Milken story among others.
+
+An interesting stock that will measure well in your PSR and Buffet Value
+screens is NOVL. It is currently the industry leader with considerably over 50%
+market share in networking, considerble licensed conusltant, contractor and
+third party developer population, and a share price that consists of nearly 30%
+cash.
+
+The problem is that the primary asset of a software comapny is intellectual
+capital, primarily, management. NOVL's management is much more technically
+orientated than the carnivorous culture of companies such as MSFT, ORCL, INTC,
+NSCP. Therefore, the street has priced in the domination of MSFT & crew. That,
+in combination with the destrcution of economic value for several consecutive
+years, has led to an extreme reduction of market value (destruction of
+shareholder value). So, even though a Buffet style scan may find this an
+interesting prospect, an analysis of the competitive environment and mgmt.
+acumen finds them sitting ducks. The good news, IMO, is that they are PERFECT
+buyout candidates. Plenty of cash and international subsidiaries, branded
+assets, market share and declining sales/weak stock price. There is a
+merger/acquisition scenario in PDF format on my site, as well as a live model
+for those of you who want to price the acquisition yourselves at
+http://www.rcmfinancial.com/test1/suggest.htm (this stuff is impossible to find
+on the net).
+
+For those of you who talk about my fancy formulas for valuation, I suggest you
+browse through a couple of articles I wrote, about a half year ago, on the
+carnivorous corporate culture and how that figures into shareholder value at
+http://www.rcmfinancial.com/sample4/html/op-ed.htm
+http://www.rcmfinancial.com/sample4/html/features_0.htm
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 9:34:00 AM
+From:Christian Atallah
+
+I am just saying that with the stock selling at LESS then HALF the PE of the
+S&P 500 with better long term growth rate the stock is definetly cheap!
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 9:44:00 AM
+From:Christian Atallah
+
+On a valuation basis you and Paul are both wrong. According to zacks the
+industry avg pe is 14.3 and it's pe is 9. Also the 5 year growth rate of both
+HTCH and the industry are BOTH EQUAL. So just as I said before HTCH is 50%
+CHEAPER then the avg. stock in it's industry. Now do you believe me?
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 10:37:00 AM
+From:Paul Senior
+
+Christian: Agree it has growth prospects. Okay it is cheap in comparison to
+"it's industry". Agree it's cheap compared to S&P. But it's not cheap enough
+for me. There is - for me - not enough margin of safety. I am always twingy
+when somebody says definitely cheap. Most everythng I ever bought was/is
+supposed to be a good deal - "cheap". A large number of these things - and I am
+talking stocks, real estate, antiques, collectibles, cars -- turn out to get
+cheaper and stay cheaper. Thinking about it, the only category that I am sure
+got more expensive was "women" -g-.
+Anyway, that is what makes a market, every buyer thinks it's cheap, every
+seller is glad to get out. If HTCH climbs a bunch, you certainly can come back
+at me at tell me that I really goofed in mispricing HTCH. I would hope that I
+could reply that I invested my money in a different co. - that I was
+comfortable with my investment based on my valuation of it - and that I too had
+made a profitable choice.
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 12:56:00 PM
+From:Michael Burry
+
+Good luck with HTCH. It looks
+like a good growth stock, no
+doubt. Not enough margin of
+safety for me, but I have
+no argument it is cheap
+relative to its growth
+prospects, and its stock is under
+stress that is likely temporary.
+If its earnings faltered severely,
+then it would no longer be cheap,
+and therein lies my reservation.
+
+Good investing,
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 2:10:00 PM
+From:Christian Atallah
+
+How is this for your reservations?
+
+Monday April 21 6:45 AM EDT - Source: Hutchinson Technology
+
+"Hutchinson Technology Second Quarter Net Income Up on Strong Demand and
+Improving Margins"
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 2:26:00 PM
+From:Michael Burry
+
+The discussion of beta in relation
+to value investing should at this point
+be moved to a new thread or to the
+e-mail realm. There have been sufficient
+posts here.
+
+Good investing,
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 6:19:00 PM
+From:Jurgis Bekepuris
+
+Paul,
+
+If you are going to invest in semi-equipment stocks
+(e.g. FSII), you should look through Andrew Vance's and
+Carl Johnson's ("Infrastructure") posts on SI. There are
+couple of other guys who know the field, but I'll mention
+those two first. :-)
+
+I prefer COHU, ESIO, MASK and UTEK over FSII.
+I did not like FSII's negative cash flows. On the other
+hand they are cheap and leading edge semi-equipment company
+that will probably do well in the next upturn.
+
+I also own ASYT, BRKS and PHTN. All of them are also at
+buy levels, but I have mixed opinions about them, so please
+do your DD. :-)
+
+Good luck
+
+Raimondas
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 9:25:00 PM
+From:Arthur Tang
+
+Thank you, Michael
+
+Risk becomes very sensitive in value analysis, especially on a bad day..
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 10:48:00 PM
+From:studdog
+
+I mentioned HCIA earlier as a value play in the medical informtion
+sector. Robertson Stevens just came out with a buy stating that it is
+undervalued just about any way you do the valuation. It was a steal two days
+ago at 15. Still cheap at 19 I think. (just about book)
+
+Worth a look
+
+Karl
+%EOM----------------------
+
+%BOM---------------------
+Date:4/25/1997 11:23:00 PM
+From:sea_biscuit
+
+Hi Raimondas :
+
+How about SVGI?
+
+Regards
+
+Dipy.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/26/1997 1:52:00 AM
+From:James Clarke
+
+I own SVGI. I know, I swore off tech stocks, but that was after I bought this
+one.
+
+The company seems to be at the high end of technology in the industry
+(steppers, etchers, lithography...whatever they call it - the equipment to make
+microprocessers). They are capable of .18 micron, and the competition is well
+behind that. If somebody can correct me on that, please do, this in not my
+industry, and I may be a year out of date.
+
+Intel is a huge customer. There was a rumor a couple weeks ago that Intel is
+ordering elsewhere. Apparently not confirmed on the conference call, but it
+hammered the stock. Once again, if anybody knows what they're talking about,
+tell me - I don't
+
+The company has a big cash balance, and trades at a very low P/E when you back
+out the cash. It is also very close to book value.
+
+Management is the problem. These guys achieved notoriety a few months ago by
+reducing the strike price of already issued options just because the price of
+the stock was down. They did this when the stock was near its bottom. Then they
+had the gall to say that it was to protect employees, when actually top
+management owned the vast majority of the options. A pure gift from the board
+to a management team which has hardly proved itself worthy of its base salary.
+
+What you'll find with this one is that the industry (AMAT, KLAC, KLIC...) moves
+together. SVGI will move with them, but will gets half the upside move and all
+the downside move on the big swings characteristic of this industry's stock
+prices lately.
+
+But I own it because it is dirt cheap. And I am not selling at $20.
+%EOM----------------------
+
+%BOM---------------------
+Date:4/26/1997 2:04:00 AM
+From:Paul Senior
+
+Karl C. "Cheap anyway you do the valuation." Oh boy I can take that one on. All
+I gotta do is find just one way to value HCIA where the value is not cheap.
+
+Well I will assume Mr. Market will continue to elevate the price of HCIA.
+Everybody buying in now will make tons of money. (And with the recent rise from
+14 to 19, I guess people really are excited to get a piece of the action -g-.)
+I won't have owned it and will probably regret it for years afterword. But for
+now...
+
+If I look just a little closer at the screening numbers, I find:
+
+Revenues have grown from 30.7M to 85M from 1994 to latest 12 mo
+(Good revenue growth)
+
+Net Income has gone from +1M to -41M from 1994 to last year
+(not the right direction, I'd say --losing money every year since 1994)
+
+EBIT has gone from 1.8M (in 1994) to -37M in 1996.
+
+This is a for-profit company? (rhetorical question)
+
+PSR 8.7 (1995) to 2.5 (1996)
+
+not too impressed. But where's 1994 PSR? Doesn't look like stock traded. In
+fact I will even suggest a profit was created in 1994 to enable 'em to float
+stock in '95. (But that has not much to do with value)
+
+If there ain't no earnings or EBIT, then how can book value per share grow from
+6 to 11 to 17? I don't know, but I do notice that shares out. also grew from
+5.4M to 8.9 to 11.8M. Could it be that HCIA is really in the business of
+issuing shares -g-?
+
+Robertson Stevens says it's undervalued any way you look at it. Bushwa I say!
+Of course 128 institutions hold 72% of the stock, so they must think it's
+undervalued on some important measures. And maybe it is. It's just that, IMO,
+earnings isn't one of them. ;-) Paul
+
+%EOM----------------------
+

@@ -1,0 +1,1931 @@
+%BOM---------------------
+Date:1/19/1999 11:09:00 AM
+From:Michael Burry
+
+Re: options
+I gave up on all types of options a while ago. At first I just sold calls. Then
+I took an options course, examined every possible strategy (they hand out a
+nice cheat sheet), and chose synthetic longs and call-ratio backspreads as my
+tools, using real time data with OptionStation. The level of sophistication in
+pricing these things is much higher than most casual options players suspect,
+and IMO the market is much, much, much more efficient than stocks. After trying
+futures, options, tech analysis, and feeling that I was running in circles
+(thankfully I never lost my shirt - especially in the commodities) I've
+determined that plain stocks are the most rational area to find discrepancies
+in value large enough and analyzable enough, given the facilities available to
+me in terms of time and technology, to give outsized returns. I agree with Bob
+that the best books are by McMillan (ignore the stuff from Angell).
+
+But everyone should also know exactly what they're getting into, and that means
+seeing the real-time options pricing and search software in action prior to
+doing it. IMO, options are absolutely nothing about the price of the underlying
+security (they are everything about correctly interpreting the security's
+volatility differently than the market), and hence poor substitutes to simple
+shorts, which for now I'm continuing to use.
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 6:04:00 PM
+From:Allen Furlan
+
+For the real conservative investor, do you know of any reit with a covertible
+bond that you consider a good investment. How about a regular bond? I am
+comfortable with reits as a sector which have real(estate) assets to protect
+the bond holder.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 6:23:00 PM
+From:Gary Evans
+
+BTR has a good conv preferred (a) that yields about 9%. I own some and will buy
+more.
+
+BTRA is symbol
+
+I am also looking at AEC conv. A. AECA
+
+Gary
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 6:24:00 PM
+From:James Clarke
+
+With 8+% dividends, I never really saw the need to look into convertibles.
+There are probably a few out there, but I would guess the yield might be higher
+on the common stock at this point.
+
+Actually one I mentioned, PSA, has a bunch of preferreds which trade on the
+NYSE. I don't know what the terms are or if they are convertible.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 7:04:00 PM
+From:Freedom Fighter
+
+>>BTW: Since many on this board consider the subject of shorting
+high-fliers..and the exploration of strategies for doing so, to be
+outside the realm of value investing, should we consider moving further
+discussion to John G's Shorting stocks: High fliers forum:
+http://www.siliconinvestor.com/subject.aspx?subjectid=15251
+Most of the folks that post there have primarily fundamental,
+research-driven orientation. <<
+
+I know. There was a bit of a discussion going on by some of the other
+contributors about shorting stocks. I just wanted to present an alternative.
+Wayne
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 7:43:00 PM
+From:Freedom Fighter
+
+Mike,
+
+>>IMO, options are absolutely nothing about the price of the underlying
+security (they are everything about correctly interpreting the
+security's volatility differently than the market), and hence poor
+substitutes to simple shorts, which for now I'm continuing to use.<<
+
+I agree with your statement when you are taking about a single contract for 'x'
+time or when you are trading options. But what about the situation I am talking
+about? Suppose you view the option not as a single contract that will either be
+a winner or loser, but as a rolling LONG TERM short position. In other words,
+
+1. I can choose to short stock 'abc' until the price reaches 'x'.
+or
+
+2. I can choose to sell calls on stock 'abc' every 'y' months until the price
+reaches 'x'.
+
+It seems to me that if the stock is truly overvalued, a continuous series of
+selling calls could turn out to be more profitable because the calculation of
+the premium price is in part related to the stock price. And all option models
+I have seen assume that the stock is efficiently priced which in our example we
+are assuming is not the case. So I agree with you on a single option case or a
+trade, but I suspect my alternate view of a series could be different. If the
+stock goes down you can get the downward movement plus the premiums.
+
+The option strategy limits losses when the stock is going up and against you
+and may even provide profits because of the continuous collection of premiums
+which can amount to a big percentage annualized.
+
+It works out much better when the stock is sort of doing nothing but bouncing
+around for an extended period of time because you are collecting premiums.
+
+The only down side, is when there is a sharp crack in the stock at one time or
+a crash. You may not participate fully in the profit. I suppose some judgment
+might be useful here as to why you are shorting the stock to begin with. Are
+you expecting them to miss the next quarter number? This could cause a violent
+move down. Then shorting would be preferable. But if you expect no violent move
+down other than random chance, if the stock moves down slowly, you can keep
+moving the strike price down and pretty much fully participate.
+
+I have engaged in some hedging activities in my own portfolio over the last few
+years as the market moved higher and some of my personal holdings that I did
+not want to sell became overvalued. I sold calls on stocks I thought were more
+overvalued than my own and likely to disappoint. I am certain that in the cases
+where I have been wrong, the options strategy saved me a ton of money. Just
+something to toss around. Sorry I'm off the value investing topic.
+
+Wayne
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 8:00:00 PM
+From:jeffbas
+
+Wayne, I do not like the idea of selling naked calls. You do NOT get the
+downward movement if the price drops, just the call premium. This is
+antithetical to the idea that you have picked a virtually worthless stock. Also
+you may have some not insignificant margin requirements on the position.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 8:19:00 PM
+From:Freedom Fighter
+
+Mike,
+
+Here's a simple example of what I might do. Suppose I wanted to short the
+S&P500 because I thought it was worth 1000. Instead, I sell strike price 1000
+calls going out 3 months and repeat the process every expiration. I might
+receive an annualized premium of anywhere from 7%-15% (probably closer to the
+lower) depending on where the S&P trades and what the volatility is. I will
+also bank the cash and earn interest.
+
+If the S&P moves up 7%-8% this year I am still even to slightly ahead for the
+year and way ahead of a short seller.
+
+If the S&P moves up a lot, I am losing but I am better off than the short
+seller.
+
+If the market moves down but remains above 1000 I have made more than the short
+seller after 3 months (or 6, 9, or 12 months) because of premiums and interest.
+
+If if moves close to 1000 at any point I can cash out the same as a short
+seller but I will have to give up some premium and he will not. Depending on
+how close to expiration I am and at what level the last option was sold at I
+may still be slightly better off or even with the short seller depending on how
+much I have accumulated in prior premiums and interest. It's a close call.
+
+Only a crash through 1000 from a high level would leave me worse off.
+
+If I felt something like that was more likely for whatever reason, I would
+reverse course and short instead. I am willing to give up the low probability
+crash scenario for the other favorable scenarios.
+
+Wayne
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 8:29:00 PM
+From:Freedom Fighter
+
+Jeffery,
+
+>>Wayne, I do not like the idea of selling naked calls. You do NOT get the
+downward movement if the price drops, just the call premium. This is
+antithetical to the idea that you have picked a virtually worthless
+stock. Also you may have some not insignificant margin requirements on
+the position.<<
+
+I don't want to get too hung up about options because that's not what this
+forum is about and I already probably went overboard. My only reason for
+posting it originally was because I think it is an alternative to shorting
+(which some people were discussing) that can limit some of the losses when you
+are wrong about the stock because you collect premiums. To solve your problem,
+you call sell in the money calls and capture all the downside you feel is
+appropriate and still get a small premium. It's just an alternative.
+
+Wayne
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 9:07:00 PM
+From:Bob Rudd
+
+Wayne: Highfliers selling calls. The whole point of the operation is to fully
+participate in the downside collapse of wildly overvalued issue like AMZN. When
+this will occur or the shape of the downtrend are pretty much unknowable as is
+the intervening price path. Selling calls exposes you to potential price
+explosion - AMZN moved about 100 points intraday in 5 sessions, without
+considering major expansion in risk premium 1 option would have exposed you to
+$10,000 drawdown, without giving you access to potential price IMPLOSION.
+
+It would seem, however, this might be a reasonable strategy for a moderately
+overvalued issue with moderate fluctuation that lacked catalyst to sink or
+soar..you would be paid to wait. I wouldn't do it, but it seems reasonable.
+A variation would be to use call selling to let the market take you out of an
+issue that you owned yet felt was fully priced..covered call writing.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 9:24:00 PM
+From:cfimx
+
+wayne, in a crash scenario, why would you be a loser? Wouldn't you pocket the
+premium + interest as the call expires worthless?
+
+BTW: Selling naked out of the money leaps is a favorite pastime of Jim Rogers.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 11:06:00 PM
+From:Freedom Fighter
+
+>>Highfliers selling calls. The whole point of the operation is to
+fully participate in the downside collapse of wildly overvalued issue
+like AMZN. Selling calls exposes
+you to potential price explosion - AMZN moved about 100 points intraday
+in 5 sessions, without considering major expansion in risk premium 1
+option would have exposed you to $10,000 drawdown, without giving you
+access to potential price IMPLOSION.<<
+
+I understand your point and I agree. I'm not sure what I would do with a stock
+like AMZN. Most likely I would start heavily in the money so I could
+participate in a collapse.(this one is wildly overvalued so definitely
+vulnerable) I would still collect a decent premium on the option sale because
+of the volatility.
+
+You have to remember that when the stock moved up 100 points, options sellers
+lost a lot less than short sellers because of the premium they banked. So short
+sellers lost 100 and options sellers lost 90 something or less.
+
+On the flip side, if the stock falls 100 (and you started 100 in the money) you
+can buy the first option back and sell another one that is 100 further in the
+money. You can keep rolling down the calls and get a lot of the collapse. How
+this nets out compared to the short seller depends on the timing of the events
+relative to expiration and the other usual factors. It will cost a lot to buy
+back that first option after the stock falls 100 points if you are still far
+from expiration, so the short seller usually will make out better. The sooner
+the collpase happens, the better off the short seller. The longer it takes the
+better off the options seller because he is constantly accumulating premiums.
+If it never happens, then the options seller is way better off.
+
+My big problem with the short side in general is that the losses are unlimited
+and the gains limited. The options route lessens the pain when you are wrong
+bigtime and still pays off when you are slightly wrong.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 11:16:00 PM
+From:Freedom Fighter
+
+Twister,
+
+>>wayne, in a crash scenario, why would you be a loser? Wouldn't you
+pocket the premium + interest as the call expires worthless?<<
+
+I wouldn't lose. I would make the entire premium and interest as you say. But a
+short seller would make more because my gain is limited to the premium and his
+can keep going for a long as the market falls. In a crash scenario I am kind of
+assuming that I won't be able to keep rolling down my options due to either an
+inability to get through to my broker or use my online account. This happened
+to me already during one of those 500 point down days.
+
+>>BTW: Selling naked out of the money leaps is a favorite pastime of Jim
+Rogers<<
+
+I didn't know that. He's must be thinking of it as a long term overvaluation
+bet the same way I am. He must believe the premiums are mispriced because the
+underlying stocks are mispriced. The long term nature of the bet is similar to
+thinking about long term bullish stock investments. I don't know what the
+stock's going to do short term but if I'm right about the values... Thanks!
+
+Wayne
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/19/1999 11:47:00 PM
+From:cfimx
+
+Wayne, i want to go on record as saying that this makes more sense to me than
+shorting outright. Being able to "sell" at a premium is attractive and you can
+really exploit the bullish psychology which is being extrapolated far into the
+future in some cases.
+
+People are saying you don't get the full bang for your buck on your bearish bet
+( neat huh?) by selling calls, but you also don't take the SAME RISK. So you
+have to weigh both sides of the equation.
+
+I have a target in sight. Only the timing remains<G>.
+
+thanks wayne.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/1999 3:01:00 AM
+From:geoffrey Wren
+
+Sorry to interrupt the discussion on derivatives, but how about SFLX as a value
+stock? Just got on my radar screen. If Yahoo information is correct, it has no
+debt of significance, cash of $4.49 a share, and trades at $6.375. If $3.00
+were distributed and the stock price dropped to $3.375, the resulting PSR ratio
+would be 6:1. It seems to be a reasonable technology stock, somewhat down at
+the time due, they say, to the recent problems in the disk drive sector.
+Anyway, FWIW, could be worth a deeper look.
+
+Geoff Wren
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/1999 1:06:00 PM
+From:Bob Rudd
+
+AMZN: Covered short today @ 120 5/8, not because I believe it's reached
+anywhere near fair value, but with a 68 point gain from my original short
+1/8/99, I feel the true believers are going to take it back up and give me an
+opportunity to reshort at higher levels.
+In any event I've had fun with this.
+
+It's better to be lucky than good.
+Bob
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/1999 4:24:00 PM
+From:sjemmeri
+
+I sold some amazon puts that I bought around the same time also.
+I might try that again if it runs up again but I found myself
+watching that a lot closer than anything else I own. I don't
+really want to get sucked into that.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/1999 7:17:00 PM
+From:Wallace Rivers
+
+Mike, Paul, Jim, and others;
+I'll bring up one we may have talked about in the past - Phar Mor Drugs (PMOR).
+Up 11%+ today on almost 13 times average daily volume. Still well off its
+highs, trading middle part of the range.
+PSR = .1 PB = 1.2 Debt = 139 mil Cash = 24 mil
+Last Q report .30 vs. .23 (lone analyst was at .27)
+I think the company is a fantastic value on a stand alone basis, but there are
+other factors which make it attractive, as well;
+1) There is consolidation in the drug store industry. JCP taking over Eckerd's
+and Genovese, for example. Genovese went out at almost 5 times book.
+2) At the risk of not sounding like a true value investor, PMOR has announced
+they will be introducing a website for selling vitamins and other sundries on,
+where else, the internet! For those interested in looking at the site
+http://www.pharmor.com and click on Phar Mor cyber store in the top right hand
+corner.
+The standard disclaimers apply - due your own due dilly, and the preceding is
+JMHO. I am long PMOR.
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/20/1999 7:48:00 PM
+From:Michael Burry
+
+I'm still holding my AMZN short (until the lawsuits come in)...
+
+Also, I would say that it is not all luck if you made money
+on the shorting opportunity of the decade.
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/1999 11:38:00 AM
+From:Robert Douglas
+
+Bear Stearns recently recommended investors increase exposure to energy. They
+reported that the current weighting of the sector in the S & P 500 stands at
+5.2% which is its low since the late 70s. Their oil analyst is projecting that
+oil will average $17 a barrel for 1999 and that earnings will rise sharply.
+
+Seventeen-dollar oil seems a bit optimistic but Bear Stearns has been pretty
+good in the past on calling the price of oil. Worldwide growth will surely pick
+up again and with it the demand for oil. Is the oil patch a good place to look
+for value? My experience in this area is limited to a few drilling companies.
+
+-Robert
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/1999 12:39:00 PM
+From:Paul Senior
+
+"Is the oil patch a good place to look for value?" Of course the oil patch is a
+good place to look for value.
+
+Why would you even ask such a question when your bio says you have 20 years
+experience and are a full-time investor? Why wouldn't you think that with the
+oil sector down for maybe 6 straight months, that people on a value thread
+would already be diligently looking for opportunities? Many such possibilities
+have already been posted here.
+
+Senior
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/1999 1:06:00 PM
+From:Robert Douglas
+
+Why would you even ask such a question when your bio says you have 20 years
+experience and are a full-time investor? Why wouldn't you think that with the
+oil sector down for maybe 6 straight months, that people on a value thread
+would already be diligently looking for opportunities? Many such possibilities
+have already been posted here.
+
+I beg for forgiveness. How dare I ask such a question? I am new to your thread
+and didn't realize that this topic had already been exhausted with everyone
+here experts on the subject. My week or so in reading the thread seems to
+indicate more of a preoccupation with Internet stocks rather than a search for
+value. Well, thanks for the time, I won't take any more of it.
+
+-Robert
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/1999 1:18:00 PM
+From:peter michaelson
+
+I do truly hope that we can avoid any personal comments whatever. This is one
+of the very few threads where they do not prevail, and it is a refreshing oasis
+indeed.
+
+Let's refrain from reacting to any personal comments that anyone makes and
+refrain from making comments ourselves.
+
+I have yet to see a post on this thread not worthy of a few seconds time to
+read.
+
+Please and Thanks....
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/1999 1:33:00 PM
+From:Wallace Rivers
+
+Robert, IMHO, yes. They are now throwing all the bad news they can possibly
+throw at these stocks, and the stocks are going up - witness Smith
+International and Halliburton, among others, recently. That was not the case
+2-6 months back. Today SLB gave a cautionary forward look, and the stock is up
+about a buck and the OSX (oil services index) is up in an overall down day.
+There is a great thread (strictly drilling and oil field services) on SI.
+I know there is someone else on the thread who is long YPF; I think it is
+particularly attractive especially given the purported $38 offer out there for
+the government stake.
+FWIW, I went long one small and one large cap in the OFS sector earlier this
+month - GLBL and SLB.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/21/1999 11:38:00 PM
+From:Circle
+
+"...woulda told AMZN shorters that it's too soon to short. Do you see it from
+the PRST chart? I see it would have worked there too.
+Rudd hasn't a clue."
+
+I guess Rudd has more than a clue.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 12:57:00 AM
+From:James Clarke
+
+I posted a pretty in-depth post on REITs and nobody responded. I'm not
+complaining - the lack of response confirmed what I will develop below - that
+these stocks are in the "neglect phase".
+
+The sector is objectively cheap. There is asset value to back that statement up
+and to cushion downside in a bear market. Earnings still growing, and supported
+by long term leases. Plus a 7 or 8% dividend yield to keep you busy until they
+rebound. I am a very conservative real estate investor who did vulture real
+estate investing professionally through the bottom in 1993. This does not look
+like a top to me. There is not enough construction out there for me to be
+worried. Things were getting toppy during the summer, but the August shock
+scared away alot of the new construction, leading to what looks like a nice
+equilibrium in most sectors and regions.
+
+Another data point. Merrill Lynch ran a very insightful conference call on the
+group yesterday with the most respected REIT analyst and there were 70
+call-ins. The analyst said that a year ago there would have been 200-300
+callers.
+
+My point here is that a characteristic of a great value investment where you
+may be a little early (though here the dividend yield makes that less of a
+"risk"), is a neglect phase. That's where I believe we are with the REITs now.
+Investors, whether value or growth, are completely uninterested. But the
+companies just keep chugging along and producing healthy earnings. And their
+properties aren't going anywhere. You aren't going to hit homeruns in this
+sector, but a low-risk 10-20% move in a year on top of an 8% dividend is, in
+the words of a seasoned old value investor who signs my paychecks, "better than
+a sharp stick in the eye." I exited this sector for the most part last summer,
+but this is a place I will be putting money in the next few months.
+
+(and since I just bought a house - and now have to furnish the damned thing -
+if anybody knows of anywhere I can find some money, don't hesitate to e-mail me
+privately. :) )
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 1:27:00 AM
+From:Jurgis Bekepuris
+
+James,
+
+I agree with you that REITs are undervalued, but
+I don't have much more to say.
+I have some money in LHO. Won't have much
+capital inflows in coming months, so I won't buy
+it or anything else.
+
+Take a look at the latest Third Avenue funds
+report. You may find some interesting ideas.
+Marty Whitman and Co. are buying some REITs
+and real estate cos. They bought JOE (again?). :-)
+
+Good luck
+
+Jurgis
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 2:41:00 AM
+From:Paul Senior
+
+Jim, I read your real estate post several times. Many of the selections you had
+mentioned earlier, and were commented on then - PSA CCG.
+
+I will go up against you again on these picks. In spite of my being wrong every
+other time I have done this on every other stock -g-.
+
+I like my choices better.
+PSA -- sure is a clearcut mention in media articles I see. I prefer UHAL
+though. You can rent 'em trailers and you can store their stuff.
+
+Chelsea Realty (CCG). Traffic jams at some of their properties?
+Try MLS. Factory outlets cum entertainment centers. No. 2 draw in Florida (or
+so I've read) after Disneyland. I say designed right --with no traffic jams (so
+I've read). Close to a 10% dividend yield.
+
+Further, I don't understand the subjective criteria you apparently think are
+critical for success in your selections. CLP: "most honest... management". EGP:
+"These guys are good people". LHO: "I can personally vouch for management's
+honesty". So you are saying honesty is vital and you are comfortable with their
+honesty - and I infer then, that since I certainly cannot interview management,
+that therefore I should have to trust your judgment? (I will assume YOU are
+honest of course -g-.) And you have a way of evaluating honesty of management?
+And you've 'tested' everyone in management who possibly could be dishonest and
+so might hurt the stockholders?
+
+Of course honesty is important. My point is,if you are saying... relax,these
+guys (real estate developers and managers) are honest (trustworthy), I say that
+certainly makes me unrelax -g-. Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 2:54:00 AM
+From:Paul Senior
+
+Mike, Armin: Taking my lumps and selling UBB today. Sorry guys, lost my
+confidence in Brazil and its banking business. Paul.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 3:13:00 AM
+From:Tapcon
+
+>>>The sector is objectively cheap. There is asset value to back that statement
+up and to cushion downside in a bear market.
+
+Jim and Paul,
+I've been lurking here for a while, since I'm anxiously looking for some value
+plays. I've put some of your REIT recommendations on my watch list. But I have
+a couple of questions:
+
+1. When the bubble breaks, are these REIT's going to hold up much better in
+terms of asset value and payout? I notice CLP, CCG, and PSA all dropped
+considerably during the July-October period when we were starting to feel like
+a bear market. Asset-backing in the REITs can still depreciate in value, which
+would happen if this 94 month economic expansion falters. If this happens, do
+these particular companies have a history of paying dividends thru the down
+cycle?
+(If there is a site which provides a history of the payouts going WAY back
+since the last downturn, would like to know --otherwise, a trip to the library
+to check out Value-Line or Moody's?)
+
+2. What am I missing here: when I look at these stocks on Yahoo, I see most
+with earnings/share MUCH less than dividend/share. How is this sustained over
+time?
+
+I'll tell you, if I could get something close to a guaranteed 8-9% going
+forward for the next 12-18 months, I'd take it right now!! So I'm interested in
+hearing your reply.
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 7:24:00 AM
+From:Wallace Rivers
+
+In agreement totally - bought Sunstone Hotel (SSI) last October. I like it
+better than Lasalle (LHO), but only because it is bigger, and thus more
+diversified. Dividend on SSI is well covered by FFO. I recall reading once
+where the only instance that the dividend would not hold would be if the
+lodging segment had occupancy rates drop more than they ever had in the past 15
+years (this is from memory, and the facts may not be totally correct).
+Basically, business would need to fall totally out of bed (no pun intended) for
+the dividend not to hold. It still trades at a significant discount to NAV.
+Risks are overbuilding, which I have heard has abated somewhat (this makes some
+sense, as the currency often used for new builds is stock i.e. the proceeds
+from secondaries - well, there haven't been that many secondaries, because of
+depressed stock prices), and a general slowdown in the economy.
+I recall that The Mad Bomber, Ken Heebner, at one time was quite bullish on SSI
+prospects, and owned the stock. I would suspect (but don't know for certain)
+and hope that he still holds the stock. Does anyone know what his holdings are?
+One sees his adds a lot on CNBC - the CGM Realty Fund, I believe.
+And, fellow value investors, on another matter, what I mentioned about PMOR
+yesterday - surprise!
+http://biz.yahoo.com/prnews/990121/oh_phar_mo_1.html
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 8:35:00 AM
+From:LarryD
+
+How about a neglect index? Here is one I came up with when I noticed that
+Prologis, a $2.7B warehouse REIT, only had 9 messages on Yahoo. Dividing the
+market cap in millions, 2700, by the message number of 9 gives a neglect index
+(NI) of 300. Here are the NIs of other REITS I am following:
+BDN 7
+HCN 4
+HPT 15
+ASN 60
+HRP 4
+UIRT 1
+EGP 8
+AER 4
+FCH 8
+LHO 6
+CLP 33
+FFA 35
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 8:39:00 AM
+From:Madharry
+
+Paul, just found out earnings are out on UBB- need to review
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 9:05:00 AM
+From:James Clarke
+
+<<2. What am I missing here: when I look at these stocks on Yahoo, I see most
+with earnings/share MUCH less than dividend/share. How is this sustained over
+time?>>
+
+GAAP earnings is not the way to look at a REIT because of the accounting for
+depreciation. This is why real estate was always used as a tax shelter, because
+you could generate tax losses (negative net income) but still have very
+positive cash flow. Depreciation is often a non-economic charge in the real
+estate world - a property often appreciates instead. So look at cash flow, not
+earnings.
+
+If you go back to the last downturn in 1991-94, you are going to find that none
+of these REITs existed. What were called REITs then were a different animal,
+and will be a misleading comparison. What I look at is leverage - real estate
+owners went into the last downturn with 90% debt, and lots of them got
+completely wiped out. Be careful with REITs that have debt/capital of much over
+50%.
+
+Your point about safety on the downside, given their lousy performance in
+August, is well taken. A lot of us REIT fans were VERY surprised when they
+dropped with the market. So no promises there, but intuitively I cannot imagine
+REITs paying the yields they are paying taking the full brunt of a bear market.
+
+One additional caveat on REITs. They are boring beyond belief. I tend to get
+bored out of my REITs long before I get scared out of them.
+
+Jim
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 9:06:00 AM
+From:James Clarke
+
+Thats really good. I like that a lot.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 9:23:00 PM
+From:Investor2
+
+I view REITs as a replacement for bonds. Do you agree with that?
+
+Best wishes,
+
+I2
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 10:50:00 PM
+From:Bob Rudd
+
+REITs Jim, I had asked your opinion on ETT on a recent post...13% dividend
+yield, major risk factor is large exposure to GHV [One of Paul's positions at
+one time], but Merrill report indicates dividend coverage is good [139% vs 125%
+for healthcare and 136% for the overall REIT universe] and insiders are buying
+GHV pretty heavy. There's some good posts on yahoo GHV area on ETT. I'm long
+since early this month. Not without risk, but looked like a good value to my
+untrained eye. Would love a 2nd or 3rd opinion.
+Also looked at GRT with 12.7% dividend but payout ration of 2x and high debt
+ratios stopped my analysis in it's tracks.
+Besides retail is going to be hurt by the rise in internet sales..demand for
+retail space isn't going away, but it's going to be significantly affected IM0.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/22/1999 11:05:00 PM
+From:Madharry
+
+Well UBB valued around 4 times earnings and significantly under book
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 1:04:00 AM
+From:Michael Burry
+
+Paul,
+
+, lost my confidence in Brazil and its banking business
+Why? This action begs the question, "what are you buying
+with the proceeds from your sale?" I can't see many more undervalued
+situations than Brazil right now. Last I saw the free trading range
+on the real was 1.5-1.7, not 6 or more.
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 2:39:00 AM
+From:James Clarke
+
+repost of something on the ag tractor business I posted on another thread.
+Seemed relevant here too. In the spirit of full disclosure, I cover these
+professionally, so I know the managements well and have visited dealers and
+driven combines and all that. But nevertheless, I will admit that I have done
+nothing but lose my clients' money so far. I bought NH at 18, CSE at 47, 28 and
+22; and DE at 31.
+
+RESPONSE TO SOMETHING ON AGCO
+Agco is cheap. As are its three major competitors, Deere, Case and New Holland.
+We are just beginning an ag recession. That is not the time to buy the company
+with the worst balance sheet in the industry. That would be Agco. Case's
+balance sheet also troubles me, but its core products are closer to Deere than
+any of the competitors.
+
+My pick here would be to pay up for the best of the best, when you can buy it
+cheap - that would be Deere. At $31 (be patient and wait for that price - it
+will bounce off there again) the long term risk is minimal no matter what the
+market does. Or if you want to be a cheapskate, buy New Holland. Solid
+products, solid management, very conservative balance sheet, and a rock solid
+4% dividend yield. I own New Holland personally, and own DE, CSE and NH
+professionally. Expect to be bored out of your mind if you buy NH, however.
+Peter Lynch said again and again that boring is good. If he's right on that, NH
+is going to triple.
+
+The way I look at it is that if you bet on a horse that survives in this
+industry, you are going to at least double your money when the recovery comes.
+I would not bet on that being next year, but within 3 years is pretty safe.
+Within 5 years is as close to certainty as you get in the investment world. A
+double in five years is a 15% IRR return, plus dividends. Thats your downside
+if you play this sector right (i.e. buy now near a low and don't get scared out
+of them, and forget about them until everybody loves them again, even though
+that might be 2004). So how can you be sure the horse you bet on finishes the
+race? Look at the balance sheet. In order of safety, #1 is DE, a close #2 (and
+much much cheaper) is NH, and a distant 3 and 4 are CSE and AG. And that would
+be precisely my ranking of them as investments at this point.
+
+Hope this is helpful.
+
+JJC
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 7:42:00 AM
+From:Wallace Rivers
+
+Anyone have any thoughts on JC Penney (JCP)? It is not what we look for here in
+the classic value sense, but it has been absolutely slaughtered - almost an
+inverse Yoohoo chart!
+Still one of the big full line retailers, and has recently purchased some drug
+stores. Showed some life yesterday in a down market.
+One of the questions at the top of the list is "is the dividend secure?"
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 7:53:00 AM
+From:Joe Dancy
+
+Hey Paul. FWIW I wrote an article on how small and micro caps are grossly
+undervalued using traditional valuation methods for Mark Johnson's IFC site on
+SI - it is at http://www.techstocks.com/~wsapi/investor/newsletter-98
+
+Of course, the valuation methods indicated the same thing last year :) and we
+had a loss for the Russell 2000 for the year.
+
+Also, Michael Murphy really likes the semi and biotech sector - you can hear
+Mark Johnson's interview with him at http://www.audioinvestor.com
+
+Joe
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 1:41:00 PM
+From:Paul Senior
+
+Hi Wallace. re: JCP. Dividend is not secure IMO. But last week I added to my
+'96 position, primarily betting that it will not be cut.
+
+I first discussed JCP in the first 100 posts of the Value thread. There was
+some discussion about whether NIKE was a buy: I liked JCP (country's biggest
+seller of NIKE product in '96-97). And for a while JCP stock did better than
+NIKE stock. But in retrospect, I should have been buying and discussing WMT
+which went up 3.5x (wow!) since then- while JCP is down below high 40's (where
+it was in 1996). Market share growth and business focus (WMT) sure beat muddled
+value. A Buffett lesson somewhere in there I think.)
+
+I've also added some comments on the JCP thread.
+
+http://www.siliconinvestor.com/readmsg.aspx?msgid=7441758
+
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 1:47:00 PM
+From:Carmine Cammarosano
+
+CDD with a PE of 9.57 is ready to move...Using 1)Price/Cash flow for CDD (the
+past 12 months)= 4.82 and the Industry(A&Defense) has any average =
+19.33....Using 2)Price/Book (most recent quarter)= 1.95 and the Industry has an
+average = 4...Finally, Price/Sales (the past 12 months)= 0.61 compared to the
+Industry = 0.9...Money will come back to CDD stock...I don't know when, but it
+will come back! TOO CHEAP!
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 3:26:00 PM
+From:Worswick
+
+Well. I always read what you write and print it out. Hey, we're just at a point
+when people are making a 100% a week in the market and who cares about 8%?
+
+How do you think REIT'S will do in a roaring deflation?? I'm quite interested
+in historical examples if you know of any.
+
+My best to you and think you're just great James.
+
+Clark
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 4:06:00 PM
+From:Paul Senior
+
+Hi Carmine: re: CDD. uhhh, I dunno. I like Northrop (NOC). Stock at its low for
+the year--about 60 and I've been a buyer this week. I've been buying down from
+80 level to 60 level though, and maybe more downside is coming. Maybe NOC's not
+the same industry exactly as CDD, but with cf about 3-4, p/b about 1.5, psr
+about .5 -- these numbers are better than CDD.
+
+I've also looked at HXL (somebody on thread recommends it-- looks a little high
+to me (the stock price, not the guy -g-), ORB (too high -- -g- that's the stock
+price again -g- not the suborbital satellites), BEAV (too high, but maybe), WYG
+and PCP (too high on WYG-- I like though that they are so dominant in the
+forging of those large fuselages), and FA (looks attractive to me here). CDD's
+Howmet div-- gas turbine engines -- if they are competitors to AlliedSignal's
+business, ALD is a VERY strong competitor under Bossidy's leadership. Almost
+would rather step up for ALD.
+
+I think these stocks will all move if and when Boeing comes back. For another
+play on this, you might look at very undervalued IMO, TIE (which I own
+unprofitably). I also have a position in thinly traded FAVS, an aircraft engine
+parts supplier and rebuilder. I am a buyer of the stock at current price (4 3/8
+or better).
+
+Aside and note: If I sound like I know what I'm talking about here... well, I
+don't. Been wrong many, many times before. Sometimes though -g- like with SUNW,
+I can overcome that with other people's help. Thanks Carmine! Paul Senior
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 4:58:00 PM
+From:jeffbas
+
+Jim, I recently traded NH bought at $10, as I thought a trade was all it was
+worth at this time. Do you have an opinion on where historically it has paid to
+buy these cyclical stocks -- when everyone
+knows results are going to get worse and they are down a ton, or when they are
+actually reporting the lousy numbers? If the latter, then I would say we should
+wait for the poor comparisons and START buying when they do not elicit any
+further down moves to speak of in the market on the bad news.
+
+By the way, NH (my favorite) has exposure to Brazil, whether it is
+disproportionately large I do not know -- but it may be a source of further
+downgrading of its expectations.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 8:13:00 PM
+From:James Clarke
+
+The ag stocks have stopped hitting new lows as the news continues to get worse.
+I see absolutely no catalyst for things to get better any time soon, but by the
+time you see it clearly, you'll be looking at Case at 30, DE at 45 and NH at 17
+or so. Value investors will never agree about whether it is more important to
+get in near the bottom, or if it is a better strategy to wait until the stock
+starts to move, thus missing 20%, but catching the rest of the move with lower
+risk and less time. It really depends on the situation.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 8:24:00 PM
+From:cfimx
+
+does de make money year in and year out? what about roe over a full cycle? I
+haven't seen the annual yet. also, from what I HAVE (some web site) seen, it
+looks like a free cash generator. Do you see that continuing? thanks.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 9:33:00 PM
+From:Bob Rudd
+
+Jeffrey Bash <<NH has exposure to Brazil,
+whether it is disproportionately large I do not know >>
+I put this together last fall covering NH's exposure:
+Net Sales
+(in millions of dollars) 1997 1996 1995
+Europe 2,290 2,469 2,162
+North America 2,278 1,916 1,873
+Brazil 296 185 249
+Rest of World 934 904 719
+Total 5,798 5,474 5,003
+As Percentage of the Total
+Europe 39.5 45.1 43.2
+North America 39.3 35.0 37.4
+Brazil 5.1 3.4 5.0
+Rest of World 16.1 16.5 14.4
+Southeast Asia accounts for less than 3% of revenues
+%EOM----------------------
+
+%BOM---------------------
+Date:1/23/1999 10:27:00 PM
+From:Bob Rudd
+
+REITS: General and background resources - Here's a piece by Ralph Block who has
+written a highly-regarded book on the subject:
+http://www.undiscoveredmanagers.com/REITWEEk.htm
+In this rather lengthy piece Block discusses three factors driving REIT
+performance: Valuation, Profit growth, and investor psychology. He also covers
+the recent history REIT activity.
+Another site that might be of interest:
+http://www.nareit.com/library.html
+Put up by the REIT trade association
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/1999 2:29:00 AM
+From:Shane M
+
+Joe,
+
+Good article. I appreciate the argumentnts the Lone Star Growth Investor puts
+out concerning valuations of small caps. FWIW, I've had 60% of my 401K money
+going into a Russell 2000 Index fund. Hasn't paid off yet, but I have to
+believe things will eventually balance themselves.
+
+Shane
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/1999 4:43:00 PM
+From:MCsweet
+
+Coastcast Corp (PAR)
+
+Stock Price $9.50
+Book Value $9.75
+Cash $3.28
+PE 7.39
+PS 0.55
+
+Company sells golf clubheads. Is profitable, selling below
+book value, plenty of cash, interesting insider transactions
+(both buy and sell, but I think it nets to recent buying),
+no long-term debt, and a share buyback in place.
+
+Did miss recent earnings estimates, but you don't get these
+kinds of valuations without a few hiccups.
+
+I am not golfer and I don't know anything about the golfing
+industry, but based on valuation this stock looks good to me.
+
+MC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/1999 10:03:00 PM
+From:James Clarke
+
+The golf club industry is in real trouble, with imitators and knockoffs
+slashing margins. Meanwhile, demand began to fall last year as just about
+everybody who would spend $300 for a driver already had one. I started
+researching Calloway last week, and then it jumped 25% on Friday before I could
+get my homework done. Maybe there's something there, maybe it was just too
+cheap. Coastcast looks cheap, as does Calloway. But they should look cheap,
+because past margins are probably going to fall dramatically. I know Mike has
+looked at this industry before as well. The reason I was looking at Calloway
+however, is that I think these are good for a bounce in the spring as people
+start thinking about golf again, and the new products start to get hyped.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/24/1999 11:44:00 PM
+From:Michael Burry
+
+Jim,
+
+I've bought into Callaway recently at 10 5/8 - it's in the VSN Fund at my web
+site. To me, this is a 10 minute analysis, a la Timberland or Midway. Massive
+insider buying, premier name. Decent technical support. No debt. And with
+spring coming, well, why not buy it at such a low market cap? Every golfer I
+know (remember, I'm a doctor, so there's a few) seems apoplectic when I tell
+them what's happened to Callaway stock. The faith in the brand has already been
+established among golfers, even though Wall Street has lost all faith.
+Sometimes value investing is as easy as being contrarian, which comes naturally
+to some of us ;-) There's just something to a story that makes sense in 10
+minutes.
+
+Mike
+
+PS, I had stated here that I was going to hold my Amazon.com short
+until the lawsuits came in. Well, I covered at 104, soon after my Midway
+position crashed and depleted that account of some equity.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 12:36:00 AM
+From:Bob Rudd
+
+PAR..Is supplier of titanium castings to those that make the clubs. No room to
+differentiate offering..commodity business from where they stand. If there's
+excess capacity [and I think the downtrend is saying there is] and it's costly
+to exit the business so capacity lingers, then things could keep getting worse.
+I thought it looked cheap when I bought it and I KNOW it was cheaper still when
+I sold it for a tax loss, both at higher levels than here. And this during the
+period that Tiger Woods drew a lot of interest to golf.
+I haven't looked back since I sold, so do your own diligence, things may have
+changed.
+Bob
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 7:06:00 AM
+From:Wallace Rivers
+
+Mike, FWIW, I'm a golfer. I play Callaway except for the putter. Great Big
+Bertha (GBB) driver, GBB 3 (which I just ordered yesterday), '96 vintage Big
+Bertha irons, which the company would like people to believe are obsolete. I do
+believe that those who have played them do become very loyal to a great brand.
+I have no desire to buy any other brand.
+Negatives:
+I feel they stretched after GBB to entice players into the next greatest
+product - the Biggest Big Bertha, the tungsten-titanium irons, for example. I
+don't believe either of those were much of a success. Last year they introduced
+the X-12 irons and Steelhead woods at a lower price point, with lower margins.
+X-12 did well, Steelheads too early to tell. The Hawkeye wood launch ($500
+list, about $375-$400 typical retail) just started. Steelhead look and
+purported advantages did not impress me, X-12s are a very nice club, but my
+"old" Bertha irons were just fine thank you. Hawkeyes look just like the
+Steelhead, except they are titanium, and have some tungsten plug. Just didn't
+see how they could be that much better for $125 bucks more per club than GBB.
+I suppose the point I am trying to make is that the company has run into a wall
+in marketing the next, greatest, product to golfers who at one time were eager
+to get the next thing that would make the ball go further and bring lower
+scores into their bags.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 9:13:00 AM
+From:jeffbas
+
+I agree on the general unattractiveness of Calloway. In my opinion, if one of
+these kinds of companies gets to be one where its growth comes from
+demographics only and replacement buying of limited scope, as you note, they
+are usually poor long term investments -- unless the price gets to be so low
+that the company could and plans to eventually buy all the stock back.
+
+I have followed a somewhat related apparel company Ashworth (ASHW)
+very casually. Does anyone have a view whether this one is any better?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 10:49:00 AM
+From:Michael Burry
+
+I'm reading a book, Wall Street on Sale, that mentions Callaway in 1994, when
+it was trading at 11 times earnings in the face of a perceived glut in the
+industry for makers of premier clubs. Mentions it as a contrarian ploy that
+would have worked.
+
+Thanks for the input, Wallace.
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 2:18:00 PM
+From:MCsweet
+
+Impeccable timing:
+
+Ha! I mention Coastcast (PAR) Sunday night PAR,
+and it is down 18% on bad news. I greatly appreciate
+all the insights and feedback regarding the golf
+industry.
+
+Thanks!
+MC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 2:57:00 PM
+From:DD™
+
+Styling Technology Corp. (STYL): A True Value-Growth Stock
+
+http://www.siliconinvestor.com/subject.aspx?subjectid=24967
+
+DD
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 2:58:00 PM
+From:Wallace Rivers
+
+Thanks, Paul,
+I agree that the JCP dividend may not be secure at this level of earnings, thus
+am ruling it out for an account which has a need for income.
+I'm starting to look at TOY. It has been beaten up by competition from WMT and
+has shown negative SSS trends, but it, nonetheless, trades at a discount to BV
+and P/S of about .33. It is quite oversold, near its 52 week low, and I also
+see that, on a recent historical basis, this is about the time of year the
+price bottoms.
+Any comments or thoughts?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 3:18:00 PM
+From:Marc Fortier
+
+What about Mattel? The stock is trading in the $22 to $23 right now. The recent
+write-down, due primarily to Toy's R Us difficulties and also to negative
+reactions following the proposed merger with TLC, may be a nice opportunity to
+jump in. If you look at past history, shareholders of this company were well
+rewarded...
+
+Any comments would be appreciated.
+
+MF
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 7:53:00 PM
+From:Andrew
+
+eLottery spin-off from XTON S-1/A filed at SEC (web address)
+http://www.freeedgar.com/search/WL.asp?C=940327&F=S-1/A&D=1/25/1999
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 7:55:00 PM
+From:Andrew
+
+any thoughts on PSO ceo death?- good/bad
+
+unepected- anyone know what happened?; Is interim ceo good for us or bad?
+likelyhood of sale of company? candidates for job?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 8:25:00 PM
+From:Freedom Fighter
+
+>>>What about Mattel? The stock is trading in the $22 to $23 right now. The
+recent write-down, due primarily to Toy's R Us difficulties and also to
+negative reactions following the proposed merger with TLC, may be a nice
+opportunity to jump in. If you look at past history, shareholders of
+this company were well rewarded..<<
+
+I just started looking at Mattel myself. At first glance it appears to be a
+reasonable value at this price based on recent normalized earnings power. It
+also has sustained a high ROE. It should therefore be worth a premium PE ratio
+if the current problems are temporary. In this environment it certainly is
+cheaper than most stocks. When I finish crunching the numbers and looking at
+the Learning Company I'll get back to the group.
+
+Wayne
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 8:56:00 PM
+From:James Clarke
+
+don't want to bad mouth a guy after he passed away, but any change in a company
+trading below net current assets can't be negative. If it gets back to 6 I'll
+be there to make the same money for a third time.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 8:59:00 PM
+From:James Clarke
+
+FWIW, I like Mattel at the current price.
+
+And Wayne, was that you in Barrons? Seems like I've heard that argument
+somewhere before... Well done.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 9:13:00 PM
+From:James Clarke
+
+Adams Golf (ADGO) -
+
+note that you can scramble the ticker to spell "A DOG" -
+
+Taken public last fall at about $18 a share. Now trades at 3 5/8, for a market
+cap of $81 million. The chart looks like Amazon in a mirror.
+
+These guys still have the IPO cash on the books. $63 million. No debt. The
+business made $4 million after tax in the September quarter. So you're paying
+$18 million for a business that made $4 million IN A QUARTER? Earnings are
+expected to collapse from here on out (duh!).
+
+What's wrong with this picture, and Mike, what are you doing in that highflyer
+Calloway? :)
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 9:21:00 PM
+From:Mike Kehler
+
+Looks interesting (STYL), but the debt/eq ratio (about 4) makes this a
+questionable "value play" IMO.
+
+Mike
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 9:45:00 PM
+From:Paul Senior
+
+Wallace: Added to my TOY position today @ 14 15/16.
+
+Sold off most of my position at much higher levels. As I posted here earlier,
+I'm intending to build it back up as stock drops. (Purchases @ 22 3/4 and 17
+7/8.) Close now to book value. Bill Miller of Legg Mason Value has bought on
+his belief that TOY is changing its bus. model from expending funds for capital
+expansion (growth) to profitability. (Per Haywood Kelly in Morningstar 7/2/98).
+A more recent buy is Michael Rome of Lazard Equity Fund.
+
+IMO TOY is being squeezed on one side by e-toy types and on other side by WMT
+and KMart. Very bad. In my opinion though, TOY is not going away. They will
+take countermeasures, and with their "brand awareness", large base of employees
+and capital access, they should (IMO) do better... and so should the stock
+price.
+
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 9:52:00 PM
+From:Paul Senior
+
+Joe Dancy: re: ICO.
+
+Joe, thanks for those links. I've been looking around for your book reviews.
+Now I see where they are.
+
+Followed up with one of your recommendations: buying small amount of ICO @ 14
+1/16 today. Company does look to be misperceived by investment community.
+Trading a couple of dollars above tangible bv (from somebody's calculation- not
+mine), and with possible benefitting merger and increased sales, I think it
+might work out.
+
+But of course, I thought the same about SFLX, and after 18 months, I gave up.
+
+Again... I hope you can pick stocks as well as you write about 'em -g-. Paul
+Senior
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 9:57:00 PM
+From:Paul Senior
+
+Hi Shane: FYI, buying two net-nets today.
+
+TCSI bought @ 2. 13/32; I calc. net-net @ $2.46
+
+DAIO bought @ 2. 1/2; I calc. net-net @ $3.53
+
+Both companies tech stocks with lot of cash in till and little long term debt.
+Additional margin of safety -- in my own mind anyway-- by splitting funds among
+more than just one company.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 10:00:00 PM
+From:James Clarke
+
+re: TOY
+You're right, Paul, Toys R Us is in the crosshairs of the e-tailers. But that
+is not why their stock has gone from 40 to 15, as you know. As you said, it is
+because they have been abysmal allocators of capital.
+
+I talked to management recently and learned that they are refusing to be "the
+warehouse of the industry" anymore. Speaks volumes about their past when they
+tolerated that. If you don't see inventory turns increasing soon, get out of
+the stock. If inventories do what they are supposed to, I would hang on until
+just before the Christmas season and then reevaluate. If they come through on
+their promises - and they have made plenty of promises before - you could make
+a good deal of money on this dog in the next twelve months.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/25/1999 10:34:00 PM
+From:Investor2
+
+RE: Inacom Corp
+
+Very interesting. Earnings growth of 17% over the last 5 years, projected
+growth of 19% over the next five years, a price-to-book of 0.57, and a P/E of
+6.
+
+1. What products do they make? i.e., what does "information technology products
+and technology management services" mean?
+
+2. Why are the P/E, P/B, etc, so low? i.e., what are the negatives?
+
+Best wishes,
+
+I2
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 1:48:00 AM
+From:James Clarke
+
+Heads up from the Buffett thread on Ralston Purina (RAL)
+
+Missed earnings today and dropped 2 points. This one was very interesting even
+before the drop. In my opinion this is a Buffett-type business (at least the
+pet food side). There are rumors of a spinoff of the battery business and there
+is some other interesting stuff on the balance sheet if you take a good look (I
+don't know if they still have the DuPont shares, but there was also a big
+holding in Interstate Bakeries last I checked.)
+
+I'll try to piece it together tomorrow. Gotta get some sleep. Case has an 8AM
+conference call tomorrow - they think investors should wake up the same time as
+farmers. :(
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 8:27:00 AM
+From:Dan Meleney
+
+Hi. Just an intro and a thanks from a lurker who just joined.
+
+The price seemed steep but keeps going up. And since I made 20 times the price
+on one of the recommendations here, I figured it was time to join up so I can
+contribute as well.
+
+Of what has been discussed here as well as others I consider value stocks, I'm
+long:
+FLYT BNHN DSWLF HIHOF MWY NH USU
+
+To Paul and other followers of FLYT, are you out yet? It is up 75% from when it
+was discussed here. I think that still leaves selling for less than cash minus
+liabilities.
+
+My expertise is in securitization within finance companies, so if you ever have
+questions I can help with, ask away.
+
+Dan
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 9:18:00 AM
+From:James Clarke
+
+Adams Golf - sorry, my database had not updated, so I was looking at Friday's
+close rather than yesterday's. It jumped 10% yesterday to 4 1/4, not 3 5/8 as I
+said in my last post. Still cheap, but man is that annoying. I keep winding up
+one day behind these golf stocks.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 9:46:00 AM
+From:jeffbas
+
+ADGO is interesting with about $2 1/2 per share in cash. However, my general
+issue with stocks like this is that you almost always find that the trailing 12
+months earnings is a loss, they are currently losing money, industry conditions
+show many competing products that are similar, and an unclear view as to when
+if ever things will get better.
+
+That seems to be the case here and that makes a value stock for those few of us
+who know the business well enough to make an informed decision. What's the
+catalyst to change industry conditions?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 10:23:00 AM
+From:Madharry
+
+I too have been looking at toy and mat but what i am thinking is these
+companies have one big quarter so why get them now? There are so many things
+that could go wrong between now and Oct- Nov.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 10:24:00 AM
+From:Andrew
+
+re: pso - does that mean you're out and traded it for a point or two? doesn't
+sound like you.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 11:59:00 AM
+From:Paul Senior
+
+Hi Mike: re UBB and funds. I see that at least one mutual fund manager who I've
+reported as recommending UBB -- it turn out now-- he says now he has been
+hedged on the rial-but he never said that in any of his media interviews. Much
+easier to be bullish on UBB when you are in a hedged position. I believe UBB
+holds a lot of Brazilian debt; I don't know where the rial will settle; and I
+don't understand what turmoil it will cause businesses and individuals. While
+this may be factored already into the price of UBB, UBB has traded below 8 in
+the first scare on devaluation. I would rather back off now and reenter at a
+later and maybe lower price.
+Mike, seems like that's what you've been doing with some of the other stocks
+we've both owned - TIE, etc. - and IMO, that's been much more effective (having
+an exit plan on bad news) than what I've been doing (holding as they
+disintegrate).
+
+With the UBB funds:
+I've also sold a small amount again of BMY (which I have been wrongly peeling
+off scale-up from 44 - I should have just been holding this one- that's all I
+needed to do. --Funny how a position or sale in one stock can have more of a
+potential or actual affect on a portfolio than a combined total of 25 other
+stocks).
+I've made purchases in past few days which you've seen posted here. Also have
+started a position in Kerr McGee (KMG) as a relative dividend play. And adding
+to defense contractor Northrup (NOC), electronics distributor Marshall
+Industries (MI), and entertainment stock Dave & Buster's (DANB).
+Paul
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 12:34:00 PM
+From:Paul Senior
+
+Dan Meleney: Yes, I still own FLYT. It was recommended by a Roger Thrash in
+July of last year, posts 4431 I think, and my comments on 4436. Essentially it
+was a net-net (from my brief analysis),and I decided to add it to a small
+package of net-nets that I've bought. I thought the company not only didn't
+even have a business, but the business plan they were proposing was crazy.
+Later on, after I bought,there was some reported news of a possibility that
+maybe some of the wiring or product they might have installed in the Swiss
+airliner that crashed might have been related to the alleged problem that might
+have contributed to causing that Swiss plane to crash. But of course you know
+all this already. Anyway, I am surprised this stock is trading higher than my
+buy price. Do you have a current opinion on FLYT?
+
+re your expertise in finance/securitization: I currently own at a loss, UC. Do
+you have an opinion on it?
+
+You bought a stock from this thread that went up 20x? Of course I am interested
+in that stock, but also who was the person who posted that stock and are there
+any more recommendations that person has made that we might revisit? Appreciate
+your comments. Paul Senior
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 12:58:00 PM
+From:Dan Meleney
+
+Paul, about UC and FLYT
+
+I haven't followed it but I'll look at UC.
+
+The stock that paid for SI was FLYT. I meant it went up 20 times the price of
+SI, not of what the stock price was. I bought at 5/8, before the 1:3 split. I
+put 7K in and it is worth about 12K now. Rounding that 5K gain down a bit and
+dividing by the $200 SI fee is the 20x. So I figured it was time to stop
+mooching and do my share.
+
+BTW, SI is switching from the flat fee to $60/6 months.
+
+In my DD on FLYT, I estimated I was getting 1 1/4 for my 5/8. Reverse split
+that's 3 3/4. Current price is about 3 1/4, but I'm concerned that they're
+about to throw money into black holes rather than give it back to us. I'm
+willing to lose the gain from any tax loss benefits that tehy might realize
+with the right acquisition. I'm selling 1/3 today. I'll probably sell the rest
+over the next few weeks.
+
+If only we could find lots of ugly no-brainers like the buy FLYT was. Perhaps
+watching for "going out of business" signs from recent IPOs would work. I
+wonder if there are a fair number that realize their technology won't work and
+they stop their R&D before the cash runs out.
+
+Dan
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 1:24:00 PM
+From:Paul Senior
+
+Dan M. re: FLYT. Okay, I agree. Time to take some profits here and redeploy
+funds. Sold @ 3 5/16. eom
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 2:48:00 PM
+From:Tony Joines
+
+The message referenced below suggests that Children's Broadcasting
+(AAHS) is in a similar position to FLYT - discontinued its main
+business, and is holding cash from sale of assets. It might be
+worth a look.
+
+#reply-7482616
+
+t.j
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 3:54:00 PM
+From:James Clarke
+
+<<ADGO is interesting with about $2 1/2 per share in cash. However, my general
+issue with stocks like this is that you almost always find that the trailing 12
+months earnings is a loss, they are currently losing money, industry conditions
+show many competing products that are similar, and an unclear view as to when
+if ever things will get better.>>
+Don't know which stock you have ADGO mixed up with. This company made 54 cents
+last summer. It trades at something like 2 or 3 times trailing earnings is you
+strip out the cash. Are those earnings growing at a nice predictable 15%? Of
+course not. So that's where the fun begins.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 4:00:00 PM
+From:James Clarke
+
+I traded PSO for a point or two twice. That makes about 3 points on a $6 stock.
+I'll take that. Why doesn't that sound like me? If I start getting that
+predictable, I'm doing something wrong. You will find I sell with a hairtrigger
+target in some cases but very reluctantly in others. I have no desire to
+roundtrip a low quality business like PSO over and over again if I can make the
+same money two or three times. If the thing takes a moonshot to 15, I won't
+complain because that was not why I bought it. I would be satisfied with the
+no-risk 30% I had targeted. And I at least think I stated publicly that I was
+out of the stock if that's what you're getting at - I try not to recommend a
+stock and then leaving people hanging long after I'm gone - in this kind of
+forum it can be tough though.
+
+JJC
+%EOM----------------------
+
+%BOM---------------------
+Date:1/26/1999 8:01:00 PM
+From:jeffbas
+
+On ADGO, Yahoo shows a trailing 12 months loss of $.37 and the company
+announced a current loss, and poor industry conditions prevail.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 1:54:00 AM
+From:James Clarke
+
+Warning: long post. re: Adams Golf. I think some of you might really like this
+one. But if you're not into long posts, stop now.
+
+Check the financials on EDGAR for the earnings numbers, and you will get a much
+different picture. (I am going to go partially balistic here, but it is not
+directed at Jeff Bash. If he had really gone at me about my reasoning on the
+investment it would be, but he just posted one observation from the 10 second
+drill we all do regularly when we see somebody post a ticker on this thread -
+it is the advocate's responsibility to make the case, which I am about to do.)
+
+First I want to point out something about Yahoo, Baseline and all those other
+"services". The dirty little secret there is EVERYBODY USES THEM FOR THEIR
+INITIAL SCREENS. If a number is wrong, or just misleading because the robot
+does not understand some glitch in the financials, you've got an advantage over
+99% of investors if you notice the error. This is called a market inefficency.
+Market inefficencies are why value investors bother to wake up in the morning.
+Understanding what these databases systematically get wrong is something we all
+might want to spend some time on. ADGO is an extreme example. Of course this
+will do none of us any good if we use the same faulty sources. God created the
+10-K for a reason.
+
+It boggles my mind how often I hear my colleagues - well paid institutional
+investors - argue with my analysis of an SEC financial statement because some
+computer database on their laptop shows a different number. This is a dirty
+little secret of the investment management business. The guys managing your
+mutual fund - I would bet even odds - don't read the basic SEC financials of
+half their stocks before they buy them. Call me stodgy, but that is inexcusable
+for any investor, institutional or individual. Especially institutional. They
+don't tell you that in their quarterly letters, do they?
+
+I have never used the Yahoo "fundamentals" database, but I just found it to
+figure out where the devil Jeff found such a wrong trailing 12 months earnings
+number for ADGO. When I saw it it just made me laugh - once again, not at Jeff,
+but at Yahoo posting these numbers as if they are fact. The -0.37 figure is
+their 1997 loss. That number is a year old. Before it was a public company.
+Certainly relevant, but not if you're looking for a trailing 12 month number.
+Lets take one more step. The prospectus shows that the earnings for 1997 were
+grossly distorted by a huge one-time expense. I could easily argue that 1997
+earnings were actually a PROFIT of $0.60 per share. That means by my
+calculations trailing 12 month net income is $1.17 per share. (I have been
+doing this on the fly, bouncing between EDGAR and this message, WOW, this stock
+is even cheaper than I thought! Before I did this, I thought trailing 12 was
+half what it is!) The Baseline database (the crutch for lazy institutional
+investors) misses half of ADGO's cash on the balance sheet because it is
+accounted for as long term marketable securities - so in their database it
+looks like fixed assets! And on Baseline's cash flow statement, believe it or
+not, they call it capital expenditure when ADGO invested its cash in longer
+term securities! Talk about getting a distorted picture of a business!
+
+This all boils down to three points:
+1) You've got a $4 1/4 stock with $2.75 in cash and substantial trailing
+earnings.
+2) Yahoo and the similar crutches institutional investors use to avoid reading
+SEC documents are often very wrong. I am not playing holier than though. WHAT I
+AM SAYING IS THIS IS A MARKET INEFFICIENCY. COULD THIS BE THE REASON WHY THIS
+STOCK IS SO CHEAP? THAT WHEN I DO MY [NEAR-NET/NET + PROFITABLE] SCREENS IT
+DOES NOT COME UP? AND IF IT DID IT WOULD NOT TRADE AT THIS PRICE BECAUSE 10
+MILLION INSTITUTIONAL INVESTORS WOULD HAVE FOUND IT SIX MONTHS AGO?
+
+I agree with you on the industry - its miserable in the long term. But I have
+no intention of investing in Adams Golf for the long term. This is pure Ben
+Graham if I can nail down the analysis. I'm not there yet. There are questions
+I want to ask this company. I also want to see the December balance sheet to
+see how much cash they burned to launch this new product. Their past use of
+capital leads me to infer "not enough to matter". This opportunity looks good
+enough that I will sleep on the idea of buying half a position tomorrow at the
+open.
+
+It looks a lot like a textbook Graham play with the added benefit of an
+industry with manic investor psychology. Put those two together, and it means
+"low risk potential triple in six months". That is very different from PSO. Or
+maybe I'm missing something huge. I know the industry sucks. I have my Graham
+hat on here, not my Buffett hat.
+
+One last thing. I may buy this tomorrow for the reasons above. But there is one
+reason why I would wait. And if you want to do your own homework to check my
+facts, it is not fair for me to post the good things without the bad one. I
+have heard that product returns under warranty are huge. Just a rumor, and it
+does not show up in the financials. It is certainly something I will ask the
+company, but they are in a blackout until they release earnings next week.
+
+Sorry for the long post - I have never done a post while I was doing research.
+If it reads like a stream of consciousness, that's why. But if it makes us
+money, who cares?
+
+Substantive feedback is extremely welcome. Has anybody used their products?
+Does anybody know the new products? Does anybody get a different read from the
+financials than I got? If I'm wrong tell me now before I suck a lot of other
+people into an error.
+
+I HAVE NOT DONE THE HOMEWORK I WOULD CONSIDER SUFFICIENT FOR A CONSERVATIVE
+INVESTMENT. CHECK MY FACTS, AND DIG DEEPER. OTHERWISE I DON'T WANT TO HEAR
+ABOUT IT IF THIS GOES TO 2 AFTER THE EARNINGS REPORT NEXT WEEK.
+
+JJC
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 2:09:00 AM
+From:jeffbas
+
+Jim, thanks for the details. I do do my homework on ones I really am interested
+in or buy. If warranty returns are huge doesn't that have
+not only the direct financial implications but also the indirect ones that
+their product design or quality is unimpressive.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 2:21:00 AM
+From:James Clarke
+
+I think I made it the first point of my long post, and if I didn't I'll say it
+again, I was not disparaging Jeff's research at all, because his post clearly
+was not intended to be in-depth research. On this forum, a post is always
+directed as a "response", and his post just happened to be the one I linked
+off. If my post disparaged Jeff in any way, I sincerely apologize.
+
+And obviously the warranty issue could be huge for a product like this. I take
+the rumor seriously, and that is why I included it before I posted the message.
+I have not had a chance to grill management yet, but the fact that it does not
+show up in historic financials gives me some, but not complete, comfore.
+
+JJC
+
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 8:31:00 AM
+From:Dan Meleney
+
+Paul, re UC
+
+I need to review the 10Q, but I went through S&P and Zach's reports. This looks
+interesting.
+
+The keys are all off balance sheet related to the $6B of managed portfolio:
+Questions I'll be asking myself are:
+Are the securitizations term deals or CP deals?
+What's the potential hedge risk?
+What's the servicing fee? (this could be a significant source of future income)
+Where is the contingent obligation to repurchase? How big is it?
+Hom much of the receivables are really overcollateralization for the
+securitizations?
+Have writeoffs and delinquencies stabilized?
+How are writeoffs carried on books? At what % of market value?
+
+My first glance tells me there is a reasonable margin of safety between the
+book value and the price. DD will be needed to see if it is enough to cover the
+risk.
+
+I'll look at this like FLYT but with one off balance sheet item:
+(liquidation value of assets MINUS all liabilities MINUS my additional estimate
+of unreserved future losses) / # shares to compare to the current price.
+
+Are you looking at this as other than an asset play?
+
+Dan
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 9:05:00 AM
+From:jeffbas
+
+Jim, I did not take your post as disparaging me. But thanks for your
+sensitivity anyway. This is one of the most polite and dignified threads
+around.
+
+My key point on the returns was not the financial impact, since they have a
+strong balance sheet, but the issue that it is not a good sign in a fragmented
+industry with a tough time differentiating one product from another to have a
+company with possibly an also ran product line.
+Enough said.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 9:16:00 AM
+From:sjemmeri
+
+The internets are indicated up big this morning - it might
+be a good day for those looking to take some short nibbles.
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 9:41:00 AM
+From:Wallace Rivers
+
+Have we ever discussed Hardinge (HDNG) on this thread? P/S about .6, P/B about
+.9, PE about 8. Facing tough times currently, trading at/near 52 week low.
+Great balance sheet, per my recollection.
+Somewhat OT, can you believe what this "analyst" is saying about E-bay? Raising
+price target from 100 to 360, because the company is projected to make .55 in
+'00! Seems reasonable, to give it a 654 multiple on future earnings!
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 3:37:00 PM
+From:Wallace Rivers
+
+Paul,
+Bought into TOY today. IMHO is cheap on most valuation bases we look at here on
+the VI thread. The pressure from Wal Mart, Target, is well known. They will
+have negative comparisons, but this is the time contrarians become interested
+in what is still a world class franchise. It also seems to be holding the 52
+week low (at least for now!!)
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 7:08:00 PM
+From:Freedom Fighter
+
+James,
+
+>>And Wayne, was that you in Barrons? Seems like I've heard that argument
+somewhere before... Well done.<<
+
+Yep, it was me. It's my standard "stocks are discounting a perfection that may
+not be sustainable" speech. Thanks for noticing.
+
+Wayne
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 7:19:00 PM
+From:jeffbas
+
+By the way, I have noticed that my portfolio has been gradually deteriorating
+ever since the Internets hit their highs. I did not think anyone would enjoy
+their correction, except shorts. Have others seen this?
+%EOM----------------------
+
+%BOM---------------------
+Date:1/27/1999 8:07:00 PM
+From:jeffbas
+
+Here is a misnomer for this thread - a small biotech "value" stock --
+GZMO ($2 1/2):
+
+-This is a stock that tracks (like the old GM class E stock, for
+example) the performance of the described business units that are part
+of the $4 billion market cap parent company GENZ. Company has access to capital
+and resources of parent company like no other small company its size in its
+field, so if they make progress will probably not face running out of money. It
+is not an independent company.
+
+-Current market cap is something like $30 plus million, which is
+mispriced if the research initiatives and business make any sense.
+Probably a lot of selling by institutions who got this stock last fall
+as a dividend on GENZ helped knock it down from $8 to 2 ($15 12 months
+high is wrong), since many such institutions probably can't hold such a stock.
+
+-The parent company in structuring this company retired all the significant
+outstanding debt related to the sub's businesses by issuing stock at a stated
+value of $6+.
+
+-The FDA now has a fast track strategy for cancer drugs, which in effect makes
+cancer research a more attractive field relative to ROI.
+
+-The collaborations with companies and research institutions are top rate. My
+daughter just got a PhD in cancer research and says they are working where the
+action is.
+
+I have never considered small biotech companies because all they do is burn
+money. This is no different in that respect except it seems to cover an awful
+lot of bases in an important area, with a corporate structure that seems to
+offer a good shot at realizing the benefits of its research if successful - and
+a very low valuation.
+
+Thus, this is the only microcap biotech I have ever seen fit to buy, at current
+levels. Anyone interested should read the 4/98 S3 at GENZ on EDGAR (very
+complete) and all the sections of following GENZ 10Q's relating to GZMO.
+
+My view is that at this market cap ANY material announced success
+will deliver a 3-5 bagger.
+%EOM----------------------
+
