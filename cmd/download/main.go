@@ -19,7 +19,7 @@ var msgURLTemplate = "http://www.siliconinvestor.com/readmsgs.aspx?subjectid=%v&
 var startMsg = 0
 var endMsg = 50000
 var subjectID = "10036"
-var outputFolder = "downloads"
+var outputFolder = "../../downloads"
 var delayBetwenReq = time.Second * 10
 
 var numPostsRegex = `<a title=['"]Jump to posts['"].*?>(\d+)</a>`
