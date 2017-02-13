@@ -6,6 +6,8 @@ import (
 	"os"
 	"path"
 	"regexp"
+	"sort"
+	"strconv"
 	"strings"
 )
 
@@ -15,6 +17,8 @@ import (
 
 var folder = "../../downloads"
 var from = "Michael Burry"
+
+type messages []string
 
 func readFileNames(folder string) []string {
 	dir, err := os.Open(folder)
@@ -46,6 +50,13 @@ func readFileNames(folder string) []string {
 }
 
 func extractMessages(fileNames []string, from string) string {
+
+	msgs := messages(fileNames)
+
+	sort.Sort(&msgs)
+
+	fileNames = []string(msgs)
+
 	var messageExtract = `((?s)%BOM.*?%EOM.*?\n)`
 	var messageExtractRex = regexp.MustCompile(messageExtract)
 	var result string
@@ -71,6 +82,39 @@ func extractMessages(fileNames []string, from string) string {
 	}
 
 	return result
+}
+
+var msgNumRex = regexp.MustCompile(`message-(.*)-cleaned`)
+
+func (s *messages) Len() int {
+	return len([]string(*s))
+}
+
+func (s *messages) Less(i, j int) bool {
+	sm := *s
+
+	numStr1 := msgNumRex.FindStringSubmatch(sm[i])[1]
+	numStr2 := msgNumRex.FindStringSubmatch(sm[j])[1]
+
+	num1, err := strconv.Atoi(numStr1)
+	if err != nil {
+		log.Fatalln("Error when converting", numStr1, "to integer")
+	}
+
+	num2, err := strconv.Atoi(numStr2)
+	if err != nil {
+		log.Fatalln("Error when converting", numStr2, "to integer")
+	}
+
+	return num1 < num2
+}
+
+func (s *messages) Swap(i, j int) {
+	sm := *s
+
+	tmp := sm[j]
+	sm[j] = sm[i]
+	sm[i] = tmp
 }
 
 func main() {
