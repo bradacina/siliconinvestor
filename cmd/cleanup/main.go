@@ -14,7 +14,7 @@ import (
 var spaceReplace = regexp.MustCompile(`[\s]+`)
 var emptyLinesReplace = regexp.MustCompile(`\n\n\n+`)
 
-var folder = "../downloads"
+var folder = "../../downloads"
 var splitAfter = 79 // how many chars per line max
 
 func readFileNames() []string {
